@@ -1,0 +1,25 @@
+discipline_title,slug_game,event_title,event_gender,medal_type,participant_type,participant_title,country_name,country_code,country_3_letter_code
+Swimming,Paris-2024,Men's 4 x 200m Freestyle Relay,Men,GOLD,GameTeam,Great Britain,Great Britain,GB,GBR
+Swimming,Paris-2024,Men's 4 x 200m Freestyle Relay,Men,SILVER,GameTeam,United States of America,United States of America,US,USA
+Swimming,Paris-2024,Men's 4 x 200m Freestyle Relay,Men,BRONZE,GameTeam,Australia,Australia,AU,AUS
+Swimming,Paris-2024,Men's 4 x 100m Freestyle Relay,Men,GOLD,GameTeam,United States of America,United States of America,US,USA
+Swimming,Paris-2024,Men's 4 x 100m Freestyle Relay,Men,SILVER,GameTeam,Australia,Australia,AU,AUS
+Swimming,Paris-2024,Men's 4 x 100m Freestyle Relay,Men,BRONZE,GameTeam,Italy,Italy,IT,ITA
+Swimming,Paris-2024,Women's 4 x 100m Freestyle Relay,Women,GOLD,GameTeam,Australia,Australia,AU,AUS
+Swimming,Paris-2024,Women's 4 x 100m Freestyle Relay,Women,SILVER,GameTeam,United States of America,United States of America,US,USA
+Swimming,Paris-2024,Women's 4 x 100m Freestyle Relay,Women,BRONZE,GameTeam,China,People's Republic of China,CN,CHN
+Swimming,Paris-2024,Women's 4 x 200m Freestyle Relay,Women,GOLD,GameTeam,Australia,Australia,AU,AUS
+Swimming,Paris-2024,Women's 4 x 200m Freestyle Relay,Women,SILVER,GameTeam,United States of America,United States of America,US,USA
+Swimming,Paris-2024,Women's 4 x 200m Freestyle Relay,Women,BRONZE,GameTeam,China,People's Republic of China,CN,CHN
+Athletics,Paris-2024,Women's 4 x 100m Relay,Women,GOLD,GameTeam,United States of America,United States of America,US,USA
+Athletics,Paris-2024,Women's 4 x 100m Relay,Women,SILVER,GameTeam,Great Britain,Great Britain,GB,GBR
+Athletics,Paris-2024,Women's 4 x 100m Relay,Women,BRONZE,GameTeam,Germany,Germany,DE,GER
+Athletics,Paris-2024,Women's 4 x 400m Relay,Women,GOLD,GameTeam,United States of America,United States of America,US,USA
+Athletics,Paris-2024,Women's 4 x 400m Relay,Women,SILVER,GameTeam,Netherlands,Netherlands,NL,NED
+Athletics,Paris-2024,Women's 4 x 400m Relay,Women,BRONZE,GameTeam,Great Britain,Great Britain,GB,GBR
+Athletics,Paris-2024,Men's 4 x 100m Relay,Men,GOLD,GameTeam,Canada,Canada,CA,CAN
+Athletics,Paris-2024,Men's 4 x 100m Relay,Men,SILVER,GameTeam,South Africa team,South Africa,ZA,RSA
+Athletics,Paris-2024,Men's 4 x 100m Relay,Men,BRONZE,GameTeam,Great Britain,Great Britain,GB,GBR
+Athletics,Paris-2024,Men's 4 x 400m Relay,Men,GOLD,GameTeam,United States of America,United States of America,US,USA
+Athletics,Paris-2024,Men's 4 x 400m Relay,Men,SILVER,GameTeam,Botswana,Botswana,BW,BOT
+Athletics,Paris-2024,Men's 4 x 400m Relay,Men,BRONZE,GameTeam,Great Britain,Great Britain,GB,GBR
