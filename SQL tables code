@@ -1,0 +1,37 @@
+TABLES CREATED 8-15-24
+ 
+-- Create a new table
+CREATE TABLE results (
+ discipline_title SERIAL PRIMARY KEY,
+  event_title VARCHAR(30) NOT NULL,
+  Slug_gameDATE NOT NULL,
+  medal_type VARCHAR(30) NOT NULL,
+  country_name VARCHAR(30) NOT NULL,
+  value_unit VARCHAR(30) NOT NULL,
+ );
+ 
+-- Create a new table
+  CREATE TABLE Olympic_host (
+  Country-Year  SERIAL PRIMARY KEY,
+  game_location VARCHAR(10) NOT NULL,
+  game_season VARCHAR(30)
+  game_year
+   
+);
+
+-- Create a new table
+CREATE TABLE teams (
+  country VARCHAR(30) NOT NULL,
+  discipline  SERIAL PRIMARY KEY,
+  gender VARCHAR(30) NOT NULL,
+  season VARCHAR(30) NOT NULL,
+  host_country VARCHAR(30) NOT NULL
+);
+
+  Race_id SERIAL PRIMARY KEY,
+  Country VARCHAR(30) NOT NULL,
+  Year DATE NOT NULL,
+  Event VARCHAR(30) NOT NULL,
+  Medal VARCHAR(30) NOT NULL,
+  Gender VARCHAR(30) NOT NULL,
+  Time TIME(30) NOT NULL  
