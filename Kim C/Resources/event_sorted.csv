@@ -1,154 +1,594 @@
 Discipline,Country,Event,Medal Type,Country-Year
-Swimming,Canada,Men's 4 x 100m Freestyle Relay,,paris-2024
+Swimming,United States of America,4x100m freestyle relay men,GOLD,los-angeles-1984
+Swimming,Soviet Union,4x100m freestyle relay men,SILVER,seoul-1988
+Swimming,Soviet Union,4x100m freestyle relay men,SILVER,munich-1972
+Swimming,Soviet Union,4x100m freestyle relay men,SILVER,mexico-city-1968
+Swimming,France,4x100m freestyle relay men,GOLD,london-2012
+Swimming,France,4x100m freestyle relay men,SILVER,beijing-2008
+Swimming,United States of America,4x100m freestyle relay men,BRONZE,athens-2004
+Swimming,United States of America,4x100m freestyle relay men,GOLD,atlanta-1996
+Swimming,United States of America,4x100m freestyle relay men,GOLD,barcelona-1992
+Swimming,United States of America,4x100m freestyle relay men,GOLD,beijing-2008
+Swimming,German Democratic Republic (Germany),4x100m freestyle relay men,BRONZE,munich-1972
+Swimming,United States of America,4x100m freestyle relay men,SILVER,london-2012
+Swimming,Russian Federation,4x100m freestyle relay men,SILVER,atlanta-1996
+Swimming,Russian Federation,4x100m freestyle relay men,BRONZE,london-2012
+Swimming,United States of America,4x100m freestyle relay men,GOLD,mexico-city-1968
+Swimming,South Africa,4x100m freestyle relay men,GOLD,athens-2004
+Swimming,United States of America,4x100m freestyle relay men,GOLD,munich-1972
+Swimming,United States of America,4x100m freestyle relay men,GOLD,seoul-1988
+Swimming,United States of America,4x100m freestyle relay men,SILVER,sydney-2000
+Swimming,United States of America,4x100m freestyle relay men,GOLD,tokyo-1964
+Swimming,Brazil,4x100m freestyle relay men,BRONZE,sydney-2000
+Swimming,Unified Team,4x100m freestyle relay men,SILVER,barcelona-1992
+Swimming,German Democratic Republic (Germany),4x100m freestyle relay men,BRONZE,seoul-1988
+Swimming,Netherlands,4x100m freestyle relay men,SILVER,athens-2004
+Swimming,Germany,4x100m freestyle relay men,BRONZE,atlanta-1996
+Swimming,Australia,4x100m freestyle relay men,BRONZE,mexico-city-1968
+Swimming,Australia,4x100m freestyle relay men,SILVER,los-angeles-1984
+Swimming,Australia,4x100m freestyle relay men,BRONZE,beijing-2008
+Swimming,Germany,4x100m freestyle relay men,SILVER,tokyo-1964
+Swimming,Germany,4x100m freestyle relay men,BRONZE,barcelona-1992
+Swimming,Australia,4x100m freestyle relay men,GOLD,sydney-2000
+Swimming,Australia,4x100m freestyle relay men,BRONZE,tokyo-1964
+Swimming,Sweden,4x100m freestyle relay men,BRONZE,los-angeles-1984
+Swimming,United States of America,4x100m freestyle relay women,BRONZE,berlin-1936
+Swimming,United States of America,4x100m freestyle relay women,SILVER,beijing-2008
+Swimming,United States of America,4x100m freestyle relay women,GOLD,london-1948
+Swimming,Great Britain,4x100m freestyle relay women,BRONZE,los-angeles-1932
+Swimming,United States of America,4x100m freestyle relay women,GOLD,barcelona-1992
+Swimming,United States of America,4x100m freestyle relay women,GOLD,atlanta-1996
+Swimming,United States of America,4x100m freestyle relay women,BRONZE,helsinki-1952
+Swimming,German Democratic Republic (Germany),4x100m freestyle relay women,SILVER,munich-1972
+Swimming,United States of America,4x100m freestyle relay women,GOLD,los-angeles-1932
+Swimming,Denmark,4x100m freestyle relay women,SILVER,london-1948
+Swimming,United States of America,4x100m freestyle relay women,GOLD,los-angeles-1984
+Swimming,United States of America,4x100m freestyle relay women,SILVER,melbourne-1956
+Swimming,United States of America,4x100m freestyle relay women,GOLD,mexico-city-1968
+Swimming,United States of America,4x100m freestyle relay women,GOLD,montreal-1976
+Swimming,United States of America,4x100m freestyle relay women,GOLD,munich-1972
+Swimming,United States of America,4x100m freestyle relay women,GOLD,paris-1924
+Swimming,United States of America,4x100m freestyle relay women,SILVER,rio-2016
+Swimming,United States of America,4x100m freestyle relay women,GOLD,rome-1960
+Swimming,Canada,4x100m freestyle relay women,BRONZE,rio-2016
+Swimming,Canada,4x100m freestyle relay women,BRONZE,montreal-1976
+Swimming,United States of America,4x100m freestyle relay women,BRONZE,london-2012
+Swimming,United States of America,4x100m freestyle relay women,SILVER,athens-2004
+Swimming,Sweden,4x100m freestyle relay women,BRONZE,sydney-2000
+Swimming,United States of America,4x100m freestyle relay women,GOLD,amsterdam-1928
+Swimming,German Democratic Republic (Germany),4x100m freestyle relay women,GOLD,moscow-1980
+Swimming,German Democratic Republic (Germany),4x100m freestyle relay women,SILVER,montreal-1976
+Swimming,German Democratic Republic (Germany),4x100m freestyle relay women,SILVER,mexico-city-1968
+Swimming,People's Republic of China,4x100m freestyle relay women,SILVER,barcelona-1992
+Swimming,Sweden,4x100m freestyle relay women,BRONZE,antwerp-1920
+Swimming,Sweden,4x100m freestyle relay women,SILVER,moscow-1980
+Swimming,Germany,4x100m freestyle relay women,BRONZE,atlanta-1996
+Swimming,Germany,4x100m freestyle relay women,BRONZE,barcelona-1992
+Swimming,Germany,4x100m freestyle relay women,SILVER,berlin-1936
+Swimming,Canada,4x100m freestyle relay women,BRONZE,mexico-city-1968
+Swimming,Germany,4x100m freestyle relay women,BRONZE,rome-1960
+Swimming,Germany,4x100m freestyle relay women,SILVER,stockholm-1912
+Swimming,Great Britain,4x100m freestyle relay women,SILVER,amsterdam-1928
+Swimming,Federal Republic of Germany,4x100m freestyle relay women,BRONZE,munich-1972
+Swimming,Federal Republic of Germany,4x100m freestyle relay women,BRONZE,los-angeles-1984
+Swimming,Sweden,4x100m freestyle relay women,BRONZE,paris-1924
+Swimming,German Democratic Republic (Germany),4x100m freestyle relay women,GOLD,seoul-1988
+Swimming,Great Britain,4x100m freestyle relay women,GOLD,stockholm-1912
+Swimming,Great Britain,4x100m freestyle relay women,SILVER,paris-1924
+Swimming,United States of America,4x100m freestyle relay women,GOLD,antwerp-1920
+Swimming,United States of America,4x100m freestyle relay women,BRONZE,seoul-1988
+Swimming,Great Britain,4x100m freestyle relay women,SILVER,antwerp-1920
+Swimming,United States of America,4x100m freestyle relay women,GOLD,tokyo-1964
+Swimming,Austria,4x100m freestyle relay women,BRONZE,stockholm-1912
+Swimming,Netherlands,4x100m freestyle relay women,BRONZE,athens-2004
+Swimming,Netherlands,4x100m freestyle relay women,GOLD,beijing-2008
+Swimming,Netherlands,4x100m freestyle relay women,GOLD,berlin-1936
+Swimming,Netherlands,4x100m freestyle relay women,SILVER,helsinki-1952
+Swimming,Netherlands,4x100m freestyle relay women,BRONZE,london-1948
+Swimming,Netherlands,4x100m freestyle relay women,SILVER,london-2012
+Swimming,Netherlands,4x100m freestyle relay women,SILVER,los-angeles-1932
+Swimming,Netherlands,4x100m freestyle relay women,SILVER,los-angeles-1984
+Swimming,Netherlands,4x100m freestyle relay women,BRONZE,moscow-1980
+Swimming,South Africa,4x100m freestyle relay women,BRONZE,amsterdam-1928
+Swimming,Netherlands,4x100m freestyle relay women,SILVER,seoul-1988
+Swimming,Netherlands,4x100m freestyle relay women,BRONZE,tokyo-1964
+Swimming,Hungary,4x100m freestyle relay women,GOLD,helsinki-1952
+Swimming,Australia,4x100m freestyle relay women,SILVER,tokyo-1964
+Swimming,Australia,4x100m freestyle relay women,SILVER,rome-1960
+Swimming,Australia,4x100m freestyle relay women,GOLD,rio-2016
+Swimming,Australia,4x100m freestyle relay women,GOLD,melbourne-1956
+Swimming,Australia,4x100m freestyle relay women,GOLD,london-2012
+Swimming,Australia,4x100m freestyle relay women,BRONZE,beijing-2008
+Swimming,Australia,4x100m freestyle relay women,GOLD,athens-2004
+Swimming,People's Republic of China,4x100m freestyle relay women,SILVER,atlanta-1996
+Swimming,United States of America,4x100m freestyle relay women,GOLD,sydney-2000
+Swimming,South Africa,4x100m freestyle relay women,BRONZE,melbourne-1956
+Swimming,Netherlands,4x100m freestyle relay women,SILVER,sydney-2000
+Athletics,Japan,4x100m relay men,SILVER,beijing-2008
+Athletics,United States of America,4x100m relay men,GOLD,barcelona-1992
+Athletics,Sweden,4x100m relay men,SILVER,stockholm-1912
+Athletics,Sweden,4x100m relay men,BRONZE,antwerp-1920
+Athletics,Italy,4x100m relay men,BRONZE,los-angeles-1932
+Athletics,Italy,4x100m relay men,BRONZE,london-1948
+Athletics,Soviet Union,4x100m relay men,GOLD,seoul-1988
+Athletics,Canada,4x100m relay men,GOLD,atlanta-1996
+Athletics,Soviet Union,4x100m relay men,SILVER,rome-1960
+Athletics,Trinidad and Tobago,4x100m relay men,GOLD,beijing-2008
+Athletics,German Democratic Republic (Germany),4x100m relay men,SILVER,montreal-1976
+Athletics,Italy,4x100m relay men,SILVER,berlin-1936
+Athletics,Trinidad and Tobago,4x100m relay men,SILVER,london-2012
+Athletics,Poland,4x100m relay men,SILVER,tokyo-1964
+Athletics,United States of America,4x100m relay men,SILVER,atlanta-1996
+Athletics,United States of America,4x100m relay men,GOLD,berlin-1936
+Athletics,Cuba,4x100m relay men,BRONZE,barcelona-1992
+Athletics,Canada,4x100m relay men,BRONZE,los-angeles-1984
+Athletics,Great Britain,4x100m relay men,GOLD,athens-2004
+Athletics,Jamaica,4x100m relay men,GOLD,london-2012
+Athletics,Nigeria,4x100m relay men,BRONZE,athens-2004
+Athletics,Soviet Union,4x100m relay men,BRONZE,montreal-1976
+Athletics,Nigeria,4x100m relay men,SILVER,barcelona-1992
+Athletics,Germany,4x100m relay men,GOLD,rome-1960
+Athletics,Germany,4x100m relay men,BRONZE,melbourne-1956
+Athletics,Canada,4x100m relay men,BRONZE,rio-2016
+Athletics,Germany,4x100m relay men,SILVER,los-angeles-1932
+Athletics,Germany,4x100m relay men,SILVER,amsterdam-1928
+Athletics,Great Britain,4x100m relay men,GOLD,stockholm-1912
+Athletics,Great Britain,4x100m relay men,SILVER,seoul-1988
+Athletics,Great Britain,4x100m relay men,BRONZE,rome-1960
+Athletics,Great Britain,4x100m relay men,SILVER,paris-1924
+Athletics,Great Britain,4x100m relay men,SILVER,london-1948
+Athletics,Germany,4x100m relay men,BRONZE,berlin-1936
+Athletics,Jamaica,4x100m relay men,SILVER,los-angeles-1984
+Athletics,Cuba,4x100m relay men,SILVER,mexico-city-1968
+Athletics,Soviet Union,4x100m relay men,SILVER,munich-1972
+Athletics,United States of America,4x100m relay men,GOLD,melbourne-1956
+Athletics,Japan,4x100m relay men,SILVER,rio-2016
+Athletics,Netherlands,4x100m relay men,BRONZE,paris-1924
+Athletics,United States of America,4x100m relay men,GOLD,los-angeles-1984
+Athletics,United States of America,4x100m relay men,GOLD,los-angeles-1932
+Athletics,Soviet Union,4x100m relay men,GOLD,moscow-1980
+Athletics,United States of America,4x100m relay men,GOLD,mexico-city-1968
+Athletics,Soviet Union,4x100m relay men,SILVER,helsinki-1952
+Athletics,Brazil,4x100m relay men,BRONZE,atlanta-1996
+Athletics,United States of America,4x100m relay men,GOLD,london-1948
+Athletics,United States of America,4x100m relay men,GOLD,helsinki-1952
+Athletics,Federal Republic of Germany,4x100m relay men,BRONZE,munich-1972
+Athletics,Brazil,4x100m relay men,BRONZE,beijing-2008
+Athletics,Brazil,4x100m relay men,SILVER,sydney-2000
+Athletics,Soviet Union,4x100m relay men,SILVER,melbourne-1956
+Athletics,Poland,4x100m relay men,SILVER,moscow-1980
+Athletics,France,4x100m relay men,SILVER,antwerp-1920
+Athletics,France,4x100m relay men,BRONZE,mexico-city-1968
+Athletics,Cuba,4x100m relay men,BRONZE,sydney-2000
+Athletics,Great Britain,4x100m relay men,BRONZE,amsterdam-1928
+Athletics,United States of America,4x100m relay men,GOLD,tokyo-1964
+Athletics,United States of America,4x100m relay men,GOLD,sydney-2000
+Athletics,United States of America,4x100m relay men,SILVER,athens-2004
+Athletics,United States of America,4x100m relay men,GOLD,antwerp-1920
+Athletics,France,4x100m relay men,BRONZE,london-2012
+Athletics,United States of America,4x100m relay men,GOLD,amsterdam-1928
+Athletics,United States of America,4x100m relay men,GOLD,munich-1972
+Athletics,Hungary,4x100m relay men,BRONZE,helsinki-1952
+Athletics,United States of America,4x100m relay men,GOLD,montreal-1976
+Athletics,France,4x100m relay men,BRONZE,tokyo-1964
+Athletics,France,4x100m relay men,BRONZE,seoul-1988
+Athletics,France,4x100m relay men,BRONZE,moscow-1980
+Athletics,United States of America,4x100m relay men,GOLD,paris-1924
+Athletics,Jamaica,4x100m relay men,GOLD,rio-2016
+Athletics,United States of America,4x100m relay women,GOLD,los-angeles-1984
+Athletics,Great Britain,4x100m relay women,BRONZE,helsinki-1952
+Athletics,United States of America,4x100m relay women,SILVER,amsterdam-1928
+Athletics,United States of America,4x100m relay women,GOLD,atlanta-1996
+Athletics,United States of America,4x100m relay women,GOLD,barcelona-1992
+Athletics,United States of America,4x100m relay women,GOLD,berlin-1936
+Athletics,United States of America,4x100m relay women,GOLD,helsinki-1952
+Athletics,United States of America,4x100m relay women,GOLD,london-2012
+Athletics,United States of America,4x100m relay women,GOLD,los-angeles-1932
+Athletics,United States of America,4x100m relay women,GOLD,rome-1960
+Athletics,United States of America,4x100m relay women,BRONZE,melbourne-1956
+Athletics,United States of America,4x100m relay women,GOLD,mexico-city-1968
+Athletics,United States of America,4x100m relay women,GOLD,rio-2016
+Athletics,Great Britain,4x100m relay women,BRONZE,tokyo-1964
+Athletics,Great Britain,4x100m relay women,BRONZE,rio-2016
+Athletics,Great Britain,4x100m relay women,BRONZE,moscow-1980
+Athletics,Great Britain,4x100m relay women,SILVER,melbourne-1956
+Athletics,Great Britain,4x100m relay women,BRONZE,los-angeles-1984
+Athletics,Great Britain,4x100m relay women,BRONZE,los-angeles-1932
+Athletics,Great Britain,4x100m relay women,SILVER,berlin-1936
+Athletics,United States of America,4x100m relay women,GOLD,seoul-1988
+Athletics,Brazil,4x100m relay women,BRONZE,beijing-2008
+Athletics,United States of America,4x100m relay women,SILVER,tokyo-1964
+Athletics,German Democratic Republic (Germany),4x100m relay women,GOLD,moscow-1980
+Athletics,German Democratic Republic (Germany),4x100m relay women,GOLD,montreal-1976
+Athletics,Ukraine,4x100m relay women,BRONZE,london-2012
+Athletics,Soviet Union,4x100m relay women,BRONZE,seoul-1988
+Athletics,Soviet Union,4x100m relay women,SILVER,moscow-1980
+Athletics,Cuba,4x100m relay women,SILVER,mexico-city-1968
+Athletics,Soviet Union,4x100m relay women,BRONZE,montreal-1976
+Athletics,Cuba,4x100m relay women,BRONZE,munich-1972
+Athletics,Bahamas,4x100m relay women,SILVER,atlanta-1996
+Athletics,Bahamas,4x100m relay women,GOLD,sydney-2000
+Athletics,France,4x100m relay women,BRONZE,athens-2004
+Athletics,Soviet Union,4x100m relay women,BRONZE,mexico-city-1968
+Athletics,Netherlands,4x100m relay women,GOLD,london-1948
+Athletics,Belgium,4x100m relay women,GOLD,beijing-2008
+Athletics,Unified Team,4x100m relay women,SILVER,barcelona-1992
+Athletics,Federal Republic of Germany,4x100m relay women,GOLD,munich-1972
+Athletics,Federal Republic of Germany,4x100m relay women,SILVER,montreal-1976
+Athletics,German Democratic Republic (Germany),4x100m relay women,SILVER,munich-1972
+Athletics,United States of America,4x100m relay women,BRONZE,sydney-2000
+Athletics,German Democratic Republic (Germany),4x100m relay women,SILVER,seoul-1988
+Athletics,Canada,4x100m relay women,GOLD,amsterdam-1928
+Athletics,Australia,4x100m relay women,SILVER,london-1948
+Athletics,Australia,4x100m relay women,GOLD,melbourne-1956
+Athletics,Canada,4x100m relay women,SILVER,los-angeles-1984
+Athletics,Canada,4x100m relay women,SILVER,los-angeles-1932
+Athletics,Canada,4x100m relay women,BRONZE,london-1948
+Athletics,Poland,4x100m relay women,BRONZE,rome-1960
+Athletics,Nigeria,4x100m relay women,SILVER,beijing-2008
+Athletics,Nigeria,4x100m relay women,BRONZE,barcelona-1992
+Athletics,Jamaica,4x100m relay women,GOLD,athens-2004
+Athletics,Jamaica,4x100m relay women,BRONZE,atlanta-1996
+Athletics,Germany,4x100m relay women,SILVER,rome-1960
+Athletics,Germany,4x100m relay women,BRONZE,amsterdam-1928
+Athletics,Jamaica,4x100m relay women,SILVER,london-2012
+Athletics,Jamaica,4x100m relay women,SILVER,rio-2016
+Athletics,Poland,4x100m relay women,GOLD,tokyo-1964
+Athletics,Russian Federation,4x100m relay women,SILVER,athens-2004
+Athletics,Canada,4x100m relay women,BRONZE,berlin-1936
+Athletics,Jamaica,4x100m relay women,SILVER,sydney-2000
+Athletics,Germany,4x100m relay women,SILVER,helsinki-1952
+Swimming,Australasia,4x200m freestyle relay men,GOLD,stockholm-1912
+Swimming,Sweden,4x200m freestyle relay men,SILVER,barcelona-1992
+Swimming,Netherlands,4x200m freestyle relay men,BRONZE,sydney-2000
+Swimming,Russian Federation,4x200m freestyle relay men,SILVER,beijing-2008
+Swimming,Japan,4x200m freestyle relay men,BRONZE,tokyo-1964
+Swimming,Japan,4x200m freestyle relay men,SILVER,rome-1960
+Swimming,Japan,4x200m freestyle relay men,BRONZE,rio-2016
+Swimming,Japan,4x200m freestyle relay men,GOLD,los-angeles-1932
+Swimming,Japan,4x200m freestyle relay men,SILVER,helsinki-1952
+Swimming,Sweden,4x200m freestyle relay men,BRONZE,paris-1924
+Swimming,Japan,4x200m freestyle relay men,GOLD,berlin-1936
+Swimming,Soviet Union,4x200m freestyle relay men,BRONZE,melbourne-1956
+Swimming,Soviet Union,4x200m freestyle relay men,BRONZE,mexico-city-1968
+Swimming,Soviet Union,4x200m freestyle relay men,SILVER,montreal-1976
+Swimming,Soviet Union,4x200m freestyle relay men,GOLD,moscow-1980
+Swimming,Soviet Union,4x200m freestyle relay men,BRONZE,munich-1972
+Swimming,Italy,4x200m freestyle relay men,BRONZE,athens-2004
+Swimming,Sweden,4x200m freestyle relay men,SILVER,atlanta-1996
+Swimming,Japan,4x200m freestyle relay men,SILVER,amsterdam-1928
+Swimming,Hungary,4x200m freestyle relay men,BRONZE,los-angeles-1932
+Swimming,People's Republic of China,4x200m freestyle relay men,BRONZE,london-2012
+Swimming,Hungary,4x200m freestyle relay men,SILVER,london-1908
+Swimming,United States of America,4x200m freestyle relay men,GOLD,london-2012
+Swimming,United States of America,4x200m freestyle relay men,GOLD,london-1948
+Swimming,United States of America,4x200m freestyle relay men,BRONZE,london-1908
+Swimming,United States of America,4x200m freestyle relay men,GOLD,helsinki-1952
+Swimming,Brazil,4x200m freestyle relay men,BRONZE,moscow-1980
+Swimming,United States of America,4x200m freestyle relay men,SILVER,berlin-1936
+Swimming,United States of America,4x200m freestyle relay men,GOLD,beijing-2008
+Swimming,United States of America,4x200m freestyle relay men,SILVER,los-angeles-1932
+Swimming,United States of America,4x200m freestyle relay men,BRONZE,barcelona-1992
+Swimming,United States of America,4x200m freestyle relay men,GOLD,athens-2004
+Swimming,United States of America,4x200m freestyle relay men,GOLD,antwerp-1920
+Swimming,Hungary,4x200m freestyle relay men,SILVER,london-1948
+Swimming,Canada,4x200m freestyle relay men,BRONZE,amsterdam-1928
+Swimming,Federal Republic of Germany,4x200m freestyle relay men,SILVER,los-angeles-1984
+Swimming,Federal Republic of Germany,4x200m freestyle relay men,SILVER,munich-1972
+Swimming,Federal Republic of Germany,4x200m freestyle relay men,BRONZE,seoul-1988
+Swimming,United States of America,4x200m freestyle relay men,GOLD,atlanta-1996
+Swimming,United States of America,4x200m freestyle relay men,GOLD,los-angeles-1984
+Swimming,United States of America,4x200m freestyle relay men,SILVER,melbourne-1956
+Swimming,United States of America,4x200m freestyle relay men,GOLD,mexico-city-1968
+Swimming,Australia,4x200m freestyle relay men,SILVER,antwerp-1920
+Swimming,Australia,4x200m freestyle relay men,SILVER,athens-2004
+Swimming,Australia,4x200m freestyle relay men,BRONZE,beijing-2008
+Swimming,Australia,4x200m freestyle relay men,GOLD,melbourne-1956
+Swimming,Australia,4x200m freestyle relay men,SILVER,mexico-city-1968
+Swimming,Australia,4x200m freestyle relay men,SILVER,paris-1924
+Swimming,Australia,4x200m freestyle relay men,BRONZE,rome-1960
+Swimming,Australia,4x200m freestyle relay men,GOLD,sydney-2000
+Swimming,United States of America,4x200m freestyle relay men,GOLD,tokyo-1964
+Swimming,United States of America,4x200m freestyle relay men,SILVER,sydney-2000
+Swimming,United States of America,4x200m freestyle relay men,SILVER,stockholm-1912
+Swimming,United States of America,4x200m freestyle relay men,GOLD,seoul-1988
+Swimming,United States of America,4x200m freestyle relay men,GOLD,rome-1960
+Swimming,United States of America,4x200m freestyle relay men,GOLD,rio-2016
+Swimming,United States of America,4x200m freestyle relay men,GOLD,paris-1924
+Swimming,United States of America,4x200m freestyle relay men,GOLD,munich-1972
+Swimming,United States of America,4x200m freestyle relay men,GOLD,montreal-1976
+Swimming,France,4x200m freestyle relay men,BRONZE,helsinki-1952
+Swimming,France,4x200m freestyle relay men,BRONZE,london-1948
+Swimming,United States of America,4x200m freestyle relay men,GOLD,amsterdam-1928
+Swimming,France,4x200m freestyle relay men,SILVER,london-2012
+Swimming,Great Britain,4x200m freestyle relay men,BRONZE,antwerp-1920
+Swimming,Great Britain,4x200m freestyle relay men,GOLD,london-1908
+Swimming,German Democratic Republic (Germany),4x200m freestyle relay men,SILVER,seoul-1988
+Swimming,German Democratic Republic (Germany),4x200m freestyle relay men,SILVER,moscow-1980
+Swimming,Germany,4x200m freestyle relay men,BRONZE,atlanta-1996
+Swimming,Great Britain,4x200m freestyle relay men,BRONZE,los-angeles-1984
+Swimming,Great Britain,4x200m freestyle relay men,BRONZE,montreal-1976
+Swimming,Great Britain,4x200m freestyle relay men,SILVER,rio-2016
+Swimming,Germany,4x200m freestyle relay men,SILVER,tokyo-1964
+Swimming,Unified Team,4x200m freestyle relay men,GOLD,barcelona-1992
+Swimming,Hungary,4x200m freestyle relay men,BRONZE,berlin-1936
+Swimming,Great Britain,4x200m freestyle relay men,BRONZE,stockholm-1912
+Swimming,Germany,4x200m freestyle relay women,SILVER,atlanta-1996
+Swimming,Germany,4x200m freestyle relay women,BRONZE,sydney-2000
+Swimming,United States of America,4x200m freestyle relay women,GOLD,sydney-2000
+Swimming,People's Republic of China,4x200m freestyle relay women,SILVER,athens-2004
+Swimming,United States of America,4x200m freestyle relay women,GOLD,athens-2004
+Swimming,United States of America,4x200m freestyle relay women,GOLD,atlanta-1996
+Swimming,Australia,4x200m freestyle relay women,SILVER,sydney-2000
+Swimming,Australia,4x200m freestyle relay women,SILVER,rio-2016
+Swimming,Australia,4x200m freestyle relay women,SILVER,london-2012
+Swimming,People's Republic of China,4x200m freestyle relay women,SILVER,beijing-2008
+Swimming,United States of America,4x200m freestyle relay women,GOLD,rio-2016
+Swimming,United States of America,4x200m freestyle relay women,GOLD,london-2012
+Swimming,Australia,4x200m freestyle relay women,BRONZE,atlanta-1996
+Swimming,United States of America,4x200m freestyle relay women,BRONZE,beijing-2008
+Swimming,Australia,4x200m freestyle relay women,GOLD,beijing-2008
+Swimming,Germany,4x200m freestyle relay women,BRONZE,athens-2004
+Swimming,France,4x200m freestyle relay women,BRONZE,london-2012
+Swimming,Canada,4x200m freestyle relay women,BRONZE,rio-2016
+Athletics,South Africa,4x400m relay men,SILVER,antwerp-1920
+Athletics,United States of America,4x400m relay men,GOLD,tokyo-1964
+Athletics,United States of America,4x400m relay men,GOLD,stockholm-1912
+Athletics,United States of America,4x400m relay men,GOLD,seoul-1988
+Athletics,United States of America,4x400m relay men,GOLD,rome-1960
+Athletics,United States of America,4x400m relay men,GOLD,rio-2016
+Athletics,United States of America,4x400m relay men,GOLD,paris-1924
+Athletics,Trinidad and Tobago,4x400m relay men,BRONZE,tokyo-1964
+Athletics,Trinidad and Tobago,4x400m relay men,BRONZE,london-2012
+Athletics,United States of America,4x400m relay men,GOLD,montreal-1976
+Athletics,Poland,4x400m relay men,SILVER,montreal-1976
+Athletics,Soviet Union,4x400m relay men,GOLD,moscow-1980
+Athletics,United States of America,4x400m relay men,GOLD,mexico-city-1968
+Athletics,Sweden,4x400m relay men,BRONZE,london-1948
+Athletics,United States of America,4x400m relay men,GOLD,los-angeles-1984
+Athletics,United States of America,4x400m relay men,GOLD,los-angeles-1932
+Athletics,United States of America,4x400m relay men,SILVER,london-2012
+Athletics,United States of America,4x400m relay men,GOLD,london-1948
+Athletics,United States of America,4x400m relay men,SILVER,helsinki-1952
+Athletics,United States of America,4x400m relay men,SILVER,berlin-1936
+Athletics,Sweden,4x400m relay men,SILVER,paris-1924
+Athletics,United States of America,4x400m relay men,GOLD,beijing-2008
+Athletics,United States of America,4x400m relay men,GOLD,atlanta-1996
+Athletics,United States of America,4x400m relay men,GOLD,amsterdam-1928
+Athletics,United States of America,4x400m relay men,GOLD,athens-2004
+Athletics,United States of America,4x400m relay men,GOLD,melbourne-1956
+Athletics,United States of America,4x400m relay men,GOLD,barcelona-1992
+Athletics,West Indies Federation,4x400m relay men,BRONZE,rome-1960
+Athletics,Great Britain,4x400m relay men,SILVER,tokyo-1964
+Athletics,Germany,4x400m relay men,SILVER,amsterdam-1928
+Athletics,Germany,4x400m relay men,BRONZE,berlin-1936
+Athletics,Germany,4x400m relay men,BRONZE,helsinki-1952
+Athletics,Germany,4x400m relay men,SILVER,rome-1960
+Athletics,Great Britain,4x400m relay men,GOLD,antwerp-1920
+Athletics,Great Britain,4x400m relay men,SILVER,atlanta-1996
+Athletics,Great Britain,4x400m relay men,BRONZE,barcelona-1992
+Athletics,Great Britain,4x400m relay men,BRONZE,beijing-2008
+Athletics,Great Britain,4x400m relay men,GOLD,berlin-1936
+Athletics,German Democratic Republic (Germany),4x400m relay men,SILVER,moscow-1980
+Athletics,Great Britain,4x400m relay men,SILVER,los-angeles-1932
+Athletics,Great Britain,4x400m relay men,BRONZE,melbourne-1956
+Athletics,Great Britain,4x400m relay men,SILVER,munich-1972
+Athletics,Great Britain,4x400m relay men,BRONZE,paris-1924
+Athletics,Great Britain,4x400m relay men,BRONZE,stockholm-1912
+Athletics,Jamaica,4x400m relay men,SILVER,sydney-2000
+Athletics,Jamaica,4x400m relay men,SILVER,seoul-1988
+Athletics,Jamaica,4x400m relay men,SILVER,rio-2016
+Athletics,Jamaica,4x400m relay men,GOLD,helsinki-1952
+Athletics,Jamaica,4x400m relay men,BRONZE,atlanta-1996
+Athletics,Great Britain,4x400m relay men,SILVER,los-angeles-1984
+Athletics,Kenya,4x400m relay men,GOLD,munich-1972
+Athletics,Kenya,4x400m relay men,SILVER,mexico-city-1968
+Athletics,Federal Republic of Germany,4x400m relay men,BRONZE,seoul-1988
+Athletics,Federal Republic of Germany,4x400m relay men,BRONZE,montreal-1976
+Athletics,Federal Republic of Germany,4x400m relay men,BRONZE,mexico-city-1968
+Athletics,Cuba,4x400m relay men,SILVER,barcelona-1992
+Athletics,Canada,4x400m relay men,BRONZE,los-angeles-1932
+Athletics,Canada,4x400m relay men,BRONZE,amsterdam-1928
+Athletics,Bahamas,4x400m relay men,BRONZE,sydney-2000
+Athletics,France,4x400m relay men,BRONZE,antwerp-1920
+Athletics,Bahamas,4x400m relay men,BRONZE,rio-2016
+Athletics,Bahamas,4x400m relay men,SILVER,beijing-2008
+Athletics,Australia,4x400m relay men,SILVER,melbourne-1956
+Athletics,Nigeria,4x400m relay men,BRONZE,athens-2004
+Athletics,Nigeria,4x400m relay men,BRONZE,los-angeles-1984
+Athletics,Nigeria,4x400m relay men,GOLD,sydney-2000
+Athletics,Australia,4x400m relay men,SILVER,athens-2004
+Athletics,Bahamas,4x400m relay men,GOLD,london-2012
+Athletics,France,4x400m relay men,SILVER,london-1948
+Athletics,Italy,4x400m relay men,BRONZE,moscow-1980
+Athletics,France,4x400m relay men,BRONZE,munich-1972
+Athletics,France,4x400m relay men,SILVER,stockholm-1912
+Athletics,German Democratic Republic (Germany),4x400m relay women,GOLD,munich-1972
+Athletics,Unified Team,4x400m relay women,GOLD,barcelona-1992
+Athletics,Great Britain,4x400m relay women,BRONZE,rio-2016
+Athletics,Great Britain,4x400m relay women,BRONZE,moscow-1980
+Athletics,Great Britain,4x400m relay women,BRONZE,beijing-2008
+Athletics,Great Britain,4x400m relay women,BRONZE,barcelona-1992
+Athletics,United States of America,4x400m relay women,GOLD,rio-2016
+Athletics,United States of America,4x400m relay women,SILVER,munich-1972
+Athletics,United States of America,4x400m relay women,SILVER,montreal-1976
+Athletics,United States of America,4x400m relay women,GOLD,los-angeles-1984
+Athletics,United States of America,4x400m relay women,GOLD,london-2012
+Athletics,United States of America,4x400m relay women,GOLD,beijing-2008
+Athletics,United States of America,4x400m relay women,SILVER,barcelona-1992
+Athletics,United States of America,4x400m relay women,GOLD,atlanta-1996
+Athletics,Ukraine,4x400m relay women,BRONZE,london-2012
+Athletics,United States of America,4x400m relay women,GOLD,athens-2004
+Athletics,Canada,4x400m relay women,SILVER,los-angeles-1984
+Athletics,German Democratic Republic (Germany),4x400m relay women,GOLD,montreal-1976
+Athletics,German Democratic Republic (Germany),4x400m relay women,SILVER,moscow-1980
+Athletics,United States of America,4x400m relay women,GOLD,sydney-2000
+Athletics,Germany,4x400m relay women,BRONZE,atlanta-1996
+Athletics,Federal Republic of Germany,4x400m relay women,BRONZE,los-angeles-1984
+Athletics,Federal Republic of Germany,4x400m relay women,BRONZE,munich-1972
+Athletics,German Democratic Republic (Germany),4x400m relay women,BRONZE,seoul-1988
+Athletics,United States of America,4x400m relay women,SILVER,seoul-1988
+Athletics,Nigeria,4x400m relay women,SILVER,atlanta-1996
+Athletics,Jamaica,4x400m relay women,SILVER,london-2012
+Athletics,Soviet Union,4x400m relay women,BRONZE,montreal-1976
+Athletics,Russian Federation,4x400m relay women,SILVER,athens-2004
+Athletics,Soviet Union,4x400m relay women,GOLD,moscow-1980
+Athletics,Soviet Union,4x400m relay women,GOLD,seoul-1988
+Athletics,Russian Federation,4x400m relay women,BRONZE,sydney-2000
+Athletics,Jamaica,4x400m relay women,SILVER,sydney-2000
+Athletics,Jamaica,4x400m relay women,SILVER,rio-2016
+Athletics,Jamaica,4x400m relay women,SILVER,beijing-2008
+Athletics,Jamaica,4x400m relay women,BRONZE,athens-2004
+Swimming,Germany,Men's 4 x 100m Freestyle Relay,,paris-2024
 Swimming,United States,Men's 4 x 100m Freestyle Relay,,paris-2024
-Swimming,Hungary,Men's 4 x 100m Freestyle Relay,,paris-2024
-Swimming,Greece,Men's 4 x 100m Freestyle Relay,,paris-2024
-Swimming,Italy,Men's 4 x 100m Freestyle Relay,,paris-2024
-Swimming,Italy,Men's 4 x 100m Freestyle Relay,SILVER,tokyo-2020
-Swimming,Brazil,Men's 4 x 100m Freestyle Relay,,paris-2024
-Swimming,Great Britain,Men's 4 x 100m Freestyle Relay,,paris-2024
 Swimming,Japan,Men's 4 x 100m Freestyle Relay,,paris-2024
-Swimming,Switzerland,Men's 4 x 100m Freestyle Relay,,paris-2024
-Swimming,ROC,Men's 4 x 100m Freestyle Relay,,paris-2024
+Swimming,France,Men's 4 x 100m Freestyle Relay,,paris-2024
+Swimming,Italy,Men's 4 x 100m Freestyle Relay,SILVER,tokyo-2020
 Swimming,Serbia,Men's 4 x 100m Freestyle Relay,,paris-2024
+Swimming,Great Britain,Men's 4 x 100m Freestyle Relay,,paris-2024
+Swimming,Greece,Men's 4 x 100m Freestyle Relay,,paris-2024
+Swimming,Hungary,Men's 4 x 100m Freestyle Relay,,paris-2024
+Swimming,Italy,Men's 4 x 100m Freestyle Relay,,paris-2024
 Swimming,Netherlands,Men's 4 x 100m Freestyle Relay,,paris-2024
 Swimming,United States of America,Men's 4 x 100m Freestyle Relay,GOLD,tokyo-2020
-Swimming,Poland,Men's 4 x 100m Freestyle Relay,,paris-2024
-Swimming,France,Men's 4 x 100m Freestyle Relay,,paris-2024
-Swimming,Germany,Men's 4 x 100m Freestyle Relay,,paris-2024
-Swimming,Australia,Men's 4 x 100m Freestyle Relay,BRONZE,tokyo-2020
 Swimming,Australia,Men's 4 x 100m Freestyle Relay,,paris-2024
+Swimming,ROC,Men's 4 x 100m Freestyle Relay,,paris-2024
+Swimming,Australia,Men's 4 x 100m Freestyle Relay,BRONZE,tokyo-2020
+Swimming,Switzerland,Men's 4 x 100m Freestyle Relay,,paris-2024
+Swimming,Canada,Men's 4 x 100m Freestyle Relay,,paris-2024
+Swimming,Brazil,Men's 4 x 100m Freestyle Relay,,paris-2024
+Swimming,Poland,Men's 4 x 100m Freestyle Relay,,paris-2024
+Athletics,Brazil,Men's 4 x 100m Relay,,paris-2024
+Athletics,Jamaica,Men's 4 x 100m Relay,,paris-2024
+Athletics,South Africa,Men's 4 x 100m Relay,,paris-2024
 Athletics,France,Men's 4 x 100m Relay,,paris-2024
-Athletics,Trinidad & Tobago,Men's 4 x 100m Relay,,paris-2024
-Athletics,Denmark,Men's 4 x 100m Relay,,paris-2024
 Athletics,Ghana,Men's 4 x 100m Relay,,paris-2024
+Athletics,Germany,Men's 4 x 100m Relay,,paris-2024
+Athletics,China,Men's 4 x 100m Relay,,paris-2024
+Athletics,Japan,Men's 4 x 100m Relay,,paris-2024
+Athletics,Denmark,Men's 4 x 100m Relay,,paris-2024
+Athletics,Italy,Men's 4 x 100m Relay,GOLD,tokyo-2020
+Athletics,Netherlands,Men's 4 x 100m Relay,,paris-2024
+Athletics,Canada,Men's 4 x 100m Relay,,paris-2024
+Athletics,Canada,Men's 4 x 100m Relay,BRONZE,tokyo-2020
+Athletics,Italy,Men's 4 x 100m Relay,,paris-2024
+Athletics,Great Britain,Men's 4 x 100m Relay,SILVER,tokyo-2020
+Athletics,Turkey,Men's 4 x 100m Relay,,paris-2024
+Athletics,Trinidad & Tobago,Men's 4 x 100m Relay,,paris-2024
 Athletics,United States,Men's 4 x 100m Relay,,paris-2024
 Athletics,Great Britain,Men's 4 x 100m Relay,,paris-2024
-Athletics,China,Men's 4 x 100m Relay,,paris-2024
-Athletics,Great Britain,Men's 4 x 100m Relay,SILVER,tokyo-2020
-Athletics,Jamaica,Men's 4 x 100m Relay,,paris-2024
-Athletics,Netherlands,Men's 4 x 100m Relay,,paris-2024
-Athletics,South Africa,Men's 4 x 100m Relay,,paris-2024
-Athletics,Japan,Men's 4 x 100m Relay,,paris-2024
-Athletics,Brazil,Men's 4 x 100m Relay,,paris-2024
-Athletics,Italy,Men's 4 x 100m Relay,,paris-2024
-Athletics,Turkey,Men's 4 x 100m Relay,,paris-2024
-Athletics,Canada,Men's 4 x 100m Relay,BRONZE,tokyo-2020
-Athletics,Germany,Men's 4 x 100m Relay,,paris-2024
-Athletics,Italy,Men's 4 x 100m Relay,GOLD,tokyo-2020
-Athletics,Canada,Men's 4 x 100m Relay,,paris-2024
-Swimming,Italy,Men's 4 x 200m Freestyle Relay,,paris-2024
-Swimming,Great Britain,Men's 4 x 200m Freestyle Relay,GOLD,tokyo-2020
-Swimming,Great Britain,Men's 4 x 200m Freestyle Relay,,paris-2024
+Swimming,Republic of Korea,Men's 4 x 200m Freestyle Relay,,paris-2024
+Swimming,ROC,Men's 4 x 200m Freestyle Relay,SILVER,tokyo-2020
 Swimming,Switzerland,Men's 4 x 200m Freestyle Relay,,paris-2024
 Swimming,Hungary,Men's 4 x 200m Freestyle Relay,,paris-2024
-Swimming,Japan,Men's 4 x 200m Freestyle Relay,,paris-2024
-Swimming,Republic of Korea,Men's 4 x 200m Freestyle Relay,,paris-2024
-Swimming,Germany,Men's 4 x 200m Freestyle Relay,,paris-2024
-Swimming,Poland,Men's 4 x 200m Freestyle Relay,,paris-2024
-Swimming,ROC,Men's 4 x 200m Freestyle Relay,SILVER,tokyo-2020
-Swimming,Ireland,Men's 4 x 200m Freestyle Relay,,paris-2024
-Swimming,Israel,Men's 4 x 200m Freestyle Relay,,paris-2024
-Swimming,Brazil,Men's 4 x 200m Freestyle Relay,,paris-2024
 Swimming,Australia,Men's 4 x 200m Freestyle Relay,,paris-2024
+Swimming,France,Men's 4 x 200m Freestyle Relay,,paris-2024
+Swimming,ROC,Men's 4 x 200m Freestyle Relay,,paris-2024
+Swimming,Japan,Men's 4 x 200m Freestyle Relay,,paris-2024
 Swimming,Australia,Men's 4 x 200m Freestyle Relay,BRONZE,tokyo-2020
 Swimming,United States,Men's 4 x 200m Freestyle Relay,,paris-2024
 Swimming,China,Men's 4 x 200m Freestyle Relay,,paris-2024
-Swimming,ROC,Men's 4 x 200m Freestyle Relay,,paris-2024
-Swimming,France,Men's 4 x 200m Freestyle Relay,,paris-2024
-Athletics,Trinidad & Tobago,Men's 4 x 400m Relay,,paris-2024
-Athletics,Poland,Men's 4 x 400m Relay,,paris-2024
-Athletics,United States of America,Men's 4 x 400m Relay,GOLD,tokyo-2020
-Athletics,Netherlands,Men's 4 x 400m Relay,SILVER,tokyo-2020
-Athletics,Netherlands,Men's 4 x 400m Relay,,paris-2024
-Athletics,Belgium,Men's 4 x 400m Relay,,paris-2024
+Swimming,Germany,Men's 4 x 200m Freestyle Relay,,paris-2024
+Swimming,Brazil,Men's 4 x 200m Freestyle Relay,,paris-2024
+Swimming,Great Britain,Men's 4 x 200m Freestyle Relay,GOLD,tokyo-2020
+Swimming,Italy,Men's 4 x 200m Freestyle Relay,,paris-2024
+Swimming,Ireland,Men's 4 x 200m Freestyle Relay,,paris-2024
+Swimming,Poland,Men's 4 x 200m Freestyle Relay,,paris-2024
+Swimming,Israel,Men's 4 x 200m Freestyle Relay,,paris-2024
+Swimming,Great Britain,Men's 4 x 200m Freestyle Relay,,paris-2024
 Athletics,Botswana,Men's 4 x 400m Relay,,paris-2024
-Athletics,Japan,Men's 4 x 400m Relay,,paris-2024
-Athletics,Botswana,Men's 4 x 400m Relay,BRONZE,tokyo-2020
-Athletics,South Africa,Men's 4 x 400m Relay,,paris-2024
+Athletics,Netherlands,Men's 4 x 400m Relay,,paris-2024
 Athletics,Italy,Men's 4 x 400m Relay,,paris-2024
 Athletics,India,Men's 4 x 400m Relay,,paris-2024
+Athletics,Poland,Men's 4 x 400m Relay,,paris-2024
+Athletics,United States of America,Men's 4 x 400m Relay,GOLD,tokyo-2020
+Athletics,Botswana,Men's 4 x 400m Relay,BRONZE,tokyo-2020
 Athletics,United States,Men's 4 x 400m Relay,,paris-2024
+Athletics,Czech Republic,Men's 4 x 400m Relay,,paris-2024
+Athletics,South Africa,Men's 4 x 400m Relay,,paris-2024
+Athletics,Netherlands,Men's 4 x 400m Relay,SILVER,tokyo-2020
+Athletics,Colombia,Men's 4 x 400m Relay,,paris-2024
+Athletics,Japan,Men's 4 x 400m Relay,,paris-2024
+Athletics,Great Britain,Men's 4 x 400m Relay,,paris-2024
 Athletics,Jamaica,Men's 4 x 400m Relay,,paris-2024
 Athletics,Germany,Men's 4 x 400m Relay,,paris-2024
-Athletics,Colombia,Men's 4 x 400m Relay,,paris-2024
+Athletics,Trinidad & Tobago,Men's 4 x 400m Relay,,paris-2024
 Athletics,France,Men's 4 x 400m Relay,,paris-2024
-Athletics,Great Britain,Men's 4 x 400m Relay,,paris-2024
-Athletics,Czech Republic,Men's 4 x 400m Relay,,paris-2024
-Swimming,Poland,Women's 4 x 100m Freestyle Relay,,paris-2024
-Swimming,Australia,Women's 4 x 100m Freestyle Relay,,paris-2024
-Swimming,ROC,Women's 4 x 100m Freestyle Relay,,paris-2024
-Swimming,Australia,Women's 4 x 100m Freestyle Relay,GOLD,tokyo-2020
-Swimming,Netherlands,Women's 4 x 100m Freestyle Relay,,paris-2024
-Swimming,Japan,Women's 4 x 100m Freestyle Relay,,paris-2024
-Swimming,United States,Women's 4 x 100m Freestyle Relay,,paris-2024
-Swimming,"Hong Kong, China",Women's 4 x 100m Freestyle Relay,,paris-2024
+Athletics,Belgium,Men's 4 x 400m Relay,,paris-2024
 Swimming,Denmark,Women's 4 x 100m Freestyle Relay,,paris-2024
-Swimming,Czech Republic,Women's 4 x 100m Freestyle Relay,,paris-2024
-Swimming,Germany,Women's 4 x 100m Freestyle Relay,,paris-2024
-Swimming,China,Women's 4 x 100m Freestyle Relay,,paris-2024
-Swimming,Canada,Women's 4 x 100m Freestyle Relay,,paris-2024
 Swimming,Sweden,Women's 4 x 100m Freestyle Relay,,paris-2024
+Swimming,ROC,Women's 4 x 100m Freestyle Relay,,paris-2024
+Swimming,United States of America,Women's 4 x 100m Freestyle Relay,BRONZE,tokyo-2020
+Swimming,Japan,Women's 4 x 100m Freestyle Relay,,paris-2024
+Swimming,Canada,Women's 4 x 100m Freestyle Relay,,paris-2024
+Swimming,Germany,Women's 4 x 100m Freestyle Relay,,paris-2024
+Swimming,Netherlands,Women's 4 x 100m Freestyle Relay,,paris-2024
+Swimming,United States,Women's 4 x 100m Freestyle Relay,,paris-2024
+Swimming,Canada,Women's 4 x 100m Freestyle Relay,SILVER,tokyo-2020
 Swimming,France,Women's 4 x 100m Freestyle Relay,,paris-2024
 Swimming,Brazil,Women's 4 x 100m Freestyle Relay,,paris-2024
-Swimming,United States of America,Women's 4 x 100m Freestyle Relay,BRONZE,tokyo-2020
 Swimming,Great Britain,Women's 4 x 100m Freestyle Relay,,paris-2024
-Swimming,Canada,Women's 4 x 100m Freestyle Relay,SILVER,tokyo-2020
-Athletics,Germany,Women's 4 x 100m Relay,,paris-2024
-Athletics,Trinidad & Tobago,Women's 4 x 100m Relay,,paris-2024
+Swimming,Czech Republic,Women's 4 x 100m Freestyle Relay,,paris-2024
+Swimming,Poland,Women's 4 x 100m Freestyle Relay,,paris-2024
+Swimming,Australia,Women's 4 x 100m Freestyle Relay,GOLD,tokyo-2020
+Swimming,Australia,Women's 4 x 100m Freestyle Relay,,paris-2024
+Swimming,"Hong Kong, China",Women's 4 x 100m Freestyle Relay,,paris-2024
+Swimming,China,Women's 4 x 100m Freestyle Relay,,paris-2024
+Athletics,Ecuador,Women's 4 x 100m Relay,,paris-2024
+Athletics,Denmark,Women's 4 x 100m Relay,,paris-2024
 Athletics,China,Women's 4 x 100m Relay,,paris-2024
-Athletics,United States,Women's 4 x 100m Relay,,paris-2024
 Athletics,Poland,Women's 4 x 100m Relay,,paris-2024
 Athletics,France,Women's 4 x 100m Relay,,paris-2024
 Athletics,Nigeria,Women's 4 x 100m Relay,,paris-2024
-Athletics,United States of America,Women's 4 x 100m Relay,SILVER,tokyo-2020
-Athletics,Jamaica,Women's 4 x 100m Relay,,paris-2024
-Athletics,Netherlands,Women's 4 x 100m Relay,,paris-2024
-Athletics,Ecuador,Women's 4 x 100m Relay,,paris-2024
 Athletics,Great Britain,Women's 4 x 100m Relay,,paris-2024
-Athletics,Italy,Women's 4 x 100m Relay,,paris-2024
-Athletics,Switzerland,Women's 4 x 100m Relay,,paris-2024
 Athletics,Great Britain,Women's 4 x 100m Relay,BRONZE,tokyo-2020
-Athletics,Denmark,Women's 4 x 100m Relay,,paris-2024
-Athletics,Jamaica,Women's 4 x 100m Relay,GOLD,tokyo-2020
+Athletics,Jamaica,Women's 4 x 100m Relay,,paris-2024
+Athletics,Switzerland,Women's 4 x 100m Relay,,paris-2024
+Athletics,Germany,Women's 4 x 100m Relay,,paris-2024
 Athletics,Brazil,Women's 4 x 100m Relay,,paris-2024
+Athletics,Jamaica,Women's 4 x 100m Relay,GOLD,tokyo-2020
 Athletics,Japan,Women's 4 x 100m Relay,,paris-2024
-Swimming,Republic of Korea,Women's 4 x 200m Freestyle Relay,,paris-2024
-Swimming,United States,Women's 4 x 200m Freestyle Relay,,paris-2024
-Swimming,ROC,Women's 4 x 200m Freestyle Relay,,paris-2024
-Swimming,South Africa,Women's 4 x 200m Freestyle Relay,,paris-2024
-Swimming,Turkey,Women's 4 x 200m Freestyle Relay,,paris-2024
-Swimming,United States of America,Women's 4 x 200m Freestyle Relay,SILVER,tokyo-2020
-Swimming,France,Women's 4 x 200m Freestyle Relay,,paris-2024
-Swimming,Poland,Women's 4 x 200m Freestyle Relay,,paris-2024
-Swimming,Germany,Women's 4 x 200m Freestyle Relay,,paris-2024
+Athletics,United States,Women's 4 x 100m Relay,,paris-2024
+Athletics,Netherlands,Women's 4 x 100m Relay,,paris-2024
+Athletics,Italy,Women's 4 x 100m Relay,,paris-2024
+Athletics,United States of America,Women's 4 x 100m Relay,SILVER,tokyo-2020
+Athletics,Trinidad & Tobago,Women's 4 x 100m Relay,,paris-2024
+Swimming,Australia,Women's 4 x 200m Freestyle Relay,,paris-2024
+Swimming,New Zealand,Women's 4 x 200m Freestyle Relay,,paris-2024
+Swimming,Australia,Women's 4 x 200m Freestyle Relay,BRONZE,tokyo-2020
+Swimming,People's Republic of China,Women's 4 x 200m Freestyle Relay,GOLD,tokyo-2020
 Swimming,Brazil,Women's 4 x 200m Freestyle Relay,,paris-2024
-Swimming,"Hong Kong, China",Women's 4 x 200m Freestyle Relay,,paris-2024
-Swimming,Hungary,Women's 4 x 200m Freestyle Relay,,paris-2024
+Swimming,ROC,Women's 4 x 200m Freestyle Relay,,paris-2024
 Swimming,Canada,Women's 4 x 200m Freestyle Relay,,paris-2024
 Swimming,Italy,Women's 4 x 200m Freestyle Relay,,paris-2024
-Swimming,China,Women's 4 x 200m Freestyle Relay,,paris-2024
-Swimming,Australia,Women's 4 x 200m Freestyle Relay,BRONZE,tokyo-2020
+Swimming,United States of America,Women's 4 x 200m Freestyle Relay,SILVER,tokyo-2020
+Swimming,United States,Women's 4 x 200m Freestyle Relay,,paris-2024
+Swimming,Germany,Women's 4 x 200m Freestyle Relay,,paris-2024
 Swimming,Japan,Women's 4 x 200m Freestyle Relay,,paris-2024
-Swimming,New Zealand,Women's 4 x 200m Freestyle Relay,,paris-2024
-Swimming,People's Republic of China,Women's 4 x 200m Freestyle Relay,GOLD,tokyo-2020
-Swimming,Australia,Women's 4 x 200m Freestyle Relay,,paris-2024
-Athletics,Belgium,Women's 4 x 400m Relay,,paris-2024
-Athletics,United States of America,Women's 4 x 400m Relay,GOLD,tokyo-2020
-Athletics,Canada,Women's 4 x 400m Relay,,paris-2024
-Athletics,United States,Women's 4 x 400m Relay,,paris-2024
-Athletics,Bahamas,Women's 4 x 400m Relay,,paris-2024
-Athletics,Belarus,Women's 4 x 400m Relay,,paris-2024
-Athletics,Poland,Women's 4 x 400m Relay,SILVER,tokyo-2020
+Swimming,France,Women's 4 x 200m Freestyle Relay,,paris-2024
+Swimming,South Africa,Women's 4 x 200m Freestyle Relay,,paris-2024
+Swimming,"Hong Kong, China",Women's 4 x 200m Freestyle Relay,,paris-2024
+Swimming,China,Women's 4 x 200m Freestyle Relay,,paris-2024
+Swimming,Poland,Women's 4 x 200m Freestyle Relay,,paris-2024
+Swimming,Hungary,Women's 4 x 200m Freestyle Relay,,paris-2024
+Swimming,Turkey,Women's 4 x 200m Freestyle Relay,,paris-2024
+Swimming,Republic of Korea,Women's 4 x 200m Freestyle Relay,,paris-2024
 Athletics,Ukraine,Women's 4 x 400m Relay,,paris-2024
-Athletics,France,Women's 4 x 400m Relay,,paris-2024
-Athletics,Germany,Women's 4 x 400m Relay,,paris-2024
+Athletics,Poland,Women's 4 x 400m Relay,SILVER,tokyo-2020
 Athletics,Great Britain,Women's 4 x 400m Relay,,paris-2024
-Athletics,Switzerland,Women's 4 x 400m Relay,,paris-2024
-Athletics,Italy,Women's 4 x 400m Relay,,paris-2024
-Athletics,Jamaica,Women's 4 x 400m Relay,,paris-2024
-Athletics,Jamaica,Women's 4 x 400m Relay,BRONZE,tokyo-2020
-Athletics,Netherlands,Women's 4 x 400m Relay,,paris-2024
-Athletics,Poland,Women's 4 x 400m Relay,,paris-2024
 Athletics,Cuba,Women's 4 x 400m Relay,,paris-2024
 Athletics,Australia,Women's 4 x 400m Relay,,paris-2024
+Athletics,Switzerland,Women's 4 x 400m Relay,,paris-2024
+Athletics,Germany,Women's 4 x 400m Relay,,paris-2024
+Athletics,Jamaica,Women's 4 x 400m Relay,,paris-2024
+Athletics,United States,Women's 4 x 400m Relay,,paris-2024
+Athletics,United States of America,Women's 4 x 400m Relay,GOLD,tokyo-2020
+Athletics,Canada,Women's 4 x 400m Relay,,paris-2024
+Athletics,Italy,Women's 4 x 400m Relay,,paris-2024
+Athletics,Poland,Women's 4 x 400m Relay,,paris-2024
+Athletics,Bahamas,Women's 4 x 400m Relay,,paris-2024
+Athletics,Belarus,Women's 4 x 400m Relay,,paris-2024
+Athletics,Netherlands,Women's 4 x 400m Relay,,paris-2024
+Athletics,Belgium,Women's 4 x 400m Relay,,paris-2024
+Athletics,Jamaica,Women's 4 x 400m Relay,BRONZE,tokyo-2020
+Athletics,France,Women's 4 x 400m Relay,,paris-2024
