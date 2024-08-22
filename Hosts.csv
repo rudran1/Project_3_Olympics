@@ -1,4 +1,4 @@
-Country-Year,game_location,game_season,game_year
+Country_Year,game_location,game_season,game_year
 beijing-2022,China,Winter,2022
 tokyo-2020,Japan,Summer,2020
 pyeongchang-2018,Republic of Korea,Winter,2018
