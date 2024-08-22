@@ -1,0 +1,1472 @@
+Team_id,discipline_title,event_title,slug_game,country_name
+1001,Swimming,Men's 4 x 200m Freestyle Relay,paris-2024,Great Britain
+1002,Swimming,Men's 4 x 200m Freestyle Relay,paris-2024,United States of America
+1003,Swimming,Men's 4 x 200m Freestyle Relay,paris-2024,Australia
+1004,Swimming,Men's 4 x 100m Freestyle Relay,paris-2024,United States of America
+1005,Swimming,Men's 4 x 100m Freestyle Relay,paris-2024,Australia
+1006,Swimming,Men's 4 x 100m Freestyle Relay,paris-2024,Italy
+1007,Swimming,Women's 4 x 100m Freestyle Relay,paris-2024,Australia
+1008,Swimming,Women's 4 x 100m Freestyle Relay,paris-2024,United States of America
+1009,Swimming,Women's 4 x 100m Freestyle Relay,paris-2024,China
+1010,Swimming,Women's 4 x 200m Freestyle Relay,paris-2024,Australia
+1011,Swimming,Women's 4 x 200m Freestyle Relay,paris-2024,United States of America
+1012,Swimming,Women's 4 x 200m Freestyle Relay,paris-2024,China
+1013,Athletics,Women's 4 x 100m Relay,paris-2024,United States of America
+1014,Athletics,Women's 4 x 100m Relay,paris-2024,Great Britain
+1015,Athletics,Women's 4 x 100m Relay,paris-2024,Germany
+1016,Athletics,Women's 4 x 400m Relay,paris-2024,United States of America
+1017,Athletics,Women's 4 x 400m Relay,paris-2024,Netherlands
+1018,Athletics,Women's 4 x 400m Relay,paris-2024,Great Britain
+1019,Athletics,Men's 4 x 100m Relay,paris-2024,Canada
+1020,Athletics,Men's 4 x 100m Relay,paris-2024,South Africa team
+1021,Athletics,Men's 4 x 100m Relay,paris-2024,Great Britain
+1022,Athletics,Men's 4 x 400m Relay,paris-2024,United States of America
+1023,Athletics,Men's 4 x 400m Relay,paris-2024,Botswana
+1024,Athletics,Men's 4 x 400m Relay,paris-2024,Great Britain
+1025,Athletics,Women's 4 x 100m Relay,tokyo-2020,Jamaica
+1026,Athletics,Women's 4 x 100m Relay,tokyo-2020,United States of America
+1027,Athletics,Women's 4 x 100m Relay,tokyo-2020,Great Britain
+1028,Athletics,Women's 4 x 100m Relay,tokyo-2020,Switzerland
+1029,Athletics,Women's 4 x 100m Relay,tokyo-2020,Germany
+1030,Athletics,Women's 4 x 100m Relay,tokyo-2020,People's Republic of China
+1031,Athletics,Women's 4 x 100m Relay,tokyo-2020,France
+1032,Athletics,Women's 4 x 100m Relay,tokyo-2020,Netherlands
+1033,Athletics,Women's 4 x 400m Relay,tokyo-2020,United States of America
+1034,Athletics,Women's 4 x 400m Relay,tokyo-2020,Poland
+1035,Athletics,Women's 4 x 400m Relay,tokyo-2020,Jamaica
+1036,Athletics,Women's 4 x 400m Relay,tokyo-2020,Canada
+1037,Athletics,Women's 4 x 400m Relay,tokyo-2020,Great Britain
+1038,Athletics,Women's 4 x 400m Relay,tokyo-2020,Netherlands
+1039,Athletics,Women's 4 x 400m Relay,tokyo-2020,Belgium
+1040,Athletics,Women's 4 x 400m Relay,tokyo-2020,Cuba
+1041,Athletics,Men's 4 x 100m Relay,tokyo-2020,Italy
+1042,Athletics,Men's 4 x 100m Relay,tokyo-2020,Great Britain
+1043,Athletics,Men's 4 x 100m Relay,tokyo-2020,Canada
+1044,Athletics,Men's 4 x 100m Relay,tokyo-2020,People's Republic of China
+1045,Athletics,Men's 4 x 100m Relay,tokyo-2020,Jamaica
+1046,Athletics,Men's 4 x 100m Relay,tokyo-2020,Germany
+1047,Athletics,Men's 4 x 100m Relay,tokyo-2020,Japan
+1048,Athletics,Men's 4 x 100m Relay,tokyo-2020,Ghana
+1049,Athletics,Men's 4 x 400m Relay,tokyo-2020,United States of America
+1050,Athletics,Men's 4 x 400m Relay,tokyo-2020,Netherlands
+1051,Athletics,Men's 4 x 400m Relay,tokyo-2020,Botswana
+1052,Athletics,Men's 4 x 400m Relay,tokyo-2020,Belgium
+1053,Athletics,Men's 4 x 400m Relay,tokyo-2020,Poland
+1054,Athletics,Men's 4 x 400m Relay,tokyo-2020,Jamaica
+1055,Athletics,Men's 4 x 400m Relay,tokyo-2020,Italy
+1056,Athletics,Men's 4 x 400m Relay,tokyo-2020,Trinidad and Tobago
+1057,Swimming,Men's 4 x 200m Freestyle Relay,tokyo-2020,Great Britain
+1058,Swimming,Men's 4 x 200m Freestyle Relay,tokyo-2020,ROC
+1059,Swimming,Men's 4 x 200m Freestyle Relay,tokyo-2020,Australia
+1060,Swimming,Men's 4 x 200m Freestyle Relay,tokyo-2020,United States of America
+1061,Swimming,Men's 4 x 200m Freestyle Relay,tokyo-2020,Italy
+1062,Swimming,Men's 4 x 200m Freestyle Relay,tokyo-2020,Switzerland
+1063,Swimming,Men's 4 x 200m Freestyle Relay,tokyo-2020,Germany
+1064,Swimming,Men's 4 x 200m Freestyle Relay,tokyo-2020,Brazil
+1065,Swimming,Women's 4 x 100m Freestyle Relay,tokyo-2020,Australia
+1066,Swimming,Women's 4 x 100m Freestyle Relay,tokyo-2020,Canada
+1067,Swimming,Women's 4 x 100m Freestyle Relay,tokyo-2020,United States of America
+1068,Swimming,Women's 4 x 100m Freestyle Relay,tokyo-2020,Netherlands
+1069,Swimming,Women's 4 x 100m Freestyle Relay,tokyo-2020,Great Britain
+1070,Swimming,Women's 4 x 100m Freestyle Relay,tokyo-2020,Sweden
+1071,Swimming,Women's 4 x 100m Freestyle Relay,tokyo-2020,People's Republic of China
+1072,Swimming,Women's 4 x 100m Freestyle Relay,tokyo-2020,Denmark
+1073,Swimming,Men's 4 x 100m Freestyle Relay,tokyo-2020,United States of America
+1074,Swimming,Men's 4 x 100m Freestyle Relay,tokyo-2020,Italy
+1075,Swimming,Men's 4 x 100m Freestyle Relay,tokyo-2020,Australia
+1076,Swimming,Men's 4 x 100m Freestyle Relay,tokyo-2020,Canada
+1077,Swimming,Men's 4 x 100m Freestyle Relay,tokyo-2020,Hungary
+1078,Swimming,Men's 4 x 100m Freestyle Relay,tokyo-2020,France
+1079,Swimming,Men's 4 x 100m Freestyle Relay,tokyo-2020,ROC
+1080,Swimming,Men's 4 x 100m Freestyle Relay,tokyo-2020,Brazil
+1081,Swimming,Women's 4 x 200m Freestyle Relay,tokyo-2020,People's Republic of China
+1082,Swimming,Women's 4 x 200m Freestyle Relay,tokyo-2020,United States of America
+1083,Swimming,Women's 4 x 200m Freestyle Relay,tokyo-2020,Australia
+1084,Swimming,Women's 4 x 200m Freestyle Relay,tokyo-2020,Canada
+1085,Swimming,Women's 4 x 200m Freestyle Relay,tokyo-2020,ROC
+1086,Swimming,Women's 4 x 200m Freestyle Relay,tokyo-2020,Germany
+1087,Swimming,Women's 4 x 200m Freestyle Relay,tokyo-2020,Hungary
+1088,Swimming,Women's 4 x 200m Freestyle Relay,tokyo-2020,France
+1089,Athletics,Women's 4 x 400m Relay,rio-2016,United States of America
+1090,Athletics,Women's 4 x 400m Relay,rio-2016,Jamaica
+1091,Athletics,Women's 4 x 400m Relay,rio-2016,Great Britain
+1092,Athletics,Women's 4 x 400m Relay,rio-2016,Canada
+1093,Athletics,Women's 4 x 400m Relay,rio-2016,Italy
+1094,Athletics,Women's 4 x 400m Relay,rio-2016,Poland
+1095,Athletics,Women's 4 x 400m Relay,rio-2016,Australia
+1096,Athletics,Women's 4 x 400m Relay,rio-2016,Ukraine
+1097,Athletics,Women's 4 x 400m Relay,rio-2016,India
+1098,Athletics,Men's 4 x 400m Relay,rio-2016,United States of America
+1099,Athletics,Men's 4 x 400m Relay,rio-2016,Jamaica
+1100,Athletics,Men's 4 x 400m Relay,rio-2016,Bahamas
+1101,Athletics,Men's 4 x 400m Relay,rio-2016,Belgium
+1102,Athletics,Men's 4 x 400m Relay,rio-2016,Botswana
+1103,Athletics,Men's 4 x 400m Relay,rio-2016,Cuba
+1104,Athletics,Men's 4 x 400m Relay,rio-2016,Poland
+1105,Athletics,Men's 4 x 400m Relay,rio-2016,Brazil
+1106,Athletics,Men's 4 x 400m Relay,rio-2016,Trinidad and Tobago
+1107,Athletics,Men's 4 x 400m Relay,rio-2016,Great Britain
+1108,Athletics,Men's 4 x 400m Relay,rio-2016,India
+1109,Athletics,Women's 4 x 100m Relay,rio-2016,United States of America
+1110,Athletics,Women's 4 x 100m Relay,rio-2016,Jamaica
+1111,Athletics,Women's 4 x 100m Relay,rio-2016,Great Britain
+1112,Athletics,Women's 4 x 100m Relay,rio-2016,Germany
+1113,Athletics,Women's 4 x 100m Relay,rio-2016,Trinidad and Tobago
+1114,Athletics,Women's 4 x 100m Relay,rio-2016,Canada
+1115,Athletics,Women's 4 x 100m Relay,rio-2016,Nigeria
+1116,Athletics,Women's 4 x 100m Relay,rio-2016,Ukraine
+1117,Athletics,Men's 4 x 100m Relay,rio-2016,Jamaica
+1118,Athletics,Men's 4 x 100m Relay,rio-2016,Japan
+1119,Athletics,Men's 4 x 100m Relay,rio-2016,Canada
+1120,Athletics,Men's 4 x 100m Relay,rio-2016,People's Republic of China
+1121,Athletics,Men's 4 x 100m Relay,rio-2016,Great Britain
+1122,Athletics,Men's 4 x 100m Relay,rio-2016,Brazil
+1123,Swimming,Men's 4 x 200m Freestyle Relay,rio-2016,United States of America
+1124,Swimming,Men's 4 x 200m Freestyle Relay,rio-2016,Great Britain
+1125,Swimming,Men's 4 x 200m Freestyle Relay,rio-2016,Japan
+1126,Swimming,Men's 4 x 200m Freestyle Relay,rio-2016,Australia
+1127,Swimming,Men's 4 x 200m Freestyle Relay,rio-2016,Russian Federation
+1128,Swimming,Men's 4 x 200m Freestyle Relay,rio-2016,Germany
+1129,Swimming,Men's 4 x 200m Freestyle Relay,rio-2016,Netherlands
+1130,Swimming,Men's 4 x 200m Freestyle Relay,rio-2016,Belgium
+1131,Swimming,Men's 4 x 200m Freestyle Relay,rio-2016,Italy
+1132,Swimming,Men's 4 x 200m Freestyle Relay,rio-2016,South Africa
+1133,Swimming,Men's 4 x 200m Freestyle Relay,rio-2016,Spain
+1134,Swimming,Men's 4 x 200m Freestyle Relay,rio-2016,Denmark
+1135,Swimming,Men's 4 x 200m Freestyle Relay,rio-2016,France
+1136,Swimming,Men's 4 x 200m Freestyle Relay,rio-2016,Brazil
+1137,Swimming,Men's 4 x 200m Freestyle Relay,rio-2016,Poland
+1138,Swimming,Men's 4 x 200m Freestyle Relay,rio-2016,Hungary
+1139,Swimming,Women's 4 x 200m Freestyle Relay,rio-2016,United States of America
+1140,Swimming,Women's 4 x 200m Freestyle Relay,rio-2016,Australia
+1141,Swimming,Women's 4 x 200m Freestyle Relay,rio-2016,Canada
+1142,Swimming,Women's 4 x 200m Freestyle Relay,rio-2016,People's Republic of China
+1143,Swimming,Women's 4 x 200m Freestyle Relay,rio-2016,Sweden
+1144,Swimming,Women's 4 x 200m Freestyle Relay,rio-2016,Hungary
+1145,Swimming,Women's 4 x 200m Freestyle Relay,rio-2016,Russian Federation
+1146,Swimming,Women's 4 x 200m Freestyle Relay,rio-2016,Japan
+1147,Swimming,Women's 4 x 200m Freestyle Relay,rio-2016,Great Britain
+1148,Swimming,Women's 4 x 200m Freestyle Relay,rio-2016,France
+1149,Swimming,Women's 4 x 200m Freestyle Relay,rio-2016,Brazil
+1150,Swimming,Women's 4 x 200m Freestyle Relay,rio-2016,Germany
+1151,Swimming,Women's 4 x 200m Freestyle Relay,rio-2016,Italy
+1152,Swimming,Women's 4 x 200m Freestyle Relay,rio-2016,Netherlands
+1153,Swimming,Women's 4 x 200m Freestyle Relay,rio-2016,Slovenia
+1154,Swimming,Women's 4 x 200m Freestyle Relay,rio-2016,Spain
+1155,Swimming,Men's 4 x 100m Freestyle Relay,rio-2016,Australia
+1156,Swimming,Men's 4 x 100m Freestyle Relay,rio-2016,United States of America
+1157,Swimming,Men's 4 x 100m Freestyle Relay,rio-2016,Canada
+1158,Swimming,Men's 4 x 100m Freestyle Relay,rio-2016,Netherlands
+1159,Swimming,Men's 4 x 100m Freestyle Relay,rio-2016,Sweden
+1160,Swimming,Men's 4 x 100m Freestyle Relay,rio-2016,Italy
+1161,Swimming,Men's 4 x 100m Freestyle Relay,rio-2016,France
+1162,Swimming,Men's 4 x 100m Freestyle Relay,rio-2016,Japan
+1163,Swimming,Men's 4 x 100m Freestyle Relay,rio-2016,People's Republic of China
+1164,Swimming,Men's 4 x 100m Freestyle Relay,rio-2016,Russian Federation
+1165,Swimming,Men's 4 x 100m Freestyle Relay,rio-2016,Brazil
+1166,Swimming,Men's 4 x 100m Freestyle Relay,rio-2016,Denmark
+1167,Swimming,Men's 4 x 100m Freestyle Relay,rio-2016,Spain
+1168,Swimming,Men's 4 x 100m Freestyle Relay,rio-2016,Switzerland
+1169,Swimming,Men's 4 x 100m Freestyle Relay,rio-2016,Poland
+1170,Swimming,Men's 4 x 100m Freestyle Relay,rio-2016,Israel
+1171,Swimming,Men's 4 x 100m Freestyle Relay,rio-2016,United States of America
+1172,Swimming,Men's 4 x 100m Freestyle Relay,rio-2016,France
+1173,Swimming,Men's 4 x 100m Freestyle Relay,rio-2016,Australia
+1174,Swimming,Men's 4 x 100m Freestyle Relay,rio-2016,Russian Federation
+1175,Swimming,Men's 4 x 100m Freestyle Relay,rio-2016,Brazil
+1176,Swimming,Men's 4 x 100m Freestyle Relay,rio-2016,Belgium
+1177,Swimming,Men's 4 x 100m Freestyle Relay,rio-2016,Canada
+1178,Swimming,Men's 4 x 100m Freestyle Relay,rio-2016,Japan
+1179,Swimming,Men's 4 x 100m Freestyle Relay,rio-2016,Italy
+1180,Swimming,Men's 4 x 100m Freestyle Relay,rio-2016,Greece
+1181,Swimming,Men's 4 x 100m Freestyle Relay,rio-2016,Germany
+1182,Swimming,Men's 4 x 100m Freestyle Relay,rio-2016,Poland
+1183,Swimming,Men's 4 x 100m Freestyle Relay,rio-2016,Romania
+1184,Swimming,Men's 4 x 100m Freestyle Relay,rio-2016,Hungary
+1185,Swimming,Men's 4 x 100m Freestyle Relay,rio-2016,People's Republic of China
+1186,Swimming,Men's 4 x 100m Freestyle Relay,london-2012,France
+1187,Swimming,Men's 4 x 100m Freestyle Relay,london-2012,United States of America
+1188,Swimming,Men's 4 x 100m Freestyle Relay,london-2012,Russian Federation
+1189,Swimming,Men's 4 x 100m Freestyle Relay,london-2012,Australia
+1190,Swimming,Men's 4 x 100m Freestyle Relay,london-2012,South Africa
+1191,Swimming,Men's 4 x 100m Freestyle Relay,london-2012,Germany
+1192,Swimming,Men's 4 x 100m Freestyle Relay,london-2012,Italy
+1193,Swimming,Men's 4 x 100m Freestyle Relay,london-2012,Belgium
+1194,Swimming,Men's 4 x 100m Freestyle Relay,london-2012,Brazil
+1195,Swimming,Men's 4 x 100m Freestyle Relay,london-2012,Canada
+1196,Swimming,Men's 4 x 100m Freestyle Relay,london-2012,People's Republic of China
+1197,Swimming,Men's 4 x 100m Freestyle Relay,london-2012,Great Britain
+1198,Swimming,Men's 4 x 100m Freestyle Relay,london-2012,Serbia
+1199,Swimming,Men's 4 x 100m Freestyle Relay,london-2012,Hungary
+1200,Swimming,Men's 4 x 100m Freestyle Relay,london-2012,Venezuela
+1201,Swimming,Women's 4 x 200m Freestyle Relay,london-2012,United States of America
+1202,Swimming,Women's 4 x 200m Freestyle Relay,london-2012,Australia
+1203,Swimming,Women's 4 x 200m Freestyle Relay,london-2012,France
+1204,Swimming,Women's 4 x 200m Freestyle Relay,london-2012,Canada
+1205,Swimming,Women's 4 x 200m Freestyle Relay,london-2012,Great Britain
+1206,Swimming,Women's 4 x 200m Freestyle Relay,london-2012,People's Republic of China
+1207,Swimming,Women's 4 x 200m Freestyle Relay,london-2012,Italy
+1208,Swimming,Women's 4 x 200m Freestyle Relay,london-2012,Japan
+1209,Swimming,Women's 4 x 200m Freestyle Relay,london-2012,Hungary
+1210,Swimming,Women's 4 x 200m Freestyle Relay,london-2012,New Zealand
+1211,Swimming,Women's 4 x 200m Freestyle Relay,london-2012,Germany
+1212,Swimming,Women's 4 x 200m Freestyle Relay,london-2012,Slovenia
+1213,Swimming,Women's 4 x 200m Freestyle Relay,london-2012,Poland
+1214,Swimming,Women's 4 x 200m Freestyle Relay,london-2012,Spain
+1215,Swimming,Women's 4 x 200m Freestyle Relay,london-2012,Russian Federation
+1216,Swimming,Women's 4 x 200m Freestyle Relay,london-2012,Ukraine
+1217,Swimming,Men's 4 x 200m Freestyle Relay,london-2012,United States of America
+1218,Swimming,Men's 4 x 200m Freestyle Relay,london-2012,France
+1219,Swimming,Men's 4 x 200m Freestyle Relay,london-2012,People's Republic of China
+1220,Swimming,Men's 4 x 200m Freestyle Relay,london-2012,Germany
+1221,Swimming,Men's 4 x 200m Freestyle Relay,london-2012,Australia
+1222,Swimming,Men's 4 x 200m Freestyle Relay,london-2012,Great Britain
+1223,Swimming,Men's 4 x 200m Freestyle Relay,london-2012,South Africa
+1224,Swimming,Men's 4 x 200m Freestyle Relay,london-2012,Hungary
+1225,Swimming,Men's 4 x 200m Freestyle Relay,london-2012,Japan
+1226,Swimming,Men's 4 x 200m Freestyle Relay,london-2012,Russian Federation
+1227,Swimming,Men's 4 x 200m Freestyle Relay,london-2012,Italy
+1228,Swimming,Men's 4 x 200m Freestyle Relay,london-2012,Belgium
+1229,Swimming,Men's 4 x 200m Freestyle Relay,london-2012,Denmark
+1230,Swimming,Men's 4 x 200m Freestyle Relay,london-2012,Canada
+1231,Swimming,Men's 4 x 200m Freestyle Relay,london-2012,New Zealand
+1232,Swimming,Men's 4 x 200m Freestyle Relay,london-2012,Austria
+1233,Swimming,Men's 4 x 100m Freestyle Relay,london-2012,Australia
+1234,Swimming,Men's 4 x 100m Freestyle Relay,london-2012,Netherlands
+1235,Swimming,Men's 4 x 100m Freestyle Relay,london-2012,United States of America
+1236,Swimming,Men's 4 x 100m Freestyle Relay,london-2012,People's Republic of China
+1237,Swimming,Men's 4 x 100m Freestyle Relay,london-2012,Great Britain
+1238,Swimming,Men's 4 x 100m Freestyle Relay,london-2012,Denmark
+1239,Swimming,Men's 4 x 100m Freestyle Relay,london-2012,Japan
+1240,Swimming,Men's 4 x 100m Freestyle Relay,london-2012,Sweden
+1241,Swimming,Men's 4 x 100m Freestyle Relay,london-2012,Germany
+1242,Swimming,Men's 4 x 100m Freestyle Relay,london-2012,Russian Federation
+1243,Swimming,Men's 4 x 100m Freestyle Relay,london-2012,Canada
+1244,Swimming,Men's 4 x 100m Freestyle Relay,london-2012,Italy
+1245,Swimming,Men's 4 x 100m Freestyle Relay,london-2012,Belarus
+1246,Swimming,Men's 4 x 100m Freestyle Relay,london-2012,New Zealand
+1247,Swimming,Men's 4 x 100m Freestyle Relay,london-2012,Hungary
+1248,Swimming,Men's 4 x 100m Freestyle Relay,london-2012,Greece
+1249,Athletics,Women's 4 x 100m Relay,london-2012,United States of America
+1250,Athletics,Women's 4 x 100m Relay,london-2012,Jamaica
+1251,Athletics,Women's 4 x 100m Relay,london-2012,Ukraine
+1252,Athletics,Women's 4 x 100m Relay,london-2012,Nigeria
+1253,Athletics,Women's 4 x 100m Relay,london-2012,Germany
+1254,Athletics,Women's 4 x 100m Relay,london-2012,Netherlands
+1255,Athletics,Women's 4 x 100m Relay,london-2012,Brazil
+1256,Athletics,Women's 4 x 100m Relay,london-2012,Trinidad and Tobago
+1257,Athletics,Men's 4 x 400m Relay,london-2012,Bahamas
+1258,Athletics,Men's 4 x 400m Relay,london-2012,United States of America
+1259,Athletics,Men's 4 x 400m Relay,london-2012,Trinidad and Tobago
+1260,Athletics,Men's 4 x 400m Relay,london-2012,Great Britain
+1261,Athletics,Men's 4 x 400m Relay,london-2012,Belgium
+1262,Athletics,Men's 4 x 400m Relay,london-2012,Venezuela
+1263,Athletics,Men's 4 x 400m Relay,london-2012,South Africa
+1264,Athletics,Men's 4 x 400m Relay,london-2012,Jamaica
+1265,Athletics,Men's 4 x 400m Relay,london-2012,Dominican Republic
+1266,Athletics,Men's 4 x 400m Relay,london-2012,Kenya
+1267,Athletics,Men's 4 x 400m Relay,london-2012,Russian Federation
+1268,Athletics,Men's 4 x 100m Relay,london-2012,Jamaica
+1269,Athletics,Men's 4 x 100m Relay,london-2012,Trinidad and Tobago
+1270,Athletics,Men's 4 x 100m Relay,london-2012,France
+1271,Athletics,Men's 4 x 100m Relay,london-2012,Japan
+1272,Athletics,Men's 4 x 100m Relay,london-2012,Netherlands
+1273,Athletics,Men's 4 x 100m Relay,london-2012,Australia
+1274,Athletics,Men's 4 x 100m Relay,london-2012,Great Britain
+1275,Athletics,Men's 4 x 100m Relay,london-2012,United States of America
+1276,Athletics,Women's 4 x 400m Relay,london-2012,United States of America
+1277,Athletics,Women's 4 x 400m Relay,london-2012,Jamaica
+1278,Athletics,Women's 4 x 400m Relay,london-2012,Ukraine
+1279,Athletics,Women's 4 x 400m Relay,london-2012,Great Britain
+1280,Athletics,Women's 4 x 400m Relay,london-2012,France
+1281,Athletics,Women's 4 x 400m Relay,london-2012,Czech Republic
+1282,Athletics,Women's 4 x 400m Relay,london-2012,Nigeria
+1283,Athletics,Women's 4 x 400m Relay,london-2012,Russian Federation
+1284,Athletics,Women's 4 x 400m Relay,london-2012,Turkey
+1285,Athletics,Women's 4 x 400m Relay,london-2012,Belarus
+1286,Athletics,Women's 4 x 100m Relay,beijing-2008,Belgium
+1287,Athletics,Women's 4 x 100m Relay,beijing-2008,Nigeria
+1288,Athletics,Women's 4 x 100m Relay,beijing-2008,Brazil
+1289,Athletics,Women's 4 x 100m Relay,beijing-2008,Germany
+1290,Athletics,Women's 4 x 100m Relay,beijing-2008,Russian Federation
+1291,Athletics,Women's 4 x 400m Relay,beijing-2008,United States of America
+1292,Athletics,Women's 4 x 400m Relay,beijing-2008,Jamaica
+1293,Athletics,Women's 4 x 400m Relay,beijing-2008,Great Britain
+1294,Athletics,Women's 4 x 400m Relay,beijing-2008,Cuba
+1295,Athletics,Women's 4 x 400m Relay,beijing-2008,Nigeria
+1296,Athletics,Women's 4 x 400m Relay,beijing-2008,Germany
+1297,Athletics,Women's 4 x 400m Relay,beijing-2008,Russian Federation
+1298,Athletics,Women's 4 x 400m Relay,beijing-2008,Belarus
+1299,Athletics,Men's 4 x 100m Relay,beijing-2008,Trinidad and Tobago
+1300,Athletics,Men's 4 x 100m Relay,beijing-2008,Japan
+1301,Athletics,Men's 4 x 100m Relay,beijing-2008,Brazil
+1302,Athletics,Men's 4 x 100m Relay,beijing-2008,Germany
+1303,Athletics,Men's 4 x 100m Relay,beijing-2008,Canada
+1304,Athletics,Men's 4 x 100m Relay,beijing-2008,Jamaica
+1305,Athletics,Men's 4 x 400m Relay,beijing-2008,United States of America
+1306,Athletics,Men's 4 x 400m Relay,beijing-2008,Bahamas
+1307,Athletics,Men's 4 x 400m Relay,beijing-2008,Great Britain
+1308,Athletics,Men's 4 x 400m Relay,beijing-2008,Belgium
+1309,Athletics,Men's 4 x 400m Relay,beijing-2008,Australia
+1310,Athletics,Men's 4 x 400m Relay,beijing-2008,Poland
+1311,Athletics,Men's 4 x 400m Relay,beijing-2008,Jamaica
+1312,Athletics,Men's 4 x 400m Relay,beijing-2008,Russian Federation
+1313,Swimming,Men's 4 x 200m Freestyle Relay,beijing-2008,United States of America
+1314,Swimming,Men's 4 x 200m Freestyle Relay,beijing-2008,Russian Federation
+1315,Swimming,Men's 4 x 200m Freestyle Relay,beijing-2008,Australia
+1316,Swimming,Men's 4 x 200m Freestyle Relay,beijing-2008,Italy
+1317,Swimming,Men's 4 x 200m Freestyle Relay,beijing-2008,Canada
+1318,Swimming,Men's 4 x 200m Freestyle Relay,beijing-2008,Great Britain
+1319,Swimming,Men's 4 x 200m Freestyle Relay,beijing-2008,Japan
+1320,Swimming,Men's 4 x 200m Freestyle Relay,beijing-2008,South Africa
+1321,Swimming,Men's 4 x 200m Freestyle Relay,beijing-2008,Austria
+1322,Swimming,Men's 4 x 200m Freestyle Relay,beijing-2008,People's Republic of China
+1323,Swimming,Men's 4 x 200m Freestyle Relay,beijing-2008,France
+1324,Swimming,Men's 4 x 200m Freestyle Relay,beijing-2008,Germany
+1325,Swimming,Men's 4 x 200m Freestyle Relay,beijing-2008,Hungary
+1326,Swimming,Men's 4 x 200m Freestyle Relay,beijing-2008,Poland
+1327,Swimming,Men's 4 x 200m Freestyle Relay,beijing-2008,Greece
+1328,Swimming,Men's 4 x 200m Freestyle Relay,beijing-2008,Brazil
+1329,Swimming,Men's 4 x 100m Freestyle Relay,beijing-2008,Netherlands
+1330,Swimming,Men's 4 x 100m Freestyle Relay,beijing-2008,United States of America
+1331,Swimming,Men's 4 x 100m Freestyle Relay,beijing-2008,Australia
+1332,Swimming,Men's 4 x 100m Freestyle Relay,beijing-2008,People's Republic of China
+1333,Swimming,Men's 4 x 100m Freestyle Relay,beijing-2008,Germany
+1334,Swimming,Men's 4 x 100m Freestyle Relay,beijing-2008,France
+1335,Swimming,Men's 4 x 100m Freestyle Relay,beijing-2008,Great Britain
+1336,Swimming,Men's 4 x 100m Freestyle Relay,beijing-2008,Canada
+1337,Swimming,Men's 4 x 100m Freestyle Relay,beijing-2008,Japan
+1338,Swimming,Men's 4 x 100m Freestyle Relay,beijing-2008,Italy
+1339,Swimming,Men's 4 x 100m Freestyle Relay,beijing-2008,Sweden
+1340,Swimming,Men's 4 x 100m Freestyle Relay,beijing-2008,Russian Federation
+1341,Swimming,Men's 4 x 100m Freestyle Relay,beijing-2008,Brazil
+1342,Swimming,Men's 4 x 100m Freestyle Relay,beijing-2008,Ukraine
+1343,Swimming,Men's 4 x 100m Freestyle Relay,beijing-2008,South Africa
+1344,Swimming,Men's 4 x 100m Freestyle Relay,beijing-2008,Belarus
+1345,Swimming,Women's 4 x 200m Freestyle Relay,beijing-2008,Australia
+1346,Swimming,Women's 4 x 200m Freestyle Relay,beijing-2008,People's Republic of China
+1347,Swimming,Women's 4 x 200m Freestyle Relay,beijing-2008,United States of America
+1348,Swimming,Women's 4 x 200m Freestyle Relay,beijing-2008,Italy
+1349,Swimming,Women's 4 x 200m Freestyle Relay,beijing-2008,France
+1350,Swimming,Women's 4 x 200m Freestyle Relay,beijing-2008,Hungary
+1351,Swimming,Women's 4 x 200m Freestyle Relay,beijing-2008,Japan
+1352,Swimming,Women's 4 x 200m Freestyle Relay,beijing-2008,Sweden
+1353,Swimming,Women's 4 x 200m Freestyle Relay,beijing-2008,Great Britain
+1354,Swimming,Women's 4 x 200m Freestyle Relay,beijing-2008,Canada
+1355,Swimming,Women's 4 x 200m Freestyle Relay,beijing-2008,Netherlands
+1356,Swimming,Women's 4 x 200m Freestyle Relay,beijing-2008,Germany
+1357,Swimming,Women's 4 x 200m Freestyle Relay,beijing-2008,Denmark
+1358,Swimming,Women's 4 x 200m Freestyle Relay,beijing-2008,Spain
+1359,Swimming,Women's 4 x 200m Freestyle Relay,beijing-2008,Poland
+1360,Swimming,Women's 4 x 200m Freestyle Relay,beijing-2008,New Zealand
+1361,Swimming,Men's 4 x 100m Freestyle Relay,beijing-2008,United States of America
+1362,Swimming,Men's 4 x 100m Freestyle Relay,beijing-2008,France
+1363,Swimming,Men's 4 x 100m Freestyle Relay,beijing-2008,Australia
+1364,Swimming,Men's 4 x 100m Freestyle Relay,beijing-2008,Italy
+1365,Swimming,Men's 4 x 100m Freestyle Relay,beijing-2008,Sweden
+1366,Swimming,Men's 4 x 100m Freestyle Relay,beijing-2008,Canada
+1367,Swimming,Men's 4 x 100m Freestyle Relay,beijing-2008,South Africa
+1368,Swimming,Men's 4 x 100m Freestyle Relay,beijing-2008,Great Britain
+1369,Swimming,Men's 4 x 100m Freestyle Relay,beijing-2008,Russian Federation
+1370,Swimming,Men's 4 x 100m Freestyle Relay,beijing-2008,Netherlands
+1371,Swimming,Men's 4 x 100m Freestyle Relay,beijing-2008,New Zealand
+1372,Swimming,Men's 4 x 100m Freestyle Relay,beijing-2008,People's Republic of China
+1373,Swimming,Men's 4 x 100m Freestyle Relay,beijing-2008,Switzerland
+1374,Swimming,Men's 4 x 100m Freestyle Relay,beijing-2008,Japan
+1375,Swimming,Men's 4 x 100m Freestyle Relay,beijing-2008,Germany
+1376,Swimming,Men's 4 x 100m Freestyle Relay,beijing-2008,Brazil
+1377,Athletics,Women's 4 x 400m Relay,athens-2004,United States of America
+1378,Athletics,Women's 4 x 400m Relay,athens-2004,Russian Federation
+1379,Athletics,Women's 4 x 400m Relay,athens-2004,Jamaica
+1380,Athletics,Women's 4 x 400m Relay,athens-2004,Great Britain
+1381,Athletics,Women's 4 x 400m Relay,athens-2004,Poland
+1382,Athletics,Women's 4 x 400m Relay,athens-2004,Romania
+1383,Athletics,Women's 4 x 400m Relay,athens-2004,India
+1384,Athletics,Women's 4 x 400m Relay,athens-2004,Greece
+1385,Athletics,Men's 4 x 100m Relay,athens-2004,Great Britain
+1386,Athletics,Men's 4 x 100m Relay,athens-2004,United States of America
+1387,Athletics,Men's 4 x 100m Relay,athens-2004,Nigeria
+1388,Athletics,Men's 4 x 100m Relay,athens-2004,Japan
+1389,Athletics,Men's 4 x 100m Relay,athens-2004,Poland
+1390,Athletics,Men's 4 x 100m Relay,athens-2004,Australia
+1391,Athletics,Men's 4 x 100m Relay,athens-2004,Trinidad and Tobago
+1392,Athletics,Men's 4 x 100m Relay,athens-2004,Brazil
+1393,Athletics,Men's 4 x 400m Relay,athens-2004,United States of America
+1394,Athletics,Men's 4 x 400m Relay,athens-2004,Australia
+1395,Athletics,Men's 4 x 400m Relay,athens-2004,Nigeria
+1396,Athletics,Men's 4 x 400m Relay,athens-2004,Japan
+1397,Athletics,Men's 4 x 400m Relay,athens-2004,Great Britain
+1398,Athletics,Men's 4 x 400m Relay,athens-2004,Bahamas
+1399,Athletics,Men's 4 x 400m Relay,athens-2004,Germany
+1400,Athletics,Men's 4 x 400m Relay,athens-2004,Botswana
+1401,Athletics,Women's 4 x 100m Relay,athens-2004,Jamaica
+1402,Athletics,Women's 4 x 100m Relay,athens-2004,Russian Federation
+1403,Athletics,Women's 4 x 100m Relay,athens-2004,France
+1404,Athletics,Women's 4 x 100m Relay,athens-2004,Bahamas
+1405,Athletics,Women's 4 x 100m Relay,athens-2004,Belarus
+1406,Athletics,Women's 4 x 100m Relay,athens-2004,Belgium
+1407,Athletics,Women's 4 x 100m Relay,athens-2004,Nigeria
+1408,Swimming,Men's 4 x 100m Freestyle Relay,athens-2004,Australia
+1409,Swimming,Men's 4 x 100m Freestyle Relay,athens-2004,United States of America
+1410,Swimming,Men's 4 x 100m Freestyle Relay,athens-2004,Netherlands
+1411,Swimming,Men's 4 x 100m Freestyle Relay,athens-2004,Germany
+1412,Swimming,Men's 4 x 100m Freestyle Relay,athens-2004,France
+1413,Swimming,Men's 4 x 100m Freestyle Relay,athens-2004,Great Britain
+1414,Swimming,Men's 4 x 100m Freestyle Relay,athens-2004,Sweden
+1415,Swimming,Men's 4 x 100m Freestyle Relay,athens-2004,People's Republic of China
+1416,Swimming,Men's 4 x 100m Freestyle Relay,athens-2004,Republic of Korea
+1417,Swimming,Men's 4 x 100m Freestyle Relay,athens-2004,Italy
+1418,Swimming,Men's 4 x 100m Freestyle Relay,athens-2004,Belarus
+1419,Swimming,Men's 4 x 100m Freestyle Relay,athens-2004,Brazil
+1420,Swimming,Men's 4 x 100m Freestyle Relay,athens-2004,Czech Republic
+1421,Swimming,Men's 4 x 100m Freestyle Relay,athens-2004,Spain
+1422,Swimming,Men's 4 x 100m Freestyle Relay,athens-2004,Switzerland
+1423,Swimming,Men's 4 x 100m Freestyle Relay,athens-2004,Greece
+1424,Swimming,Men's 4 x 100m Freestyle Relay,athens-2004,South Africa
+1425,Swimming,Men's 4 x 100m Freestyle Relay,athens-2004,Netherlands
+1426,Swimming,Men's 4 x 100m Freestyle Relay,athens-2004,United States of America
+1427,Swimming,Men's 4 x 100m Freestyle Relay,athens-2004,Russian Federation
+1428,Swimming,Men's 4 x 100m Freestyle Relay,athens-2004,Italy
+1429,Swimming,Men's 4 x 100m Freestyle Relay,athens-2004,Australia
+1430,Swimming,Men's 4 x 100m Freestyle Relay,athens-2004,France
+1431,Swimming,Men's 4 x 100m Freestyle Relay,athens-2004,Germany
+1432,Swimming,Men's 4 x 100m Freestyle Relay,athens-2004,Canada
+1433,Swimming,Men's 4 x 100m Freestyle Relay,athens-2004,Ukraine
+1434,Swimming,Men's 4 x 100m Freestyle Relay,athens-2004,Lithuania
+1435,Swimming,Men's 4 x 100m Freestyle Relay,athens-2004,Croatia
+1436,Swimming,Men's 4 x 100m Freestyle Relay,athens-2004,Greece
+1437,Swimming,Men's 4 x 100m Freestyle Relay,athens-2004,People's Republic of China
+1438,Swimming,Men's 4 x 100m Freestyle Relay,athens-2004,Sweden
+1439,Swimming,Men's 4 x 200m Freestyle Relay,athens-2004,United States of America
+1440,Swimming,Men's 4 x 200m Freestyle Relay,athens-2004,Australia
+1441,Swimming,Men's 4 x 200m Freestyle Relay,athens-2004,Italy
+1442,Swimming,Men's 4 x 200m Freestyle Relay,athens-2004,Great Britain
+1443,Swimming,Men's 4 x 200m Freestyle Relay,athens-2004,Canada
+1444,Swimming,Men's 4 x 200m Freestyle Relay,athens-2004,Germany
+1445,Swimming,Men's 4 x 200m Freestyle Relay,athens-2004,France
+1446,Swimming,Men's 4 x 200m Freestyle Relay,athens-2004,Greece
+1447,Swimming,Men's 4 x 200m Freestyle Relay,athens-2004,Brazil
+1448,Swimming,Men's 4 x 200m Freestyle Relay,athens-2004,People's Republic of China
+1449,Swimming,Men's 4 x 200m Freestyle Relay,athens-2004,Russian Federation
+1450,Swimming,Men's 4 x 200m Freestyle Relay,athens-2004,Ukraine
+1451,Swimming,Men's 4 x 200m Freestyle Relay,athens-2004,Czech Republic
+1452,Swimming,Men's 4 x 200m Freestyle Relay,athens-2004,Portugal
+1453,Swimming,Men's 4 x 200m Freestyle Relay,athens-2004,Mexico
+1454,Swimming,Men's 4 x 200m Freestyle Relay,athens-2004,Hungary
+1455,Swimming,Women's 4 x 200m Freestyle Relay,athens-2004,United States of America
+1456,Swimming,Women's 4 x 200m Freestyle Relay,athens-2004,People's Republic of China
+1457,Swimming,Women's 4 x 200m Freestyle Relay,athens-2004,Germany
+1458,Swimming,Women's 4 x 200m Freestyle Relay,athens-2004,Australia
+1459,Swimming,Women's 4 x 200m Freestyle Relay,athens-2004,Great Britain
+1460,Swimming,Women's 4 x 200m Freestyle Relay,athens-2004,Spain
+1461,Swimming,Women's 4 x 200m Freestyle Relay,athens-2004,Brazil
+1462,Swimming,Women's 4 x 200m Freestyle Relay,athens-2004,Sweden
+1463,Swimming,Women's 4 x 200m Freestyle Relay,athens-2004,Netherlands
+1464,Swimming,Women's 4 x 200m Freestyle Relay,athens-2004,France
+1465,Swimming,Women's 4 x 200m Freestyle Relay,athens-2004,Romania
+1466,Swimming,Women's 4 x 200m Freestyle Relay,athens-2004,Switzerland
+1467,Swimming,Women's 4 x 200m Freestyle Relay,athens-2004,New Zealand
+1468,Swimming,Women's 4 x 200m Freestyle Relay,athens-2004,Italy
+1469,Swimming,Women's 4 x 200m Freestyle Relay,athens-2004,Greece
+1470,Swimming,Women's 4 x 200m Freestyle Relay,athens-2004,Slovenia
+1471,Athletics,Men's 4 x 400m Relay,sydney-2000,Nigeria
+1472,Athletics,Men's 4 x 400m Relay,sydney-2000,Jamaica
+1473,Athletics,Men's 4 x 400m Relay,sydney-2000,Bahamas
+1474,Athletics,Men's 4 x 400m Relay,sydney-2000,France
+1475,Athletics,Men's 4 x 400m Relay,sydney-2000,Great Britain
+1476,Athletics,Men's 4 x 400m Relay,sydney-2000,Poland
+1477,Athletics,Men's 4 x 400m Relay,sydney-2000,Australia
+1478,Athletics,Men's 4 x 400m Relay,sydney-2000,United States of America
+1479,Athletics,Women's 4 x 400m Relay,sydney-2000,United States of America
+1480,Athletics,Women's 4 x 400m Relay,sydney-2000,Jamaica
+1481,Athletics,Women's 4 x 400m Relay,sydney-2000,Russian Federation
+1482,Athletics,Women's 4 x 400m Relay,sydney-2000,Nigeria
+1483,Athletics,Women's 4 x 400m Relay,sydney-2000,Australia
+1484,Athletics,Women's 4 x 400m Relay,sydney-2000,Great Britain
+1485,Athletics,Women's 4 x 400m Relay,sydney-2000,Czech Republic
+1486,Athletics,Women's 4 x 400m Relay,sydney-2000,Cuba
+1487,Athletics,Women's 4 x 100m Relay,sydney-2000,Bahamas
+1488,Athletics,Women's 4 x 100m Relay,sydney-2000,Jamaica
+1489,Athletics,Women's 4 x 100m Relay,sydney-2000,United States of America
+1490,Athletics,Women's 4 x 100m Relay,sydney-2000,France
+1491,Athletics,Women's 4 x 100m Relay,sydney-2000,Russian Federation
+1492,Athletics,Women's 4 x 100m Relay,sydney-2000,Germany
+1493,Athletics,Women's 4 x 100m Relay,sydney-2000,Nigeria
+1494,Athletics,Women's 4 x 100m Relay,sydney-2000,People's Republic of China
+1495,Athletics,Men's 4 x 100m Relay,sydney-2000,United States of America
+1496,Athletics,Men's 4 x 100m Relay,sydney-2000,Brazil
+1497,Athletics,Men's 4 x 100m Relay,sydney-2000,Cuba
+1498,Athletics,Men's 4 x 100m Relay,sydney-2000,Jamaica
+1499,Athletics,Men's 4 x 100m Relay,sydney-2000,France
+1500,Athletics,Men's 4 x 100m Relay,sydney-2000,Japan
+1501,Athletics,Men's 4 x 100m Relay,sydney-2000,Italy
+1502,Athletics,Men's 4 x 100m Relay,sydney-2000,Poland
+1503,Swimming,Men's 4 x 100m Freestyle Relay,sydney-2000,United States of America
+1504,Swimming,Men's 4 x 100m Freestyle Relay,sydney-2000,Netherlands
+1505,Swimming,Men's 4 x 100m Freestyle Relay,sydney-2000,Sweden
+1506,Swimming,Men's 4 x 100m Freestyle Relay,sydney-2000,Germany
+1507,Swimming,Men's 4 x 100m Freestyle Relay,sydney-2000,Great Britain
+1508,Swimming,Men's 4 x 100m Freestyle Relay,sydney-2000,Australia
+1509,Swimming,Men's 4 x 100m Freestyle Relay,sydney-2000,Canada
+1510,Swimming,Men's 4 x 100m Freestyle Relay,sydney-2000,Italy
+1511,Swimming,Men's 4 x 100m Freestyle Relay,sydney-2000,People's Republic of China
+1512,Swimming,Men's 4 x 100m Freestyle Relay,sydney-2000,Russian Federation
+1513,Swimming,Men's 4 x 100m Freestyle Relay,sydney-2000,Belgium
+1514,Swimming,Men's 4 x 100m Freestyle Relay,sydney-2000,Romania
+1515,Swimming,Men's 4 x 100m Freestyle Relay,sydney-2000,Ukraine
+1516,Swimming,Men's 4 x 200m Freestyle Relay,sydney-2000,Australia
+1517,Swimming,Men's 4 x 200m Freestyle Relay,sydney-2000,United States of America
+1518,Swimming,Men's 4 x 200m Freestyle Relay,sydney-2000,Netherlands
+1519,Swimming,Men's 4 x 200m Freestyle Relay,sydney-2000,Italy
+1520,Swimming,Men's 4 x 200m Freestyle Relay,sydney-2000,Great Britain
+1521,Swimming,Men's 4 x 200m Freestyle Relay,sydney-2000,Germany
+1522,Swimming,Men's 4 x 200m Freestyle Relay,sydney-2000,Canada
+1523,Swimming,Men's 4 x 200m Freestyle Relay,sydney-2000,Russian Federation
+1524,Swimming,Men's 4 x 200m Freestyle Relay,sydney-2000,Romania
+1525,Swimming,Men's 4 x 200m Freestyle Relay,sydney-2000,Hungary
+1526,Swimming,Men's 4 x 200m Freestyle Relay,sydney-2000,Denmark
+1527,Swimming,Men's 4 x 200m Freestyle Relay,sydney-2000,Belarus
+1528,Swimming,Men's 4 x 200m Freestyle Relay,sydney-2000,Brazil
+1529,Swimming,Men's 4 x 200m Freestyle Relay,sydney-2000,Ukraine
+1530,Swimming,Men's 4 x 200m Freestyle Relay,sydney-2000,Greece
+1531,Swimming,Men's 4 x 200m Freestyle Relay,sydney-2000,Kyrgyzstan
+1532,Swimming,Women's 4 x 200m Freestyle Relay,sydney-2000,United States of America
+1533,Swimming,Women's 4 x 200m Freestyle Relay,sydney-2000,Australia
+1534,Swimming,Women's 4 x 200m Freestyle Relay,sydney-2000,Germany
+1535,Swimming,Women's 4 x 200m Freestyle Relay,sydney-2000,Romania
+1536,Swimming,Women's 4 x 200m Freestyle Relay,sydney-2000,Canada
+1537,Swimming,Women's 4 x 200m Freestyle Relay,sydney-2000,Great Britain
+1538,Swimming,Women's 4 x 200m Freestyle Relay,sydney-2000,Italy
+1539,Swimming,Women's 4 x 200m Freestyle Relay,sydney-2000,France
+1540,Swimming,Women's 4 x 200m Freestyle Relay,sydney-2000,People's Republic of China
+1541,Swimming,Women's 4 x 200m Freestyle Relay,sydney-2000,Russian Federation
+1542,Swimming,Women's 4 x 200m Freestyle Relay,sydney-2000,Netherlands
+1543,Swimming,Women's 4 x 200m Freestyle Relay,sydney-2000,Belgium
+1544,Swimming,Women's 4 x 200m Freestyle Relay,sydney-2000,Spain
+1545,Swimming,Women's 4 x 200m Freestyle Relay,sydney-2000,Kyrgyzstan
+1546,Swimming,Women's 4 x 200m Freestyle Relay,sydney-2000,Ukraine
+1547,Swimming,Men's 4 x 100m Freestyle Relay,sydney-2000,Australia
+1548,Swimming,Men's 4 x 100m Freestyle Relay,sydney-2000,United States of America
+1549,Swimming,Men's 4 x 100m Freestyle Relay,sydney-2000,Brazil
+1550,Swimming,Men's 4 x 100m Freestyle Relay,sydney-2000,Germany
+1551,Swimming,Men's 4 x 100m Freestyle Relay,sydney-2000,Italy
+1552,Swimming,Men's 4 x 100m Freestyle Relay,sydney-2000,Sweden
+1553,Swimming,Men's 4 x 100m Freestyle Relay,sydney-2000,France
+1554,Swimming,Men's 4 x 100m Freestyle Relay,sydney-2000,Russian Federation
+1555,Swimming,Men's 4 x 100m Freestyle Relay,sydney-2000,Great Britain
+1556,Swimming,Men's 4 x 100m Freestyle Relay,sydney-2000,Belarus
+1557,Swimming,Men's 4 x 100m Freestyle Relay,sydney-2000,South Africa
+1558,Swimming,Men's 4 x 100m Freestyle Relay,sydney-2000,Ukraine
+1559,Swimming,Men's 4 x 100m Freestyle Relay,sydney-2000,Canada
+1560,Swimming,Men's 4 x 100m Freestyle Relay,sydney-2000,Israel
+1561,Swimming,Men's 4 x 100m Freestyle Relay,sydney-2000,Spain
+1562,Swimming,Men's 4 x 100m Freestyle Relay,sydney-2000,Lithuania
+1563,Swimming,Men's 4 x 100m Freestyle Relay,sydney-2000,Venezuela
+1564,Swimming,Men's 4 x 100m Freestyle Relay,sydney-2000,Denmark
+1565,Swimming,Men's 4 x 100m Freestyle Relay,sydney-2000,Croatia
+1566,Swimming,Men's 4 x 100m Freestyle Relay,sydney-2000,Kyrgyzstan
+1567,Swimming,Men's 4 x 100m Freestyle Relay,sydney-2000,Kazakhstan
+1568,Swimming,Men's 4 x 100m Freestyle Relay,sydney-2000,Netherlands
+1569,Swimming,Men's 4 x 100m Freestyle Relay,sydney-2000,Uzbekistan
+1570,Athletics,Women's 4 x 100m Relay,atlanta-1996,United States of America
+1571,Athletics,Women's 4 x 100m Relay,atlanta-1996,Bahamas
+1572,Athletics,Women's 4 x 100m Relay,atlanta-1996,Jamaica
+1573,Athletics,Women's 4 x 100m Relay,atlanta-1996,Russian Federation
+1574,Athletics,Women's 4 x 100m Relay,atlanta-1996,Nigeria
+1575,Athletics,Women's 4 x 100m Relay,atlanta-1996,France
+1576,Athletics,Women's 4 x 100m Relay,atlanta-1996,Australia
+1577,Athletics,Women's 4 x 100m Relay,atlanta-1996,Great Britain
+1578,Athletics,Women's 4 x 400m Relay,atlanta-1996,United States of America
+1579,Athletics,Women's 4 x 400m Relay,atlanta-1996,Nigeria
+1580,Athletics,Women's 4 x 400m Relay,atlanta-1996,Germany
+1581,Athletics,Women's 4 x 400m Relay,atlanta-1996,Jamaica
+1582,Athletics,Women's 4 x 400m Relay,atlanta-1996,Russian Federation
+1583,Athletics,Women's 4 x 400m Relay,atlanta-1996,Cuba
+1584,Athletics,Women's 4 x 400m Relay,atlanta-1996,Czech Republic
+1585,Athletics,Women's 4 x 400m Relay,atlanta-1996,France
+1586,Athletics,Men's 4 x 100m Relay,atlanta-1996,Canada
+1587,Athletics,Men's 4 x 100m Relay,atlanta-1996,United States of America
+1588,Athletics,Men's 4 x 100m Relay,atlanta-1996,Brazil
+1589,Athletics,Men's 4 x 100m Relay,atlanta-1996,Ukraine
+1590,Athletics,Men's 4 x 100m Relay,atlanta-1996,Sweden
+1591,Athletics,Men's 4 x 100m Relay,atlanta-1996,Cuba
+1592,Athletics,Men's 4 x 400m Relay,atlanta-1996,United States of America
+1593,Athletics,Men's 4 x 400m Relay,atlanta-1996,Great Britain
+1594,Athletics,Men's 4 x 400m Relay,atlanta-1996,Jamaica
+1595,Athletics,Men's 4 x 400m Relay,atlanta-1996,Senegal
+1596,Athletics,Men's 4 x 400m Relay,atlanta-1996,Japan
+1597,Athletics,Men's 4 x 400m Relay,atlanta-1996,Poland
+1598,Athletics,Men's 4 x 400m Relay,atlanta-1996,Bahamas
+1599,Swimming,Women's 4 x 200m Freestyle Relay,atlanta-1996,United States of America
+1600,Swimming,Women's 4 x 200m Freestyle Relay,atlanta-1996,Germany
+1601,Swimming,Women's 4 x 200m Freestyle Relay,atlanta-1996,Australia
+1602,Swimming,Women's 4 x 200m Freestyle Relay,atlanta-1996,Japan
+1603,Swimming,Women's 4 x 200m Freestyle Relay,atlanta-1996,Canada
+1604,Swimming,Women's 4 x 200m Freestyle Relay,atlanta-1996,Netherlands
+1605,Swimming,Women's 4 x 200m Freestyle Relay,atlanta-1996,Romania
+1606,Swimming,Women's 4 x 200m Freestyle Relay,atlanta-1996,People's Republic of China
+1607,Swimming,Women's 4 x 200m Freestyle Relay,atlanta-1996,Sweden
+1608,Swimming,Women's 4 x 200m Freestyle Relay,atlanta-1996,Great Britain
+1609,Swimming,Women's 4 x 200m Freestyle Relay,atlanta-1996,New Zealand
+1610,Swimming,Women's 4 x 200m Freestyle Relay,atlanta-1996,Russian Federation
+1611,Swimming,Women's 4 x 200m Freestyle Relay,atlanta-1996,Denmark
+1612,Swimming,Women's 4 x 200m Freestyle Relay,atlanta-1996,France
+1613,Swimming,Women's 4 x 200m Freestyle Relay,atlanta-1996,Czech Republic
+1614,Swimming,Women's 4 x 200m Freestyle Relay,atlanta-1996,Switzerland
+1615,Swimming,Women's 4 x 200m Freestyle Relay,atlanta-1996,Belarus
+1616,Swimming,Women's 4 x 200m Freestyle Relay,atlanta-1996,Republic of Korea
+1617,Swimming,Women's 4 x 200m Freestyle Relay,atlanta-1996,Chinese Taipei
+1618,Swimming,Women's 4 x 200m Freestyle Relay,atlanta-1996,Kyrgyzstan
+1619,Swimming,Women's 4 x 200m Freestyle Relay,atlanta-1996,Argentina
+1620,Swimming,Men's 4 x 100m Freestyle Relay,atlanta-1996,United States of America
+1621,Swimming,Men's 4 x 100m Freestyle Relay,atlanta-1996,Russian Federation
+1622,Swimming,Men's 4 x 100m Freestyle Relay,atlanta-1996,Germany
+1623,Swimming,Men's 4 x 100m Freestyle Relay,atlanta-1996,Brazil
+1624,Swimming,Men's 4 x 100m Freestyle Relay,atlanta-1996,Netherlands
+1625,Swimming,Men's 4 x 100m Freestyle Relay,atlanta-1996,Australia
+1626,Swimming,Men's 4 x 100m Freestyle Relay,atlanta-1996,Sweden
+1627,Swimming,Men's 4 x 100m Freestyle Relay,atlanta-1996,Great Britain
+1628,Swimming,Men's 4 x 100m Freestyle Relay,atlanta-1996,New Zealand
+1629,Swimming,Men's 4 x 100m Freestyle Relay,atlanta-1996,Romania
+1630,Swimming,Men's 4 x 100m Freestyle Relay,atlanta-1996,France
+1631,Swimming,Men's 4 x 100m Freestyle Relay,atlanta-1996,Finland
+1632,Swimming,Men's 4 x 100m Freestyle Relay,atlanta-1996,Venezuela
+1633,Swimming,Men's 4 x 100m Freestyle Relay,atlanta-1996,Croatia
+1634,Swimming,Men's 4 x 100m Freestyle Relay,atlanta-1996,Ecuador
+1635,Swimming,Men's 4 x 100m Freestyle Relay,atlanta-1996,Puerto Rico
+1636,Swimming,Men's 4 x 100m Freestyle Relay,atlanta-1996,Uzbekistan
+1637,Swimming,Men's 4 x 100m Freestyle Relay,atlanta-1996,Kyrgyzstan
+1638,Swimming,Men's 4 x 100m Freestyle Relay,atlanta-1996,Kazakhstan
+1639,Swimming,Men's 4 x 100m Freestyle Relay,atlanta-1996,Singapore
+1640,Swimming,Men's 4 x 100m Freestyle Relay,atlanta-1996,United States of America
+1641,Swimming,Men's 4 x 100m Freestyle Relay,atlanta-1996,People's Republic of China
+1642,Swimming,Men's 4 x 100m Freestyle Relay,atlanta-1996,Germany
+1643,Swimming,Men's 4 x 100m Freestyle Relay,atlanta-1996,Netherlands
+1644,Swimming,Men's 4 x 100m Freestyle Relay,atlanta-1996,Sweden
+1645,Swimming,Men's 4 x 100m Freestyle Relay,atlanta-1996,Australia
+1646,Swimming,Men's 4 x 100m Freestyle Relay,atlanta-1996,Canada
+1647,Swimming,Men's 4 x 100m Freestyle Relay,atlanta-1996,Russian Federation
+1648,Swimming,Men's 4 x 100m Freestyle Relay,atlanta-1996,Great Britain
+1649,Swimming,Men's 4 x 100m Freestyle Relay,atlanta-1996,France
+1650,Swimming,Men's 4 x 100m Freestyle Relay,atlanta-1996,Romania
+1651,Swimming,Men's 4 x 100m Freestyle Relay,atlanta-1996,Japan
+1652,Swimming,Men's 4 x 100m Freestyle Relay,atlanta-1996,Denmark
+1653,Swimming,Men's 4 x 100m Freestyle Relay,atlanta-1996,Spain
+1654,Swimming,Men's 4 x 100m Freestyle Relay,atlanta-1996,Belarus
+1655,Swimming,Men's 4 x 100m Freestyle Relay,atlanta-1996,Finland
+1656,Swimming,Men's 4 x 100m Freestyle Relay,atlanta-1996,Switzerland
+1657,Swimming,Men's 4 x 100m Freestyle Relay,atlanta-1996,Chinese Taipei
+1658,Swimming,Men's 4 x 100m Freestyle Relay,atlanta-1996,Republic of Korea
+1659,Swimming,Men's 4 x 200m Freestyle Relay,atlanta-1996,United States of America
+1660,Swimming,Men's 4 x 200m Freestyle Relay,atlanta-1996,Sweden
+1661,Swimming,Men's 4 x 200m Freestyle Relay,atlanta-1996,Germany
+1662,Swimming,Men's 4 x 200m Freestyle Relay,atlanta-1996,Australia
+1663,Swimming,Men's 4 x 200m Freestyle Relay,atlanta-1996,Great Britain
+1664,Swimming,Men's 4 x 200m Freestyle Relay,atlanta-1996,Italy
+1665,Swimming,Men's 4 x 200m Freestyle Relay,atlanta-1996,Netherlands
+1666,Swimming,Men's 4 x 200m Freestyle Relay,atlanta-1996,France
+1667,Swimming,Men's 4 x 200m Freestyle Relay,atlanta-1996,New Zealand
+1668,Swimming,Men's 4 x 200m Freestyle Relay,atlanta-1996,Brazil
+1669,Swimming,Men's 4 x 200m Freestyle Relay,atlanta-1996,Venezuela
+1670,Swimming,Men's 4 x 200m Freestyle Relay,atlanta-1996,Uzbekistan
+1671,Swimming,Men's 4 x 200m Freestyle Relay,atlanta-1996,Croatia
+1672,Swimming,Men's 4 x 200m Freestyle Relay,atlanta-1996,Singapore
+1673,Swimming,Men's 4 x 200m Freestyle Relay,atlanta-1996,Republic of Korea
+1674,Swimming,Men's 4 x 200m Freestyle Relay,atlanta-1996,Ecuador
+1675,Swimming,Men's 4 x 200m Freestyle Relay,atlanta-1996,Kyrgyzstan
+1676,Athletics,Women's 4 x 400m Relay,barcelona-1992,Unified Team
+1677,Athletics,Women's 4 x 400m Relay,barcelona-1992,United States of America
+1678,Athletics,Women's 4 x 400m Relay,barcelona-1992,Great Britain
+1679,Athletics,Women's 4 x 400m Relay,barcelona-1992,Canada
+1680,Athletics,Women's 4 x 400m Relay,barcelona-1992,Jamaica
+1681,Athletics,Women's 4 x 400m Relay,barcelona-1992,Germany
+1682,Athletics,Women's 4 x 400m Relay,barcelona-1992,Australia
+1683,Athletics,Women's 4 x 400m Relay,barcelona-1992,Portugal
+1684,Athletics,Men's 4 x 100m Relay,barcelona-1992,United States of America
+1685,Athletics,Men's 4 x 100m Relay,barcelona-1992,Nigeria
+1686,Athletics,Men's 4 x 100m Relay,barcelona-1992,Cuba
+1687,Athletics,Men's 4 x 100m Relay,barcelona-1992,Great Britain
+1688,Athletics,Men's 4 x 100m Relay,barcelona-1992,Unified Team
+1689,Athletics,Men's 4 x 100m Relay,barcelona-1992,Japan
+1690,Athletics,Men's 4 x 100m Relay,barcelona-1992,Austria
+1691,Athletics,Men's 4 x 100m Relay,barcelona-1992,Ivory Coast
+1692,Athletics,Women's 4 x 100m Relay,barcelona-1992,United States of America
+1693,Athletics,Women's 4 x 100m Relay,barcelona-1992,Unified Team
+1694,Athletics,Women's 4 x 100m Relay,barcelona-1992,Nigeria
+1695,Athletics,Women's 4 x 100m Relay,barcelona-1992,France
+1696,Athletics,Women's 4 x 100m Relay,barcelona-1992,Germany
+1697,Athletics,Women's 4 x 100m Relay,barcelona-1992,Australia
+1698,Athletics,Men's 4 x 400m Relay,barcelona-1992,United States of America
+1699,Athletics,Men's 4 x 400m Relay,barcelona-1992,Cuba
+1700,Athletics,Men's 4 x 400m Relay,barcelona-1992,Great Britain
+1701,Athletics,Men's 4 x 400m Relay,barcelona-1992,Brazil
+1702,Athletics,Men's 4 x 400m Relay,barcelona-1992,Nigeria
+1703,Athletics,Men's 4 x 400m Relay,barcelona-1992,Italy
+1704,Athletics,Men's 4 x 400m Relay,barcelona-1992,Trinidad and Tobago
+1705,Swimming,Men's 4 x 100m Freestyle Relay,barcelona-1992,United States of America
+1706,Swimming,Men's 4 x 100m Freestyle Relay,barcelona-1992,Unified Team
+1707,Swimming,Men's 4 x 100m Freestyle Relay,barcelona-1992,Germany
+1708,Swimming,Men's 4 x 100m Freestyle Relay,barcelona-1992,France
+1709,Swimming,Men's 4 x 100m Freestyle Relay,barcelona-1992,Sweden
+1710,Swimming,Men's 4 x 100m Freestyle Relay,barcelona-1992,Brazil
+1711,Swimming,Men's 4 x 100m Freestyle Relay,barcelona-1992,Great Britain
+1712,Swimming,Men's 4 x 100m Freestyle Relay,barcelona-1992,Australia
+1713,Swimming,Men's 4 x 100m Freestyle Relay,barcelona-1992,New Zealand
+1714,Swimming,Men's 4 x 100m Freestyle Relay,barcelona-1992,Italy
+1715,Swimming,Men's 4 x 100m Freestyle Relay,barcelona-1992,South Africa
+1716,Swimming,Men's 4 x 100m Freestyle Relay,barcelona-1992,Puerto Rico
+1717,Swimming,Men's 4 x 100m Freestyle Relay,barcelona-1992,Guam
+1718,Swimming,Men's 4 x 100m Freestyle Relay,barcelona-1992,Finland
+1719,Swimming,Men's 4 x 100m Freestyle Relay,barcelona-1992,"Hong Kong, China"
+1720,Swimming,Men's 4 x 100m Freestyle Relay,barcelona-1992,Bermuda
+1721,Swimming,Men's 4 x 100m Freestyle Relay,barcelona-1992,Guatemala
+1722,Swimming,Men's 4 x 100m Freestyle Relay,barcelona-1992,United Arab Emirates
+1723,Swimming,Men's 4 x 200m Freestyle Relay,barcelona-1992,Unified Team
+1724,Swimming,Men's 4 x 200m Freestyle Relay,barcelona-1992,Sweden
+1725,Swimming,Men's 4 x 200m Freestyle Relay,barcelona-1992,United States of America
+1726,Swimming,Men's 4 x 200m Freestyle Relay,barcelona-1992,Germany
+1727,Swimming,Men's 4 x 200m Freestyle Relay,barcelona-1992,Italy
+1728,Swimming,Men's 4 x 200m Freestyle Relay,barcelona-1992,Great Britain
+1729,Swimming,Men's 4 x 200m Freestyle Relay,barcelona-1992,Brazil
+1730,Swimming,Men's 4 x 200m Freestyle Relay,barcelona-1992,Australia
+1731,Swimming,Men's 4 x 200m Freestyle Relay,barcelona-1992,Canada
+1732,Swimming,Men's 4 x 200m Freestyle Relay,barcelona-1992,France
+1733,Swimming,Men's 4 x 200m Freestyle Relay,barcelona-1992,New Zealand
+1734,Swimming,Men's 4 x 200m Freestyle Relay,barcelona-1992,Finland
+1735,Swimming,Men's 4 x 200m Freestyle Relay,barcelona-1992,Poland
+1736,Swimming,Men's 4 x 200m Freestyle Relay,barcelona-1992,Norway
+1737,Swimming,Men's 4 x 200m Freestyle Relay,barcelona-1992,Puerto Rico
+1738,Swimming,Men's 4 x 200m Freestyle Relay,barcelona-1992,"Hong Kong, China"
+1739,Swimming,Men's 4 x 200m Freestyle Relay,barcelona-1992,Guatemala
+1740,Swimming,Men's 4 x 200m Freestyle Relay,barcelona-1992,United Arab Emirates
+1741,Swimming,Men's 4 x 100m Freestyle Relay,barcelona-1992,United States of America
+1742,Swimming,Men's 4 x 100m Freestyle Relay,barcelona-1992,People's Republic of China
+1743,Swimming,Men's 4 x 100m Freestyle Relay,barcelona-1992,Germany
+1744,Swimming,Men's 4 x 100m Freestyle Relay,barcelona-1992,Unified Team
+1745,Swimming,Men's 4 x 100m Freestyle Relay,barcelona-1992,Netherlands
+1746,Swimming,Men's 4 x 100m Freestyle Relay,barcelona-1992,Denmark
+1747,Swimming,Men's 4 x 100m Freestyle Relay,barcelona-1992,Sweden
+1748,Swimming,Men's 4 x 100m Freestyle Relay,barcelona-1992,Canada
+1749,Swimming,Men's 4 x 100m Freestyle Relay,barcelona-1992,Australia
+1750,Swimming,Men's 4 x 100m Freestyle Relay,barcelona-1992,Japan
+1751,Swimming,Men's 4 x 100m Freestyle Relay,barcelona-1992,France
+1752,Swimming,Men's 4 x 100m Freestyle Relay,barcelona-1992,Romania
+1753,Swimming,Men's 4 x 100m Freestyle Relay,barcelona-1992,Mauritius
+1754,Athletics,Women's 4 x 400m Relay,seoul-1988,Soviet Union
+1755,Athletics,Women's 4 x 400m Relay,seoul-1988,United States of America
+1756,Athletics,Women's 4 x 400m Relay,seoul-1988,German Democratic Republic (Germany)
+1757,Athletics,Women's 4 x 400m Relay,seoul-1988,Federal Republic of Germany
+1758,Athletics,Women's 4 x 400m Relay,seoul-1988,Jamaica
+1759,Athletics,Women's 4 x 400m Relay,seoul-1988,Great Britain
+1760,Athletics,Women's 4 x 400m Relay,seoul-1988,France
+1761,Athletics,Men's 4 x 100m Relay,seoul-1988,Soviet Union
+1762,Athletics,Men's 4 x 100m Relay,seoul-1988,Great Britain
+1763,Athletics,Men's 4 x 100m Relay,seoul-1988,France
+1764,Athletics,Men's 4 x 100m Relay,seoul-1988,Jamaica
+1765,Athletics,Men's 4 x 100m Relay,seoul-1988,Italy
+1766,Athletics,Men's 4 x 100m Relay,seoul-1988,Federal Republic of Germany
+1767,Athletics,Men's 4 x 100m Relay,seoul-1988,Canada
+1768,Athletics,Men's 4 x 100m Relay,seoul-1988,Hungary
+1769,Athletics,Men's 4 x 400m Relay,seoul-1988,United States of America
+1770,Athletics,Men's 4 x 400m Relay,seoul-1988,Jamaica
+1771,Athletics,Men's 4 x 400m Relay,seoul-1988,Federal Republic of Germany
+1772,Athletics,Men's 4 x 400m Relay,seoul-1988,German Democratic Republic (Germany)
+1773,Athletics,Men's 4 x 400m Relay,seoul-1988,Great Britain
+1774,Athletics,Men's 4 x 400m Relay,seoul-1988,Australia
+1775,Athletics,Men's 4 x 400m Relay,seoul-1988,Nigeria
+1776,Athletics,Men's 4 x 400m Relay,seoul-1988,Kenya
+1777,Athletics,Women's 4 x 100m Relay,seoul-1988,United States of America
+1778,Athletics,Women's 4 x 100m Relay,seoul-1988,German Democratic Republic (Germany)
+1779,Athletics,Women's 4 x 100m Relay,seoul-1988,Soviet Union
+1780,Athletics,Women's 4 x 100m Relay,seoul-1988,Federal Republic of Germany
+1781,Athletics,Women's 4 x 100m Relay,seoul-1988,Bulgaria
+1782,Athletics,Women's 4 x 100m Relay,seoul-1988,Poland
+1783,Athletics,Women's 4 x 100m Relay,seoul-1988,France
+1784,Swimming,Men's 4 x 200m Freestyle Relay,seoul-1988,United States of America
+1785,Swimming,Men's 4 x 200m Freestyle Relay,seoul-1988,German Democratic Republic (Germany)
+1786,Swimming,Men's 4 x 200m Freestyle Relay,seoul-1988,Federal Republic of Germany
+1787,Swimming,Men's 4 x 200m Freestyle Relay,seoul-1988,Australia
+1788,Swimming,Men's 4 x 200m Freestyle Relay,seoul-1988,Italy
+1789,Swimming,Men's 4 x 200m Freestyle Relay,seoul-1988,Sweden
+1790,Swimming,Men's 4 x 200m Freestyle Relay,seoul-1988,France
+1791,Swimming,Men's 4 x 200m Freestyle Relay,seoul-1988,Canada
+1792,Swimming,Men's 4 x 200m Freestyle Relay,seoul-1988,Great Britain
+1793,Swimming,Men's 4 x 200m Freestyle Relay,seoul-1988,Brazil
+1794,Swimming,Men's 4 x 200m Freestyle Relay,seoul-1988,Denmark
+1795,Swimming,Men's 4 x 200m Freestyle Relay,seoul-1988,Republic of Korea
+1796,Swimming,Men's 4 x 200m Freestyle Relay,seoul-1988,US Virgin Islands
+1797,Swimming,Men's 4 x 200m Freestyle Relay,seoul-1988,United Arab Emirates
+1798,Swimming,Men's 4 x 200m Freestyle Relay,seoul-1988,Mexico
+1799,Swimming,Men's 4 x 200m Freestyle Relay,seoul-1988,Soviet Union
+1800,Swimming,Men's 4 x 100m Freestyle Relay,seoul-1988,United States of America
+1801,Swimming,Men's 4 x 100m Freestyle Relay,seoul-1988,Soviet Union
+1802,Swimming,Men's 4 x 100m Freestyle Relay,seoul-1988,German Democratic Republic (Germany)
+1803,Swimming,Men's 4 x 100m Freestyle Relay,seoul-1988,France
+1804,Swimming,Men's 4 x 100m Freestyle Relay,seoul-1988,Sweden
+1805,Swimming,Men's 4 x 100m Freestyle Relay,seoul-1988,Federal Republic of Germany
+1806,Swimming,Men's 4 x 100m Freestyle Relay,seoul-1988,Great Britain
+1807,Swimming,Men's 4 x 100m Freestyle Relay,seoul-1988,Italy
+1808,Swimming,Men's 4 x 100m Freestyle Relay,seoul-1988,Canada
+1809,Swimming,Men's 4 x 100m Freestyle Relay,seoul-1988,Denmark
+1810,Swimming,Men's 4 x 100m Freestyle Relay,seoul-1988,Netherlands
+1811,Swimming,Men's 4 x 100m Freestyle Relay,seoul-1988,Brazil
+1812,Swimming,Men's 4 x 100m Freestyle Relay,seoul-1988,Mexico
+1813,Swimming,Men's 4 x 100m Freestyle Relay,seoul-1988,Portugal
+1814,Swimming,Men's 4 x 100m Freestyle Relay,seoul-1988,Singapore
+1815,Swimming,Men's 4 x 100m Freestyle Relay,seoul-1988,"Hong Kong, China"
+1816,Swimming,Men's 4 x 100m Freestyle Relay,seoul-1988,Republic of Korea
+1817,Swimming,Men's 4 x 100m Freestyle Relay,seoul-1988,US Virgin Islands
+1818,Swimming,Men's 4 x 100m Freestyle Relay,seoul-1988,United Arab Emirates
+1819,Swimming,Men's 4 x 100m Freestyle Relay,seoul-1988,People's Republic of China
+1820,Swimming,Men's 4 x 100m Freestyle Relay,seoul-1988,Egypt
+1821,Swimming,Men's 4 x 100m Freestyle Relay,seoul-1988,Austria
+1822,Swimming,Men's 4 x 100m Freestyle Relay,seoul-1988,German Democratic Republic (Germany)
+1823,Swimming,Men's 4 x 100m Freestyle Relay,seoul-1988,Netherlands
+1824,Swimming,Men's 4 x 100m Freestyle Relay,seoul-1988,United States of America
+1825,Swimming,Men's 4 x 100m Freestyle Relay,seoul-1988,People's Republic of China
+1826,Swimming,Men's 4 x 100m Freestyle Relay,seoul-1988,Soviet Union
+1827,Swimming,Men's 4 x 100m Freestyle Relay,seoul-1988,Canada
+1828,Swimming,Men's 4 x 100m Freestyle Relay,seoul-1988,Federal Republic of Germany
+1829,Swimming,Men's 4 x 100m Freestyle Relay,seoul-1988,Denmark
+1830,Swimming,Men's 4 x 100m Freestyle Relay,seoul-1988,Sweden
+1831,Swimming,Men's 4 x 100m Freestyle Relay,seoul-1988,Great Britain
+1832,Swimming,Men's 4 x 100m Freestyle Relay,seoul-1988,Brazil
+1833,Swimming,Men's 4 x 100m Freestyle Relay,seoul-1988,Costa Rica
+1834,Swimming,Men's 4 x 100m Freestyle Relay,seoul-1988,Republic of Korea
+1835,Swimming,Men's 4 x 100m Freestyle Relay,seoul-1988,"Hong Kong, China"
+1836,Swimming,Men's 4 x 100m Freestyle Relay,seoul-1988,Chinese Taipei
+1837,Swimming,Men's 4 x 100m Freestyle Relay,los-angeles-1984,United States of America
+1838,Swimming,Men's 4 x 100m Freestyle Relay,los-angeles-1984,Netherlands
+1839,Swimming,Men's 4 x 100m Freestyle Relay,los-angeles-1984,Federal Republic of Germany
+1840,Swimming,Men's 4 x 100m Freestyle Relay,los-angeles-1984,Australia
+1841,Swimming,Men's 4 x 100m Freestyle Relay,los-angeles-1984,Canada
+1842,Swimming,Men's 4 x 100m Freestyle Relay,los-angeles-1984,Great Britain
+1843,Swimming,Men's 4 x 100m Freestyle Relay,los-angeles-1984,Sweden
+1844,Swimming,Men's 4 x 100m Freestyle Relay,los-angeles-1984,France
+1845,Swimming,Men's 4 x 100m Freestyle Relay,los-angeles-1984,Italy
+1846,Swimming,Men's 4 x 100m Freestyle Relay,los-angeles-1984,Japan
+1847,Swimming,Men's 4 x 100m Freestyle Relay,los-angeles-1984,Mexico
+1848,Swimming,Men's 4 x 100m Freestyle Relay,los-angeles-1984,"Hong Kong, China"
+1849,Swimming,Men's 4 x 200m Freestyle Relay,los-angeles-1984,United States of America
+1850,Swimming,Men's 4 x 200m Freestyle Relay,los-angeles-1984,Federal Republic of Germany
+1851,Swimming,Men's 4 x 200m Freestyle Relay,los-angeles-1984,Great Britain
+1852,Swimming,Men's 4 x 200m Freestyle Relay,los-angeles-1984,Australia
+1853,Swimming,Men's 4 x 200m Freestyle Relay,los-angeles-1984,Canada
+1854,Swimming,Men's 4 x 200m Freestyle Relay,los-angeles-1984,Sweden
+1855,Swimming,Men's 4 x 200m Freestyle Relay,los-angeles-1984,Netherlands
+1856,Swimming,Men's 4 x 200m Freestyle Relay,los-angeles-1984,France
+1857,Swimming,Men's 4 x 200m Freestyle Relay,los-angeles-1984,Brazil
+1858,Swimming,Men's 4 x 200m Freestyle Relay,los-angeles-1984,Venezuela
+1859,Swimming,Men's 4 x 200m Freestyle Relay,los-angeles-1984,Spain
+1860,Swimming,Men's 4 x 200m Freestyle Relay,los-angeles-1984,Turkey
+1861,Swimming,Men's 4 x 200m Freestyle Relay,los-angeles-1984,Japan
+1862,Swimming,Men's 4 x 200m Freestyle Relay,los-angeles-1984,Italy
+1863,Swimming,Men's 4 x 100m Freestyle Relay,los-angeles-1984,United States of America
+1864,Swimming,Men's 4 x 100m Freestyle Relay,los-angeles-1984,Australia
+1865,Swimming,Men's 4 x 100m Freestyle Relay,los-angeles-1984,Sweden
+1866,Swimming,Men's 4 x 100m Freestyle Relay,los-angeles-1984,Federal Republic of Germany
+1867,Swimming,Men's 4 x 100m Freestyle Relay,los-angeles-1984,Great Britain
+1868,Swimming,Men's 4 x 100m Freestyle Relay,los-angeles-1984,France
+1869,Swimming,Men's 4 x 100m Freestyle Relay,los-angeles-1984,Canada
+1870,Swimming,Men's 4 x 100m Freestyle Relay,los-angeles-1984,Italy
+1871,Swimming,Men's 4 x 100m Freestyle Relay,los-angeles-1984,Switzerland
+1872,Swimming,Men's 4 x 100m Freestyle Relay,los-angeles-1984,Brazil
+1873,Swimming,Men's 4 x 100m Freestyle Relay,los-angeles-1984,Netherlands
+1874,Swimming,Men's 4 x 100m Freestyle Relay,los-angeles-1984,Venezuela
+1875,Swimming,Men's 4 x 100m Freestyle Relay,los-angeles-1984,Japan
+1876,Swimming,Men's 4 x 100m Freestyle Relay,los-angeles-1984,Puerto Rico
+1877,Swimming,Men's 4 x 100m Freestyle Relay,los-angeles-1984,People's Republic of China
+1878,Swimming,Men's 4 x 100m Freestyle Relay,los-angeles-1984,Mexico
+1879,Swimming,Men's 4 x 100m Freestyle Relay,los-angeles-1984,Singapore
+1880,Swimming,Men's 4 x 100m Freestyle Relay,los-angeles-1984,Jamaica
+1881,Swimming,Men's 4 x 100m Freestyle Relay,los-angeles-1984,Turkey
+1882,Swimming,Men's 4 x 100m Freestyle Relay,los-angeles-1984,US Virgin Islands
+1883,Swimming,Men's 4 x 100m Freestyle Relay,los-angeles-1984,Guatemala
+1884,Swimming,Men's 4 x 100m Freestyle Relay,los-angeles-1984,Honduras
+1885,Swimming,Men's 4 x 100m Freestyle Relay,los-angeles-1984,Egypt
+1886,Swimming,Men's 4 x 100m Freestyle Relay,los-angeles-1984,Kuwait
+1887,Athletics,Women's 4 x 400m Relay,los-angeles-1984,United States of America
+1888,Athletics,Women's 4 x 400m Relay,los-angeles-1984,Canada
+1889,Athletics,Women's 4 x 400m Relay,los-angeles-1984,Federal Republic of Germany
+1890,Athletics,Women's 4 x 400m Relay,los-angeles-1984,Great Britain
+1891,Athletics,Women's 4 x 400m Relay,los-angeles-1984,Jamaica
+1892,Athletics,Women's 4 x 400m Relay,los-angeles-1984,Italy
+1893,Athletics,Women's 4 x 400m Relay,los-angeles-1984,India
+1894,Athletics,Women's 4 x 100m Relay,los-angeles-1984,United States of America
+1895,Athletics,Women's 4 x 100m Relay,los-angeles-1984,Canada
+1896,Athletics,Women's 4 x 100m Relay,los-angeles-1984,Great Britain
+1897,Athletics,Women's 4 x 100m Relay,los-angeles-1984,France
+1898,Athletics,Women's 4 x 100m Relay,los-angeles-1984,Federal Republic of Germany
+1899,Athletics,Women's 4 x 100m Relay,los-angeles-1984,Bahamas
+1900,Athletics,Women's 4 x 100m Relay,los-angeles-1984,Trinidad and Tobago
+1901,Athletics,Women's 4 x 100m Relay,los-angeles-1984,Jamaica
+1902,Athletics,Men's 4 x 400m Relay,los-angeles-1984,United States of America
+1903,Athletics,Men's 4 x 400m Relay,los-angeles-1984,Great Britain
+1904,Athletics,Men's 4 x 400m Relay,los-angeles-1984,Nigeria
+1905,Athletics,Men's 4 x 400m Relay,los-angeles-1984,Australia
+1906,Athletics,Men's 4 x 400m Relay,los-angeles-1984,Italy
+1907,Athletics,Men's 4 x 400m Relay,los-angeles-1984,Barbados
+1908,Athletics,Men's 4 x 400m Relay,los-angeles-1984,Uganda
+1909,Athletics,Men's 4 x 400m Relay,los-angeles-1984,Canada
+1910,Athletics,Men's 4 x 100m Relay,los-angeles-1984,United States of America
+1911,Athletics,Men's 4 x 100m Relay,los-angeles-1984,Jamaica
+1912,Athletics,Men's 4 x 100m Relay,los-angeles-1984,Canada
+1913,Athletics,Men's 4 x 100m Relay,los-angeles-1984,Italy
+1914,Athletics,Men's 4 x 100m Relay,los-angeles-1984,Federal Republic of Germany
+1915,Athletics,Men's 4 x 100m Relay,los-angeles-1984,France
+1916,Athletics,Men's 4 x 100m Relay,los-angeles-1984,Great Britain
+1917,Athletics,Men's 4 x 100m Relay,los-angeles-1984,Brazil
+1918,Athletics,Women's 4 x 400m Relay,moscow-1980,Soviet Union
+1919,Athletics,Women's 4 x 400m Relay,moscow-1980,German Democratic Republic (Germany)
+1920,Athletics,Women's 4 x 400m Relay,moscow-1980,Great Britain
+1921,Athletics,Women's 4 x 400m Relay,moscow-1980,Romania
+1922,Athletics,Women's 4 x 400m Relay,moscow-1980,Hungary
+1923,Athletics,Women's 4 x 400m Relay,moscow-1980,Poland
+1924,Athletics,Women's 4 x 400m Relay,moscow-1980,Belgium
+1925,Athletics,Women's 4 x 100m Relay,moscow-1980,German Democratic Republic (Germany)
+1926,Athletics,Women's 4 x 100m Relay,moscow-1980,Soviet Union
+1927,Athletics,Women's 4 x 100m Relay,moscow-1980,Great Britain
+1928,Athletics,Women's 4 x 100m Relay,moscow-1980,Bulgaria
+1929,Athletics,Women's 4 x 100m Relay,moscow-1980,France
+1930,Athletics,Women's 4 x 100m Relay,moscow-1980,Jamaica
+1931,Athletics,Women's 4 x 100m Relay,moscow-1980,Poland
+1932,Athletics,Women's 4 x 100m Relay,moscow-1980,Sweden
+1933,Athletics,Men's 4 x 100m Relay,moscow-1980,Soviet Union
+1934,Athletics,Men's 4 x 100m Relay,moscow-1980,Poland
+1935,Athletics,Men's 4 x 100m Relay,moscow-1980,France
+1936,Athletics,Men's 4 x 100m Relay,moscow-1980,Great Britain
+1937,Athletics,Men's 4 x 100m Relay,moscow-1980,German Democratic Republic (Germany)
+1938,Athletics,Men's 4 x 100m Relay,moscow-1980,Bulgaria
+1939,Athletics,Men's 4 x 100m Relay,moscow-1980,Nigeria
+1940,Athletics,Men's 4 x 100m Relay,moscow-1980,Brazil
+1941,Athletics,Men's 4 x 400m Relay,moscow-1980,Soviet Union
+1942,Athletics,Men's 4 x 400m Relay,moscow-1980,German Democratic Republic (Germany)
+1943,Athletics,Men's 4 x 400m Relay,moscow-1980,Italy
+1944,Athletics,Men's 4 x 400m Relay,moscow-1980,France
+1945,Athletics,Men's 4 x 400m Relay,moscow-1980,Brazil
+1946,Athletics,Men's 4 x 400m Relay,moscow-1980,Trinidad and Tobago
+1947,Athletics,Men's 4 x 400m Relay,moscow-1980,Czechoslovakia
+1948,Swimming,Men's 4 x 200m Freestyle Relay,moscow-1980,Soviet Union
+1949,Swimming,Men's 4 x 200m Freestyle Relay,moscow-1980,German Democratic Republic (Germany)
+1950,Swimming,Men's 4 x 200m Freestyle Relay,moscow-1980,Brazil
+1951,Swimming,Men's 4 x 200m Freestyle Relay,moscow-1980,Sweden
+1952,Swimming,Men's 4 x 200m Freestyle Relay,moscow-1980,Italy
+1953,Swimming,Men's 4 x 200m Freestyle Relay,moscow-1980,Great Britain
+1954,Swimming,Men's 4 x 200m Freestyle Relay,moscow-1980,Australia
+1955,Swimming,Men's 4 x 200m Freestyle Relay,moscow-1980,France
+1956,Swimming,Men's 4 x 200m Freestyle Relay,moscow-1980,Bulgaria
+1957,Swimming,Men's 4 x 200m Freestyle Relay,moscow-1980,Hungary
+1958,Swimming,Men's 4 x 100m Freestyle Relay,moscow-1980,German Democratic Republic (Germany)
+1959,Swimming,Men's 4 x 100m Freestyle Relay,moscow-1980,Sweden
+1960,Swimming,Men's 4 x 100m Freestyle Relay,moscow-1980,Netherlands
+1961,Swimming,Men's 4 x 100m Freestyle Relay,moscow-1980,Great Britain
+1962,Swimming,Men's 4 x 100m Freestyle Relay,moscow-1980,Australia
+1963,Swimming,Men's 4 x 100m Freestyle Relay,moscow-1980,Mexico
+1964,Swimming,Men's 4 x 100m Freestyle Relay,moscow-1980,Bulgaria
+1965,Swimming,Men's 4 x 100m Freestyle Relay,moscow-1980,Spain
+1966,Swimming,Men's 4 x 100m Freestyle Relay,moscow-1980,Soviet Union
+1967,Swimming,Men's 4 x 100m Freestyle Relay,montreal-1976,United States of America
+1968,Swimming,Men's 4 x 100m Freestyle Relay,montreal-1976,German Democratic Republic (Germany)
+1969,Swimming,Men's 4 x 100m Freestyle Relay,montreal-1976,Canada
+1970,Swimming,Men's 4 x 100m Freestyle Relay,montreal-1976,Netherlands
+1971,Swimming,Men's 4 x 100m Freestyle Relay,montreal-1976,Soviet Union
+1972,Swimming,Men's 4 x 100m Freestyle Relay,montreal-1976,France
+1973,Swimming,Men's 4 x 100m Freestyle Relay,montreal-1976,Sweden
+1974,Swimming,Men's 4 x 100m Freestyle Relay,montreal-1976,Federal Republic of Germany
+1975,Swimming,Men's 4 x 100m Freestyle Relay,montreal-1976,Italy
+1976,Swimming,Men's 4 x 200m Freestyle Relay,montreal-1976,United States of America
+1977,Swimming,Men's 4 x 200m Freestyle Relay,montreal-1976,Soviet Union
+1978,Swimming,Men's 4 x 200m Freestyle Relay,montreal-1976,Great Britain
+1979,Swimming,Men's 4 x 200m Freestyle Relay,montreal-1976,Federal Republic of Germany
+1980,Swimming,Men's 4 x 200m Freestyle Relay,montreal-1976,German Democratic Republic (Germany)
+1981,Swimming,Men's 4 x 200m Freestyle Relay,montreal-1976,Netherlands
+1982,Swimming,Men's 4 x 200m Freestyle Relay,montreal-1976,Sweden
+1983,Swimming,Men's 4 x 200m Freestyle Relay,montreal-1976,Italy
+1984,Swimming,Men's 4 x 200m Freestyle Relay,montreal-1976,Canada
+1985,Swimming,Men's 4 x 200m Freestyle Relay,montreal-1976,Hungary
+1986,Athletics,Men's 4 x 400m Relay,montreal-1976,United States of America
+1987,Athletics,Men's 4 x 400m Relay,montreal-1976,Poland
+1988,Athletics,Men's 4 x 400m Relay,montreal-1976,Federal Republic of Germany
+1989,Athletics,Men's 4 x 400m Relay,montreal-1976,Canada
+1990,Athletics,Men's 4 x 400m Relay,montreal-1976,Jamaica
+1991,Athletics,Men's 4 x 400m Relay,montreal-1976,Trinidad and Tobago
+1992,Athletics,Men's 4 x 400m Relay,montreal-1976,Cuba
+1993,Athletics,Men's 4 x 400m Relay,montreal-1976,Finland
+1994,Athletics,Women's 4 x 400m Relay,montreal-1976,German Democratic Republic (Germany)
+1995,Athletics,Women's 4 x 400m Relay,montreal-1976,United States of America
+1996,Athletics,Women's 4 x 400m Relay,montreal-1976,Soviet Union
+1997,Athletics,Women's 4 x 400m Relay,montreal-1976,Australia
+1998,Athletics,Women's 4 x 400m Relay,montreal-1976,Federal Republic of Germany
+1999,Athletics,Women's 4 x 400m Relay,montreal-1976,Finland
+2000,Athletics,Women's 4 x 400m Relay,montreal-1976,Great Britain
+2001,Athletics,Women's 4 x 400m Relay,montreal-1976,Canada
+2002,Athletics,Men's 4 x 100m Relay,montreal-1976,United States of America
+2003,Athletics,Men's 4 x 100m Relay,montreal-1976,German Democratic Republic (Germany)
+2004,Athletics,Men's 4 x 100m Relay,montreal-1976,Soviet Union
+2005,Athletics,Men's 4 x 100m Relay,montreal-1976,Poland
+2006,Athletics,Men's 4 x 100m Relay,montreal-1976,Cuba
+2007,Athletics,Men's 4 x 100m Relay,montreal-1976,Italy
+2008,Athletics,Men's 4 x 100m Relay,montreal-1976,France
+2009,Athletics,Men's 4 x 100m Relay,montreal-1976,Canada
+2010,Athletics,Women's 4 x 100m Relay,montreal-1976,German Democratic Republic (Germany)
+2011,Athletics,Women's 4 x 100m Relay,montreal-1976,Federal Republic of Germany
+2012,Athletics,Women's 4 x 100m Relay,montreal-1976,Soviet Union
+2013,Athletics,Women's 4 x 100m Relay,montreal-1976,Canada
+2014,Athletics,Women's 4 x 100m Relay,montreal-1976,Australia
+2015,Athletics,Women's 4 x 100m Relay,montreal-1976,Jamaica
+2016,Athletics,Women's 4 x 100m Relay,montreal-1976,United States of America
+2017,Athletics,Women's 4 x 100m Relay,montreal-1976,Great Britain
+2018,Swimming,Men's 4 x 200m Freestyle Relay,munich-1972,United States of America
+2019,Swimming,Men's 4 x 200m Freestyle Relay,munich-1972,Federal Republic of Germany
+2020,Swimming,Men's 4 x 200m Freestyle Relay,munich-1972,Soviet Union
+2021,Swimming,Men's 4 x 200m Freestyle Relay,munich-1972,Sweden
+2022,Swimming,Men's 4 x 200m Freestyle Relay,munich-1972,Australia
+2023,Swimming,Men's 4 x 200m Freestyle Relay,munich-1972,German Democratic Republic (Germany)
+2024,Swimming,Men's 4 x 200m Freestyle Relay,munich-1972,Canada
+2025,Swimming,Men's 4 x 200m Freestyle Relay,munich-1972,Great Britain
+2026,Swimming,Men's 4 x 200m Freestyle Relay,munich-1972,El Salvador
+2027,Swimming,Men's 4 x 200m Freestyle Relay,munich-1972,Ecuador
+2028,Swimming,Men's 4 x 200m Freestyle Relay,munich-1972,Rhodesia
+2029,Swimming,Men's 4 x 100m Freestyle Relay,munich-1972,United States of America
+2030,Swimming,Men's 4 x 100m Freestyle Relay,munich-1972,Soviet Union
+2031,Swimming,Men's 4 x 100m Freestyle Relay,munich-1972,German Democratic Republic (Germany)
+2032,Swimming,Men's 4 x 100m Freestyle Relay,munich-1972,Brazil
+2033,Swimming,Men's 4 x 100m Freestyle Relay,munich-1972,Canada
+2034,Swimming,Men's 4 x 100m Freestyle Relay,munich-1972,Federal Republic of Germany
+2035,Swimming,Men's 4 x 100m Freestyle Relay,munich-1972,France
+2036,Swimming,Men's 4 x 100m Freestyle Relay,munich-1972,Spain
+2037,Swimming,Men's 4 x 100m Freestyle Relay,munich-1972,United States of America
+2038,Swimming,Men's 4 x 100m Freestyle Relay,munich-1972,German Democratic Republic (Germany)
+2039,Swimming,Men's 4 x 100m Freestyle Relay,munich-1972,Federal Republic of Germany
+2040,Swimming,Men's 4 x 100m Freestyle Relay,munich-1972,Hungary
+2041,Swimming,Men's 4 x 100m Freestyle Relay,munich-1972,Netherlands
+2042,Swimming,Men's 4 x 100m Freestyle Relay,munich-1972,Sweden
+2043,Swimming,Men's 4 x 100m Freestyle Relay,munich-1972,Canada
+2044,Swimming,Men's 4 x 100m Freestyle Relay,munich-1972,Australia
+2045,Athletics,Men's 4 x 400m Relay,munich-1972,Kenya
+2046,Athletics,Men's 4 x 400m Relay,munich-1972,Great Britain
+2047,Athletics,Men's 4 x 400m Relay,munich-1972,France
+2048,Athletics,Men's 4 x 400m Relay,munich-1972,Federal Republic of Germany
+2049,Athletics,Men's 4 x 400m Relay,munich-1972,Poland
+2050,Athletics,Men's 4 x 400m Relay,munich-1972,Finland
+2051,Athletics,Men's 4 x 400m Relay,munich-1972,Sweden
+2052,Athletics,Men's 4 x 400m Relay,munich-1972,Trinidad and Tobago
+2053,Athletics,Men's 4 x 100m Relay,munich-1972,United States of America
+2054,Athletics,Men's 4 x 100m Relay,munich-1972,Soviet Union
+2055,Athletics,Men's 4 x 100m Relay,munich-1972,Federal Republic of Germany
+2056,Athletics,Men's 4 x 100m Relay,munich-1972,Czechoslovakia
+2057,Athletics,Men's 4 x 100m Relay,munich-1972,German Democratic Republic (Germany)
+2058,Athletics,Men's 4 x 100m Relay,munich-1972,Poland
+2059,Athletics,Men's 4 x 100m Relay,munich-1972,France
+2060,Athletics,Men's 4 x 100m Relay,munich-1972,Italy
+2061,Athletics,Women's 4 x 100m Relay,munich-1972,Federal Republic of Germany
+2062,Athletics,Women's 4 x 100m Relay,munich-1972,German Democratic Republic (Germany)
+2063,Athletics,Women's 4 x 100m Relay,munich-1972,Cuba
+2064,Athletics,Women's 4 x 100m Relay,munich-1972,United States of America
+2065,Athletics,Women's 4 x 100m Relay,munich-1972,Soviet Union
+2066,Athletics,Women's 4 x 100m Relay,munich-1972,Australia
+2067,Athletics,Women's 4 x 100m Relay,munich-1972,Great Britain
+2068,Athletics,Women's 4 x 100m Relay,munich-1972,Poland
+2069,Athletics,Women's 4 x 400m Relay,munich-1972,German Democratic Republic (Germany)
+2070,Athletics,Women's 4 x 400m Relay,munich-1972,United States of America
+2071,Athletics,Women's 4 x 400m Relay,munich-1972,Federal Republic of Germany
+2072,Athletics,Women's 4 x 400m Relay,munich-1972,France
+2073,Athletics,Women's 4 x 400m Relay,munich-1972,Great Britain
+2074,Athletics,Women's 4 x 400m Relay,munich-1972,Australia
+2075,Athletics,Women's 4 x 400m Relay,munich-1972,Finland
+2076,Athletics,Women's 4 x 400m Relay,munich-1972,Soviet Union
+2077,Swimming,Men's 4 x 100m Freestyle Relay,mexico-city-1968,United States of America
+2078,Swimming,Men's 4 x 100m Freestyle Relay,mexico-city-1968,Soviet Union
+2079,Swimming,Men's 4 x 100m Freestyle Relay,mexico-city-1968,Australia
+2080,Swimming,Men's 4 x 100m Freestyle Relay,mexico-city-1968,Great Britain
+2081,Swimming,Men's 4 x 100m Freestyle Relay,mexico-city-1968,German Democratic Republic (Germany)
+2082,Swimming,Men's 4 x 100m Freestyle Relay,mexico-city-1968,Federal Republic of Germany
+2083,Swimming,Men's 4 x 100m Freestyle Relay,mexico-city-1968,Canada
+2084,Swimming,Men's 4 x 100m Freestyle Relay,mexico-city-1968,Japan
+2085,Swimming,Men's 4 x 200m Freestyle Relay,mexico-city-1968,United States of America
+2086,Swimming,Men's 4 x 200m Freestyle Relay,mexico-city-1968,Australia
+2087,Swimming,Men's 4 x 200m Freestyle Relay,mexico-city-1968,Soviet Union
+2088,Swimming,Men's 4 x 200m Freestyle Relay,mexico-city-1968,Canada
+2089,Swimming,Men's 4 x 200m Freestyle Relay,mexico-city-1968,France
+2090,Swimming,Men's 4 x 200m Freestyle Relay,mexico-city-1968,Federal Republic of Germany
+2091,Swimming,Men's 4 x 200m Freestyle Relay,mexico-city-1968,German Democratic Republic (Germany)
+2092,Swimming,Men's 4 x 200m Freestyle Relay,mexico-city-1968,Sweden
+2093,Swimming,Men's 4 x 200m Freestyle Relay,mexico-city-1968,Mexico
+2094,Swimming,Men's 4 x 100m Freestyle Relay,mexico-city-1968,United States of America
+2095,Swimming,Men's 4 x 100m Freestyle Relay,mexico-city-1968,German Democratic Republic (Germany)
+2096,Swimming,Men's 4 x 100m Freestyle Relay,mexico-city-1968,Canada
+2097,Swimming,Men's 4 x 100m Freestyle Relay,mexico-city-1968,Australia
+2098,Swimming,Men's 4 x 100m Freestyle Relay,mexico-city-1968,Hungary
+2099,Swimming,Men's 4 x 100m Freestyle Relay,mexico-city-1968,Japan
+2100,Swimming,Men's 4 x 100m Freestyle Relay,mexico-city-1968,Great Britain
+2101,Swimming,Men's 4 x 100m Freestyle Relay,mexico-city-1968,France
+2102,Athletics,Men's 4 x 400m Relay,mexico-city-1968,United States of America
+2103,Athletics,Men's 4 x 400m Relay,mexico-city-1968,Kenya
+2104,Athletics,Men's 4 x 400m Relay,mexico-city-1968,Federal Republic of Germany
+2105,Athletics,Men's 4 x 400m Relay,mexico-city-1968,Poland
+2106,Athletics,Men's 4 x 400m Relay,mexico-city-1968,Great Britain
+2107,Athletics,Men's 4 x 400m Relay,mexico-city-1968,Trinidad and Tobago
+2108,Athletics,Men's 4 x 400m Relay,mexico-city-1968,Italy
+2109,Athletics,Men's 4 x 400m Relay,mexico-city-1968,France
+2110,Athletics,Women's 4 x 100m Relay,mexico-city-1968,United States of America
+2111,Athletics,Women's 4 x 100m Relay,mexico-city-1968,Cuba
+2112,Athletics,Women's 4 x 100m Relay,mexico-city-1968,Soviet Union
+2113,Athletics,Women's 4 x 100m Relay,mexico-city-1968,Netherlands
+2114,Athletics,Women's 4 x 100m Relay,mexico-city-1968,Australia
+2115,Athletics,Women's 4 x 100m Relay,mexico-city-1968,Federal Republic of Germany
+2116,Athletics,Women's 4 x 100m Relay,mexico-city-1968,Great Britain
+2117,Athletics,Women's 4 x 100m Relay,mexico-city-1968,France
+2118,Athletics,Men's 4 x 100m Relay,mexico-city-1968,United States of America
+2119,Athletics,Men's 4 x 100m Relay,mexico-city-1968,Cuba
+2120,Athletics,Men's 4 x 100m Relay,mexico-city-1968,France
+2121,Athletics,Men's 4 x 100m Relay,mexico-city-1968,Jamaica
+2122,Athletics,Men's 4 x 100m Relay,mexico-city-1968,German Democratic Republic (Germany)
+2123,Athletics,Men's 4 x 100m Relay,mexico-city-1968,Federal Republic of Germany
+2124,Athletics,Men's 4 x 100m Relay,mexico-city-1968,Italy
+2125,Athletics,Men's 4 x 100m Relay,mexico-city-1968,Poland
+2126,Swimming,Men's 4 x 200m Freestyle Relay,tokyo-1964,United States of America
+2127,Swimming,Men's 4 x 200m Freestyle Relay,tokyo-1964,Germany
+2128,Swimming,Men's 4 x 200m Freestyle Relay,tokyo-1964,Japan
+2129,Swimming,Men's 4 x 200m Freestyle Relay,tokyo-1964,Australia
+2130,Swimming,Men's 4 x 200m Freestyle Relay,tokyo-1964,Sweden
+2131,Swimming,Men's 4 x 200m Freestyle Relay,tokyo-1964,France
+2132,Swimming,Men's 4 x 200m Freestyle Relay,tokyo-1964,Soviet Union
+2133,Swimming,Men's 4 x 200m Freestyle Relay,tokyo-1964,Italy
+2134,Swimming,Men's 4 x 100m Freestyle Relay,tokyo-1964,United States of America
+2135,Swimming,Men's 4 x 100m Freestyle Relay,tokyo-1964,Germany
+2136,Swimming,Men's 4 x 100m Freestyle Relay,tokyo-1964,Australia
+2137,Swimming,Men's 4 x 100m Freestyle Relay,tokyo-1964,Japan
+2138,Swimming,Men's 4 x 100m Freestyle Relay,tokyo-1964,Sweden
+2139,Swimming,Men's 4 x 100m Freestyle Relay,tokyo-1964,Soviet Union
+2140,Swimming,Men's 4 x 100m Freestyle Relay,tokyo-1964,Great Britain
+2141,Swimming,Men's 4 x 100m Freestyle Relay,tokyo-1964,France
+2142,Swimming,Men's 4 x 100m Freestyle Relay,tokyo-1964,United States of America
+2143,Swimming,Men's 4 x 100m Freestyle Relay,tokyo-1964,Australia
+2144,Swimming,Men's 4 x 100m Freestyle Relay,tokyo-1964,Netherlands
+2145,Swimming,Men's 4 x 100m Freestyle Relay,tokyo-1964,Hungary
+2146,Swimming,Men's 4 x 100m Freestyle Relay,tokyo-1964,Sweden
+2147,Swimming,Men's 4 x 100m Freestyle Relay,tokyo-1964,Germany
+2148,Swimming,Men's 4 x 100m Freestyle Relay,tokyo-1964,Canada
+2149,Swimming,Men's 4 x 100m Freestyle Relay,tokyo-1964,Italy
+2150,Athletics,Women's 4 x 100m Relay,tokyo-1964,Poland
+2151,Athletics,Women's 4 x 100m Relay,tokyo-1964,United States of America
+2152,Athletics,Women's 4 x 100m Relay,tokyo-1964,Great Britain
+2153,Athletics,Women's 4 x 100m Relay,tokyo-1964,Soviet Union
+2154,Athletics,Women's 4 x 100m Relay,tokyo-1964,Germany
+2155,Athletics,Women's 4 x 100m Relay,tokyo-1964,Australia
+2156,Athletics,Women's 4 x 100m Relay,tokyo-1964,Hungary
+2157,Athletics,Women's 4 x 100m Relay,tokyo-1964,France
+2158,Athletics,Men's 4 x 100m Relay,tokyo-1964,United States of America
+2159,Athletics,Men's 4 x 100m Relay,tokyo-1964,Poland
+2160,Athletics,Men's 4 x 100m Relay,tokyo-1964,France
+2161,Athletics,Men's 4 x 100m Relay,tokyo-1964,Jamaica
+2162,Athletics,Men's 4 x 100m Relay,tokyo-1964,Soviet Union
+2163,Athletics,Men's 4 x 100m Relay,tokyo-1964,Venezuela
+2164,Athletics,Men's 4 x 100m Relay,tokyo-1964,Italy
+2165,Athletics,Men's 4 x 100m Relay,tokyo-1964,Great Britain
+2166,Athletics,Men's 4 x 400m Relay,tokyo-1964,United States of America
+2167,Athletics,Men's 4 x 400m Relay,tokyo-1964,Great Britain
+2168,Athletics,Men's 4 x 400m Relay,tokyo-1964,Trinidad and Tobago
+2169,Athletics,Men's 4 x 400m Relay,tokyo-1964,Jamaica
+2170,Athletics,Men's 4 x 400m Relay,tokyo-1964,Germany
+2171,Athletics,Men's 4 x 400m Relay,tokyo-1964,Poland
+2172,Athletics,Men's 4 x 400m Relay,tokyo-1964,Soviet Union
+2173,Athletics,Men's 4 x 400m Relay,tokyo-1964,France
+2174,Athletics,Men's 4 x 100m Relay,rome-1960,Germany
+2175,Athletics,Men's 4 x 100m Relay,rome-1960,Soviet Union
+2176,Athletics,Men's 4 x 100m Relay,rome-1960,Great Britain
+2177,Athletics,Men's 4 x 100m Relay,rome-1960,Italy
+2178,Athletics,Men's 4 x 100m Relay,rome-1960,Venezuela
+2179,Athletics,Men's 4 x 400m Relay,rome-1960,United States of America
+2180,Athletics,Men's 4 x 400m Relay,rome-1960,Germany
+2181,Athletics,Men's 4 x 400m Relay,rome-1960,West Indies Federation
+2182,Athletics,Men's 4 x 400m Relay,rome-1960,South Africa
+2183,Athletics,Men's 4 x 400m Relay,rome-1960,Great Britain
+2184,Athletics,Men's 4 x 400m Relay,rome-1960,Switzerland
+2185,Athletics,Women's 4 x 100m Relay,rome-1960,United States of America
+2186,Athletics,Women's 4 x 100m Relay,rome-1960,Germany
+2187,Athletics,Women's 4 x 100m Relay,rome-1960,Poland
+2188,Athletics,Women's 4 x 100m Relay,rome-1960,Soviet Union
+2189,Athletics,Women's 4 x 100m Relay,rome-1960,Italy
+2190,Swimming,Men's 4 x 200m Freestyle Relay,rome-1960,United States of America
+2191,Swimming,Men's 4 x 200m Freestyle Relay,rome-1960,Japan
+2192,Swimming,Men's 4 x 200m Freestyle Relay,rome-1960,Australia
+2193,Swimming,Men's 4 x 200m Freestyle Relay,rome-1960,Great Britain
+2194,Swimming,Men's 4 x 200m Freestyle Relay,rome-1960,Finland
+2195,Swimming,Men's 4 x 200m Freestyle Relay,rome-1960,Sweden
+2196,Swimming,Men's 4 x 200m Freestyle Relay,rome-1960,Germany
+2197,Swimming,Men's 4 x 200m Freestyle Relay,rome-1960,Soviet Union
+2198,Swimming,Men's 4 x 100m Freestyle Relay,rome-1960,United States of America
+2199,Swimming,Men's 4 x 100m Freestyle Relay,rome-1960,Australia
+2200,Swimming,Men's 4 x 100m Freestyle Relay,rome-1960,Germany
+2201,Swimming,Men's 4 x 100m Freestyle Relay,rome-1960,Hungary
+2202,Swimming,Men's 4 x 100m Freestyle Relay,rome-1960,Great Britain
+2203,Swimming,Men's 4 x 100m Freestyle Relay,rome-1960,Sweden
+2204,Swimming,Men's 4 x 100m Freestyle Relay,rome-1960,Italy
+2205,Swimming,Men's 4 x 100m Freestyle Relay,rome-1960,Soviet Union
+2206,Swimming,Men's 4 x 100m Freestyle Relay,rome-1960,Netherlands
+2207,Athletics,Men's 4 x 100m Relay,melbourne-1956,United States of America
+2208,Athletics,Men's 4 x 100m Relay,melbourne-1956,Soviet Union
+2209,Athletics,Men's 4 x 100m Relay,melbourne-1956,Germany
+2210,Athletics,Men's 4 x 100m Relay,melbourne-1956,Italy
+2211,Athletics,Men's 4 x 100m Relay,melbourne-1956,Great Britain
+2212,Athletics,Men's 4 x 100m Relay,melbourne-1956,Poland
+2213,Athletics,Men's 4 x 400m Relay,melbourne-1956,United States of America
+2214,Athletics,Men's 4 x 400m Relay,melbourne-1956,Australia
+2215,Athletics,Men's 4 x 400m Relay,melbourne-1956,Great Britain
+2216,Athletics,Men's 4 x 400m Relay,melbourne-1956,Germany
+2217,Athletics,Men's 4 x 400m Relay,melbourne-1956,Canada
+2218,Athletics,Women's 4 x 100m Relay,melbourne-1956,Australia
+2219,Athletics,Women's 4 x 100m Relay,melbourne-1956,Great Britain
+2220,Athletics,Women's 4 x 100m Relay,melbourne-1956,United States of America
+2221,Athletics,Women's 4 x 100m Relay,melbourne-1956,Soviet Union
+2222,Athletics,Women's 4 x 100m Relay,melbourne-1956,Italy
+2223,Athletics,Women's 4 x 100m Relay,melbourne-1956,Germany
+2224,Swimming,Men's 4 x 100m Freestyle Relay,melbourne-1956,Australia
+2225,Swimming,Men's 4 x 100m Freestyle Relay,melbourne-1956,United States of America
+2226,Swimming,Men's 4 x 100m Freestyle Relay,melbourne-1956,South Africa
+2227,Swimming,Men's 4 x 100m Freestyle Relay,melbourne-1956,Germany
+2228,Swimming,Men's 4 x 100m Freestyle Relay,melbourne-1956,Canada
+2229,Swimming,Men's 4 x 100m Freestyle Relay,melbourne-1956,Sweden
+2230,Swimming,Men's 4 x 100m Freestyle Relay,melbourne-1956,Hungary
+2231,Swimming,Men's 4 x 100m Freestyle Relay,melbourne-1956,Great Britain
+2232,Swimming,Men's 4 x 200m Freestyle Relay,melbourne-1956,Australia
+2233,Swimming,Men's 4 x 200m Freestyle Relay,melbourne-1956,United States of America
+2234,Swimming,Men's 4 x 200m Freestyle Relay,melbourne-1956,Soviet Union
+2235,Swimming,Men's 4 x 200m Freestyle Relay,melbourne-1956,Japan
+2236,Swimming,Men's 4 x 200m Freestyle Relay,melbourne-1956,Germany
+2237,Swimming,Men's 4 x 200m Freestyle Relay,melbourne-1956,Great Britain
+2238,Swimming,Men's 4 x 200m Freestyle Relay,melbourne-1956,Italy
+2239,Swimming,Men's 4 x 200m Freestyle Relay,melbourne-1956,South Africa
+2240,Athletics,Men's 4 x 100m Relay,helsinki-1952,United States of America
+2241,Athletics,Men's 4 x 100m Relay,helsinki-1952,Soviet Union
+2242,Athletics,Men's 4 x 100m Relay,helsinki-1952,Hungary
+2243,Athletics,Men's 4 x 100m Relay,helsinki-1952,Great Britain
+2244,Athletics,Men's 4 x 100m Relay,helsinki-1952,France
+2245,Athletics,Men's 4 x 100m Relay,helsinki-1952,Czechoslovakia
+2246,Athletics,Men's 4 x 400m Relay,helsinki-1952,Jamaica
+2247,Athletics,Men's 4 x 400m Relay,helsinki-1952,United States of America
+2248,Athletics,Men's 4 x 400m Relay,helsinki-1952,Germany
+2249,Athletics,Men's 4 x 400m Relay,helsinki-1952,Canada
+2250,Athletics,Men's 4 x 400m Relay,helsinki-1952,Great Britain
+2251,Athletics,Men's 4 x 400m Relay,helsinki-1952,France
+2252,Athletics,Women's 4 x 100m Relay,helsinki-1952,United States of America
+2253,Athletics,Women's 4 x 100m Relay,helsinki-1952,Germany
+2254,Athletics,Women's 4 x 100m Relay,helsinki-1952,Great Britain
+2255,Athletics,Women's 4 x 100m Relay,helsinki-1952,Soviet Union
+2256,Athletics,Women's 4 x 100m Relay,helsinki-1952,Australia
+2257,Athletics,Women's 4 x 100m Relay,helsinki-1952,Netherlands
+2258,Swimming,Men's 4 x 200m Freestyle Relay,helsinki-1952,United States of America
+2259,Swimming,Men's 4 x 200m Freestyle Relay,helsinki-1952,Japan
+2260,Swimming,Men's 4 x 200m Freestyle Relay,helsinki-1952,France
+2261,Swimming,Men's 4 x 200m Freestyle Relay,helsinki-1952,Sweden
+2262,Swimming,Men's 4 x 200m Freestyle Relay,helsinki-1952,Hungary
+2263,Swimming,Men's 4 x 200m Freestyle Relay,helsinki-1952,Great Britain
+2264,Swimming,Men's 4 x 200m Freestyle Relay,helsinki-1952,South Africa
+2265,Swimming,Men's 4 x 200m Freestyle Relay,helsinki-1952,Argentina
+2266,Swimming,Men's 4 x 200m Freestyle Relay,helsinki-1952,Egypt
+2267,Swimming,Men's 4 x 200m Freestyle Relay,helsinki-1952,Spain
+2268,Swimming,Men's 4 x 100m Freestyle Relay,helsinki-1952,Hungary
+2269,Swimming,Men's 4 x 100m Freestyle Relay,helsinki-1952,Netherlands
+2270,Swimming,Men's 4 x 100m Freestyle Relay,helsinki-1952,United States of America
+2271,Swimming,Men's 4 x 100m Freestyle Relay,helsinki-1952,Denmark
+2272,Swimming,Men's 4 x 100m Freestyle Relay,helsinki-1952,Great Britain
+2273,Swimming,Men's 4 x 100m Freestyle Relay,helsinki-1952,Sweden
+2274,Swimming,Men's 4 x 100m Freestyle Relay,helsinki-1952,Germany
+2275,Swimming,Men's 4 x 100m Freestyle Relay,helsinki-1952,France
+2276,Swimming,Men's 4 x 100m Freestyle Relay,london-1948,United States of America
+2277,Swimming,Men's 4 x 100m Freestyle Relay,london-1948,Denmark
+2278,Swimming,Men's 4 x 100m Freestyle Relay,london-1948,Netherlands
+2279,Swimming,Men's 4 x 100m Freestyle Relay,london-1948,Great Britain
+2280,Swimming,Men's 4 x 100m Freestyle Relay,london-1948,Hungary
+2281,Swimming,Men's 4 x 100m Freestyle Relay,london-1948,Brazil
+2282,Swimming,Men's 4 x 100m Freestyle Relay,london-1948,France
+2283,Swimming,Men's 4 x 100m Freestyle Relay,london-1948,Sweden
+2284,Swimming,Men's 4 x 200m Freestyle Relay,london-1948,United States of America
+2285,Swimming,Men's 4 x 200m Freestyle Relay,london-1948,Hungary
+2286,Swimming,Men's 4 x 200m Freestyle Relay,london-1948,France
+2287,Swimming,Men's 4 x 200m Freestyle Relay,london-1948,Sweden
+2288,Swimming,Men's 4 x 200m Freestyle Relay,london-1948,Yugoslavia
+2289,Swimming,Men's 4 x 200m Freestyle Relay,london-1948,Argentina
+2290,Swimming,Men's 4 x 200m Freestyle Relay,london-1948,Mexico
+2291,Swimming,Men's 4 x 200m Freestyle Relay,london-1948,Brazil
+2292,Swimming,Men's 4 x 200m Freestyle Relay,london-1948,Bermuda
+2293,Swimming,Men's 4 x 200m Freestyle Relay,london-1948,Australia
+2294,Athletics,Women's 4 x 100m Relay,london-1948,Netherlands
+2295,Athletics,Women's 4 x 100m Relay,london-1948,Australia
+2296,Athletics,Women's 4 x 100m Relay,london-1948,Canada
+2297,Athletics,Women's 4 x 100m Relay,london-1948,Great Britain
+2298,Athletics,Women's 4 x 100m Relay,london-1948,Denmark
+2299,Athletics,Women's 4 x 100m Relay,london-1948,Austria
+2300,Athletics,Men's 4 x 400m Relay,london-1948,United States of America
+2301,Athletics,Men's 4 x 400m Relay,london-1948,France
+2302,Athletics,Men's 4 x 400m Relay,london-1948,Sweden
+2303,Athletics,Men's 4 x 400m Relay,london-1948,Finland
+2304,Athletics,Men's 4 x 100m Relay,london-1948,United States of America
+2305,Athletics,Men's 4 x 100m Relay,london-1948,Great Britain
+2306,Athletics,Men's 4 x 100m Relay,london-1948,Italy
+2307,Athletics,Men's 4 x 100m Relay,london-1948,Hungary
+2308,Athletics,Men's 4 x 100m Relay,london-1948,Canada
+2309,Athletics,Men's 4 x 100m Relay,london-1948,Netherlands
+2310,Athletics,Women's 4 x 100m Relay,berlin-1936,United States of America
+2311,Athletics,Women's 4 x 100m Relay,berlin-1936,Great Britain
+2312,Athletics,Women's 4 x 100m Relay,berlin-1936,Canada
+2313,Athletics,Women's 4 x 100m Relay,berlin-1936,Italy
+2314,Athletics,Women's 4 x 100m Relay,berlin-1936,Netherlands
+2315,Athletics,Men's 4 x 100m Relay,berlin-1936,United States of America
+2316,Athletics,Men's 4 x 100m Relay,berlin-1936,Italy
+2317,Athletics,Men's 4 x 100m Relay,berlin-1936,Germany
+2318,Athletics,Men's 4 x 100m Relay,berlin-1936,Argentina
+2319,Athletics,Men's 4 x 100m Relay,berlin-1936,Canada
+2320,Athletics,Men's 4 x 400m Relay,berlin-1936,Great Britain
+2321,Athletics,Men's 4 x 400m Relay,berlin-1936,United States of America
+2322,Athletics,Men's 4 x 400m Relay,berlin-1936,Germany
+2323,Athletics,Men's 4 x 400m Relay,berlin-1936,Canada
+2324,Athletics,Men's 4 x 400m Relay,berlin-1936,Sweden
+2325,Athletics,Men's 4 x 400m Relay,berlin-1936,Hungary
+2326,Swimming,Men's 4 x 100m Freestyle Relay,berlin-1936,Netherlands
+2327,Swimming,Men's 4 x 100m Freestyle Relay,berlin-1936,Germany
+2328,Swimming,Men's 4 x 100m Freestyle Relay,berlin-1936,United States of America
+2329,Swimming,Men's 4 x 100m Freestyle Relay,berlin-1936,Canada
+2330,Swimming,Men's 4 x 100m Freestyle Relay,berlin-1936,Hungary
+2331,Swimming,Men's 4 x 100m Freestyle Relay,berlin-1936,Great Britain
+2332,Swimming,Men's 4 x 100m Freestyle Relay,berlin-1936,Denmark
+2333,Swimming,Men's 4 x 200m Freestyle Relay,berlin-1936,Japan
+2334,Swimming,Men's 4 x 200m Freestyle Relay,berlin-1936,United States of America
+2335,Swimming,Men's 4 x 200m Freestyle Relay,berlin-1936,Hungary
+2336,Swimming,Men's 4 x 200m Freestyle Relay,berlin-1936,France
+2337,Swimming,Men's 4 x 200m Freestyle Relay,berlin-1936,Germany
+2338,Swimming,Men's 4 x 200m Freestyle Relay,berlin-1936,Great Britain
+2339,Swimming,Men's 4 x 200m Freestyle Relay,berlin-1936,Canada
+2340,Swimming,Men's 4 x 200m Freestyle Relay,berlin-1936,Sweden
+2341,Swimming,Men's 4 x 200m Freestyle Relay,berlin-1936,Poland
+2342,Swimming,Men's 4 x 200m Freestyle Relay,berlin-1936,Chile
+2343,Swimming,Men's 4 x 200m Freestyle Relay,berlin-1936,Peru
+2344,Athletics,Men's 4 x 400m Relay,los-angeles-1932,United States of America
+2345,Athletics,Men's 4 x 400m Relay,los-angeles-1932,Great Britain
+2346,Athletics,Men's 4 x 400m Relay,los-angeles-1932,Canada
+2347,Athletics,Men's 4 x 400m Relay,los-angeles-1932,Germany
+2348,Athletics,Men's 4 x 400m Relay,los-angeles-1932,Japan
+2349,Athletics,Men's 4 x 400m Relay,los-angeles-1932,Italy
+2350,Athletics,Men's 4 x 100m Relay,los-angeles-1932,United States of America
+2351,Athletics,Men's 4 x 100m Relay,los-angeles-1932,Germany
+2352,Athletics,Men's 4 x 100m Relay,los-angeles-1932,Italy
+2353,Athletics,Men's 4 x 100m Relay,los-angeles-1932,Canada
+2354,Athletics,Men's 4 x 100m Relay,los-angeles-1932,Japan
+2355,Athletics,Men's 4 x 100m Relay,los-angeles-1932,Great Britain
+2356,Athletics,Women's 4 x 100m Relay,los-angeles-1932,United States of America
+2357,Athletics,Women's 4 x 100m Relay,los-angeles-1932,Canada
+2358,Athletics,Women's 4 x 100m Relay,los-angeles-1932,Great Britain
+2359,Athletics,Women's 4 x 100m Relay,los-angeles-1932,Netherlands
+2360,Athletics,Women's 4 x 100m Relay,los-angeles-1932,Japan
+2361,Athletics,Women's 4 x 100m Relay,los-angeles-1932,Germany
+2362,Swimming,Men's 4 x 200m Freestyle Relay,los-angeles-1932,Japan
+2363,Swimming,Men's 4 x 200m Freestyle Relay,los-angeles-1932,United States of America
+2364,Swimming,Men's 4 x 200m Freestyle Relay,los-angeles-1932,Hungary
+2365,Swimming,Men's 4 x 200m Freestyle Relay,los-angeles-1932,Canada
+2366,Swimming,Men's 4 x 200m Freestyle Relay,los-angeles-1932,Great Britain
+2367,Swimming,Men's 4 x 200m Freestyle Relay,los-angeles-1932,Argentina
+2368,Swimming,Men's 4 x 200m Freestyle Relay,los-angeles-1932,Brazil
+2369,Swimming,Men's 4 x 100m Freestyle Relay,los-angeles-1932,United States of America
+2370,Swimming,Men's 4 x 100m Freestyle Relay,los-angeles-1932,Netherlands
+2371,Swimming,Men's 4 x 100m Freestyle Relay,los-angeles-1932,Great Britain
+2372,Swimming,Men's 4 x 100m Freestyle Relay,los-angeles-1932,Canada
+2373,Swimming,Men's 4 x 100m Freestyle Relay,los-angeles-1932,Japan
+2374,Athletics,Men's 4 x 100m Relay,amsterdam-1928,United States of America
+2375,Athletics,Men's 4 x 100m Relay,amsterdam-1928,Germany
+2376,Athletics,Men's 4 x 100m Relay,amsterdam-1928,Great Britain
+2377,Athletics,Men's 4 x 100m Relay,amsterdam-1928,France
+2378,Athletics,Men's 4 x 100m Relay,amsterdam-1928,Switzerland
+2379,Athletics,Women's 4 x 100m Relay,amsterdam-1928,Canada
+2380,Athletics,Women's 4 x 100m Relay,amsterdam-1928,United States of America
+2381,Athletics,Women's 4 x 100m Relay,amsterdam-1928,Germany
+2382,Athletics,Women's 4 x 100m Relay,amsterdam-1928,France
+2383,Athletics,Women's 4 x 100m Relay,amsterdam-1928,Netherlands
+2384,Athletics,Women's 4 x 100m Relay,amsterdam-1928,Italy
+2385,Athletics,Men's 4 x 400m Relay,amsterdam-1928,United States of America
+2386,Athletics,Men's 4 x 400m Relay,amsterdam-1928,Germany
+2387,Athletics,Men's 4 x 400m Relay,amsterdam-1928,Canada
+2388,Athletics,Men's 4 x 400m Relay,amsterdam-1928,Sweden
+2389,Athletics,Men's 4 x 400m Relay,amsterdam-1928,Great Britain
+2390,Athletics,Men's 4 x 400m Relay,amsterdam-1928,France
+2391,Swimming,Men's 4 x 100m Freestyle Relay,amsterdam-1928,United States of America
+2392,Swimming,Men's 4 x 100m Freestyle Relay,amsterdam-1928,Great Britain
+2393,Swimming,Men's 4 x 100m Freestyle Relay,amsterdam-1928,South Africa
+2394,Swimming,Men's 4 x 100m Freestyle Relay,amsterdam-1928,Germany
+2395,Swimming,Men's 4 x 100m Freestyle Relay,amsterdam-1928,France
+2396,Swimming,Men's 4 x 100m Freestyle Relay,amsterdam-1928,Netherlands
+2397,Swimming,Men's 4 x 200m Freestyle Relay,amsterdam-1928,United States of America
+2398,Swimming,Men's 4 x 200m Freestyle Relay,amsterdam-1928,Japan
+2399,Swimming,Men's 4 x 200m Freestyle Relay,amsterdam-1928,Canada
+2400,Swimming,Men's 4 x 200m Freestyle Relay,amsterdam-1928,Hungary
+2401,Swimming,Men's 4 x 200m Freestyle Relay,amsterdam-1928,Sweden
+2402,Swimming,Men's 4 x 200m Freestyle Relay,amsterdam-1928,Great Britain
+2403,Swimming,Men's 4 x 200m Freestyle Relay,amsterdam-1928,Spain
+2404,Swimming,Men's 4 x 200m Freestyle Relay,amsterdam-1928,Germany
+2405,Swimming,Men's 4 x 200m Freestyle Relay,amsterdam-1928,Italy
+2406,Swimming,Men's 4 x 200m Freestyle Relay,amsterdam-1928,Chile
+2407,Swimming,Men's 4 x 200m Freestyle Relay,amsterdam-1928,Ireland
+2408,Athletics,Men's 4 x 100m Relay,paris-1924,United States of America
+2409,Athletics,Men's 4 x 100m Relay,paris-1924,Great Britain
+2410,Athletics,Men's 4 x 100m Relay,paris-1924,Netherlands
+2411,Athletics,Men's 4 x 100m Relay,paris-1924,Hungary
+2412,Athletics,Men's 4 x 100m Relay,paris-1924,France
+2413,Athletics,Men's 4 x 400m Relay,paris-1924,United States of America
+2414,Athletics,Men's 4 x 400m Relay,paris-1924,Sweden
+2415,Athletics,Men's 4 x 400m Relay,paris-1924,Great Britain
+2416,Athletics,Men's 4 x 400m Relay,paris-1924,Canada
+2417,Athletics,Men's 4 x 400m Relay,paris-1924,France
+2418,Athletics,Men's 4 x 400m Relay,paris-1924,Italy
+2419,Swimming,Men's 4 x 100m Freestyle Relay,paris-1924,United States of America
+2420,Swimming,Men's 4 x 100m Freestyle Relay,paris-1924,Great Britain
+2421,Swimming,Men's 4 x 100m Freestyle Relay,paris-1924,Sweden
+2422,Swimming,Men's 4 x 100m Freestyle Relay,paris-1924,Denmark
+2423,Swimming,Men's 4 x 100m Freestyle Relay,paris-1924,France
+2424,Swimming,Men's 4 x 100m Freestyle Relay,paris-1924,Netherlands
+2425,Swimming,Men's 4 x 200m Freestyle Relay,paris-1924,United States of America
+2426,Swimming,Men's 4 x 200m Freestyle Relay,paris-1924,Australia
+2427,Swimming,Men's 4 x 200m Freestyle Relay,paris-1924,Sweden
+2428,Swimming,Men's 4 x 200m Freestyle Relay,paris-1924,Japan
+2429,Swimming,Men's 4 x 200m Freestyle Relay,paris-1924,Great Britain
+2430,Swimming,Men's 4 x 200m Freestyle Relay,paris-1924,Greece
+2431,Swimming,Men's 4 x 200m Freestyle Relay,paris-1924,Hungary
+2432,Swimming,Men's 4 x 100m Freestyle Relay,antwerp-1920,United States of America
+2433,Swimming,Men's 4 x 100m Freestyle Relay,antwerp-1920,Great Britain
+2434,Swimming,Men's 4 x 100m Freestyle Relay,antwerp-1920,Sweden
+2435,Swimming,Men's 4 x 200m Freestyle Relay,antwerp-1920,United States of America
+2436,Swimming,Men's 4 x 200m Freestyle Relay,antwerp-1920,Australia
+2437,Swimming,Men's 4 x 200m Freestyle Relay,antwerp-1920,Great Britain
+2438,Swimming,Men's 4 x 200m Freestyle Relay,antwerp-1920,Sweden
+2439,Swimming,Men's 4 x 200m Freestyle Relay,antwerp-1920,Italy
+2440,Athletics,Men's 4 x 100m Relay,antwerp-1920,United States of America
+2441,Athletics,Men's 4 x 100m Relay,antwerp-1920,France
+2442,Athletics,Men's 4 x 100m Relay,antwerp-1920,Sweden
+2443,Athletics,Men's 4 x 100m Relay,antwerp-1920,Great Britain
+2444,Athletics,Men's 4 x 100m Relay,antwerp-1920,Denmark
+2445,Athletics,Men's 4 x 100m Relay,antwerp-1920,Luxembourg
+2446,Athletics,Men's 4 x 400m Relay,antwerp-1920,Great Britain
+2447,Athletics,Men's 4 x 400m Relay,antwerp-1920,South Africa
+2448,Athletics,Men's 4 x 400m Relay,antwerp-1920,France
+2449,Athletics,Men's 4 x 400m Relay,antwerp-1920,United States of America
+2450,Athletics,Men's 4 x 400m Relay,antwerp-1920,Sweden
+2451,Athletics,Men's 4 x 400m Relay,antwerp-1920,Belgium
+2452,Athletics,Men's 4 x 400m Relay,stockholm-1912,United States of America
+2453,Athletics,Men's 4 x 400m Relay,stockholm-1912,France
+2454,Athletics,Men's 4 x 400m Relay,stockholm-1912,Great Britain
+2455,Athletics,Men's 4 x 100m Relay,stockholm-1912,Great Britain
+2456,Athletics,Men's 4 x 100m Relay,stockholm-1912,Sweden
+2457,Swimming,Men's 4 x 100m Freestyle Relay,stockholm-1912,Great Britain
+2458,Swimming,Men's 4 x 100m Freestyle Relay,stockholm-1912,Germany
+2459,Swimming,Men's 4 x 100m Freestyle Relay,stockholm-1912,Austria
+2460,Swimming,Men's 4 x 100m Freestyle Relay,stockholm-1912,Sweden
+2461,Swimming,Men's 4 x 200m Freestyle Relay,stockholm-1912,Australasia
+2462,Swimming,Men's 4 x 200m Freestyle Relay,stockholm-1912,United States of America
+2463,Swimming,Men's 4 x 200m Freestyle Relay,stockholm-1912,Great Britain
+2464,Swimming,Men's 4 x 200m Freestyle Relay,stockholm-1912,Germany
+2465,Swimming,Men's 4 x 200m Freestyle Relay,london-1908,Great Britain
+2466,Swimming,Men's 4 x 200m Freestyle Relay,london-1908,Hungary
+2467,Swimming,Men's 4 x 200m Freestyle Relay,london-1908,United States of America
+2468,Swimming,Men's 4 x 200m Freestyle Relay,london-1908,Australasia
+2469,Swimming,Men's 4 x 200m Freestyle Relay,london-1908,Belgium
+2470,Swimming,Men's 4 x 200m Freestyle Relay,london-1908,Italy
+2471,Swimming,Men's 4 x 200m Freestyle Relay,london-1908,Netherlands
