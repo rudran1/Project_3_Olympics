@@ -1,0 +1,1472 @@
+﻿Medal_ID,Race_id,event_title,country_name,value_unit,medal_type
+8001,1001,Men's 4 x 200m Freestyle Relay,Great Britain,06:59.4,GOLD
+8002,1002,Men's 4 x 200m Freestyle Relay,United States of America,07:00.8,SILVER
+8003,1003,Men's 4 x 200m Freestyle Relay,Australia,07:02.0,BRONZE
+8004,1004,Men's 4 x 100m Freestyle Relay,United States of America,03:09.3,GOLD
+8005,1005,Men's 4 x 100m Freestyle Relay,Australia,03:10.3,SILVER
+8006,1006,Men's 4 x 100m Freestyle Relay,Italy,03:10.7,BRONZE
+8007,1007,Women's 4 x 100m Freestyle Relay,Australia,03:28.9,GOLD
+8008,1008,Women's 4 x 100m Freestyle Relay,United States of America,03:30.2,SILVER
+8009,1009,Women's 4 x 100m Freestyle Relay,China,03:30.3,BRONZE
+8010,1010,Women's 4 x 200m Freestyle Relay,Australia,07:38.1,GOLD
+8011,1011,Women's 4 x 200m Freestyle Relay,United States of America,07:40.9,SILVER
+8012,1012,Women's 4 x 200m Freestyle Relay,China,07:42.3,BRONZE
+8013,1013,Women's 4 x 100m Relay,United States of America,00:41.8,GOLD
+8014,1014,Women's 4 x 100m Relay,Great Britain,00:41.8,SILVER
+8015,1015,Women's 4 x 100m Relay,Germany,00:42.0,BRONZE
+8016,1016,Women's 4 x 400m Relay,United States of America,03:15.3,GOLD
+8017,1017,Women's 4 x 400m Relay,Netherlands,03:19.5,SILVER
+8018,1018,Women's 4 x 400m Relay,Great Britain,03:19.7,BRONZE
+8019,1019,Men's 4 x 100m Relay,Canada,00:37.5,GOLD
+8020,1020,Men's 4 x 100m Relay,South Africa team,00:37.6,SILVER
+8021,1021,Men's 4 x 100m Relay,Great Britain,00:37.6,BRONZE
+8022,1022,Men's 4 x 400m Relay,United States of America,02:54.4,GOLD
+8023,1023,Men's 4 x 400m Relay,Botswana,02:54.5,SILVER
+8024,1024,Men's 4 x 400m Relay,Great Britain,02:55.8,BRONZE
+8025,1025,Women's 4 x 100m Relay,Jamaica,00:42.0,GOLD
+8026,1026,Women's 4 x 100m Relay,United States of America,00:41.1,SILVER
+8027,1027,Women's 4 x 100m Relay,Great Britain,00:41.1,BRONZE
+8028,1028,Women's 4 x 100m Relay,Switzerland,00:42.0,BRONZE
+8029,1029,Women's 4 x 100m Relay,Germany,00:42.0,BRONZE
+8030,1030,Women's 4 x 100m Relay,People's Republic of China,00:42.1,BRONZE
+8031,1031,Women's 4 x 100m Relay,France,00:42.1,BRONZE
+8032,1032,Women's 4 x 100m Relay,Netherlands,00:42.1,BRONZE
+8033,1033,Women's 4 x 400m Relay,United States of America,03:20.9,GOLD
+8034,1034,Women's 4 x 400m Relay,Poland,03:23.1,SILVER
+8035,1035,Women's 4 x 400m Relay,Jamaica,03:21.9,BRONZE
+8036,1036,Women's 4 x 400m Relay,Canada,03:24.1,BRONZE
+8037,1037,Women's 4 x 400m Relay,Great Britain,03:24.0,BRONZE
+8038,1038,Women's 4 x 400m Relay,Netherlands,03:24.0,BRONZE
+8039,1039,Women's 4 x 400m Relay,Belgium,03:24.1,BRONZE
+8040,1040,Women's 4 x 400m Relay,Cuba,03:24.0,BRONZE
+8041,1041,Men's 4 x 100m Relay,Italy,00:37.1,GOLD
+8042,1042,Men's 4 x 100m Relay,Great Britain,00:38.0,SILVER
+8043,1043,Men's 4 x 100m Relay,Canada,00:37.1,BRONZE
+8044,1044,Men's 4 x 100m Relay,People's Republic of China,00:37.1,BRONZE
+8045,1045,Men's 4 x 100m Relay,Jamaica,00:37.1,BRONZE
+8046,1046,Men's 4 x 100m Relay,Germany,00:38.0,BRONZE
+8047,1047,Men's 4 x 100m Relay,Japan,00:38.0,BRONZE
+8048,1048,Men's 4 x 100m Relay,Ghana,00:38.0,BRONZE
+8049,1049,Men's 4 x 400m Relay,United States of America,02:57.8,GOLD
+8050,1050,Men's 4 x 400m Relay,Netherlands,02:59.1,SILVER
+8051,1051,Men's 4 x 400m Relay,Botswana,02:58.3,BRONZE
+8052,1052,Men's 4 x 400m Relay,Belgium,02:59.4,BRONZE
+8053,1053,Men's 4 x 400m Relay,Poland,02:58.5,BRONZE
+8054,1054,Men's 4 x 400m Relay,Jamaica,02:59.3,BRONZE
+8055,1055,Men's 4 x 400m Relay,Italy,02:58.9,BRONZE
+8056,1056,Men's 4 x 400m Relay,Trinidad and Tobago,02:58.6,BRONZE
+8057,1057,Men's 4 x 200m Freestyle Relay,Great Britain,07:03.3,GOLD
+8058,1058,Men's 4 x 200m Freestyle Relay,ROC,07:05.2,SILVER
+8059,1059,Men's 4 x 200m Freestyle Relay,Australia,07:05.0,BRONZE
+8060,1060,Men's 4 x 200m Freestyle Relay,United States of America,07:05.6,BRONZE
+8061,1061,Men's 4 x 200m Freestyle Relay,Italy,07:05.1,BRONZE
+8062,1062,Men's 4 x 200m Freestyle Relay,Switzerland,07:06.6,BRONZE
+8063,1063,Men's 4 x 200m Freestyle Relay,Germany,07:06.8,BRONZE
+8064,1064,Men's 4 x 200m Freestyle Relay,Brazil,07:07.7,BRONZE
+8065,1065,Women's 4 x 100m Freestyle Relay,Australia,03:31.7,GOLD
+8066,1066,Women's 4 x 100m Freestyle Relay,Canada,03:33.7,SILVER
+8067,1067,Women's 4 x 100m Freestyle Relay,United States of America,03:34.8,BRONZE
+8068,1068,Women's 4 x 100m Freestyle Relay,Netherlands,03:33.5,BRONZE
+8069,1069,Women's 4 x 100m Freestyle Relay,Great Britain,03:34.0,BRONZE
+8070,1070,Women's 4 x 100m Freestyle Relay,Sweden,03:35.9,BRONZE
+8071,1071,Women's 4 x 100m Freestyle Relay,People's Republic of China,03:35.1,BRONZE
+8072,1072,Women's 4 x 100m Freestyle Relay,Denmark,03:35.6,BRONZE
+8073,1073,Men's 4 x 100m Freestyle Relay,United States of America,03:11.3,GOLD
+8074,1074,Men's 4 x 100m Freestyle Relay,Italy,03:10.3,SILVER
+8075,1075,Men's 4 x 100m Freestyle Relay,Australia,03:11.9,BRONZE
+8076,1076,Men's 4 x 100m Freestyle Relay,Canada,03:13.0,BRONZE
+8077,1077,Men's 4 x 100m Freestyle Relay,Hungary,03:12.7,BRONZE
+8078,1078,Men's 4 x 100m Freestyle Relay,France,03:12.4,BRONZE
+8079,1079,Men's 4 x 100m Freestyle Relay,ROC,03:13.1,BRONZE
+8080,1080,Men's 4 x 100m Freestyle Relay,Brazil,03:12.6,BRONZE
+8081,1081,Women's 4 x 200m Freestyle Relay,People's Republic of China,07:49.0,GOLD
+8082,1082,Women's 4 x 200m Freestyle Relay,United States of America,07:47.6,SILVER
+8083,1083,Women's 4 x 200m Freestyle Relay,Australia,07:44.6,BRONZE
+8084,1084,Women's 4 x 200m Freestyle Relay,Canada,07:51.5,BRONZE
+8085,1085,Women's 4 x 200m Freestyle Relay,ROC,07:52.0,BRONZE
+8086,1086,Women's 4 x 200m Freestyle Relay,Germany,07:52.1,BRONZE
+8087,1087,Women's 4 x 200m Freestyle Relay,Hungary,07:56.2,BRONZE
+8088,1088,Women's 4 x 200m Freestyle Relay,France,07:55.1,BRONZE
+8089,1089,Women's 4 x 400m Relay,United States of America,03:19.1,GOLD
+8090,1090,Women's 4 x 400m Relay,Jamaica,03:20.3,SILVER
+8091,1091,Women's 4 x 400m Relay,Great Britain,03:25.9,BRONZE
+8092,1092,Women's 4 x 400m Relay,Canada,03:26.4,BRONZE
+8093,1093,Women's 4 x 400m Relay,Italy,03:27.1,BRONZE
+8094,1094,Women's 4 x 400m Relay,Poland,03:27.3,BRONZE
+8095,1095,Women's 4 x 400m Relay,Australia,03:27.4,BRONZE
+8096,1096,Women's 4 x 400m Relay,Ukraine,03:27.4,BRONZE
+8097,1097,Women's 4 x 400m Relay,India,03:27.4,BRONZE
+8098,1098,Men's 4 x 400m Relay,United States of America,02:57.3,GOLD
+8099,1099,Men's 4 x 400m Relay,Jamaica,02:58.2,SILVER
+8100,1100,Men's 4 x 400m Relay,Bahamas,02:58.5,BRONZE
+8101,1101,Men's 4 x 400m Relay,Belgium,02:58.5,BRONZE
+8102,1102,Men's 4 x 400m Relay,Botswana,02:59.1,BRONZE
+8103,1103,Men's 4 x 400m Relay,Cuba,02:59.5,BRONZE
+8104,1104,Men's 4 x 400m Relay,Poland,03:00.5,BRONZE
+8105,1105,Men's 4 x 400m Relay,Brazil,03:03.3,BRONZE
+8106,1106,Men's 4 x 400m Relay,Trinidad and Tobago,03:03.3,BRONZE
+8107,1107,Men's 4 x 400m Relay,Great Britain,03:03.3,BRONZE
+8108,1108,Men's 4 x 400m Relay,India,03:03.3,BRONZE
+8109,1109,Women's 4 x 100m Relay,United States of America,00:41.0,GOLD
+8110,1110,Women's 4 x 100m Relay,Jamaica,00:41.4,SILVER
+8111,1111,Women's 4 x 100m Relay,Great Britain,00:41.8,BRONZE
+8112,1112,Women's 4 x 100m Relay,Germany,00:42.1,BRONZE
+8113,1113,Women's 4 x 100m Relay,Trinidad and Tobago,00:42.1,BRONZE
+8114,1114,Women's 4 x 100m Relay,Canada,00:43.1,BRONZE
+8115,1115,Women's 4 x 100m Relay,Nigeria,00:43.2,BRONZE
+8116,1116,Women's 4 x 100m Relay,Ukraine,00:43.2,BRONZE
+8117,1117,Men's 4 x 100m Relay,Jamaica,00:37.3,GOLD
+8118,1118,Men's 4 x 100m Relay,Japan,00:37.6,SILVER
+8119,1119,Men's 4 x 100m Relay,Canada,00:37.6,BRONZE
+8120,1120,Men's 4 x 100m Relay,People's Republic of China,00:37.9,BRONZE
+8121,1121,Men's 4 x 100m Relay,Great Britain,00:38.0,BRONZE
+8122,1122,Men's 4 x 100m Relay,Brazil,00:38.4,BRONZE
+8123,1123,Men's 4 x 200m Freestyle Relay,United States of America,07:00.7,GOLD
+8124,1124,Men's 4 x 200m Freestyle Relay,Great Britain,07:03.1,SILVER
+8125,1125,Men's 4 x 200m Freestyle Relay,Japan,07:03.5,BRONZE
+8126,1126,Men's 4 x 200m Freestyle Relay,Australia,07:04.2,BRONZE
+8127,1127,Men's 4 x 200m Freestyle Relay,Russian Federation,07:05.7,BRONZE
+8128,1128,Men's 4 x 200m Freestyle Relay,Germany,07:07.3,BRONZE
+8129,1129,Men's 4 x 200m Freestyle Relay,Netherlands,07:09.1,BRONZE
+8130,1130,Men's 4 x 200m Freestyle Relay,Belgium,07:11.6,BRONZE
+8131,1131,Men's 4 x 200m Freestyle Relay,Italy,07:11.6,BRONZE
+8132,1132,Men's 4 x 200m Freestyle Relay,South Africa,07:11.6,BRONZE
+8133,1133,Men's 4 x 200m Freestyle Relay,Spain,07:11.6,BRONZE
+8134,1134,Men's 4 x 200m Freestyle Relay,Denmark,07:11.6,BRONZE
+8135,1135,Men's 4 x 200m Freestyle Relay,France,07:11.6,BRONZE
+8136,1136,Men's 4 x 200m Freestyle Relay,Brazil,07:11.6,BRONZE
+8137,1137,Men's 4 x 200m Freestyle Relay,Poland,07:11.6,BRONZE
+8138,1138,Men's 4 x 200m Freestyle Relay,Hungary,07:11.6,BRONZE
+8139,1139,Women's 4 x 200m Freestyle Relay,United States of America,07:43.0,GOLD
+8140,1140,Women's 4 x 200m Freestyle Relay,Australia,07:44.9,SILVER
+8141,1141,Women's 4 x 200m Freestyle Relay,Canada,07:45.4,BRONZE
+8142,1142,Women's 4 x 200m Freestyle Relay,People's Republic of China,07:48.0,BRONZE
+8143,1143,Women's 4 x 200m Freestyle Relay,Sweden,07:50.3,BRONZE
+8144,1144,Women's 4 x 200m Freestyle Relay,Hungary,07:51.0,BRONZE
+8145,1145,Women's 4 x 200m Freestyle Relay,Russian Federation,07:53.3,BRONZE
+8146,1146,Women's 4 x 200m Freestyle Relay,Japan,07:56.8,BRONZE
+8147,1147,Women's 4 x 200m Freestyle Relay,Great Britain,07:56.8,BRONZE
+8148,1148,Women's 4 x 200m Freestyle Relay,France,07:56.8,BRONZE
+8149,1149,Women's 4 x 200m Freestyle Relay,Brazil,07:56.8,BRONZE
+8150,1150,Women's 4 x 200m Freestyle Relay,Germany,07:56.8,BRONZE
+8151,1151,Women's 4 x 200m Freestyle Relay,Italy,07:56.8,BRONZE
+8152,1152,Women's 4 x 200m Freestyle Relay,Netherlands,07:56.8,BRONZE
+8153,1153,Women's 4 x 200m Freestyle Relay,Slovenia,07:56.8,BRONZE
+8154,1154,Women's 4 x 200m Freestyle Relay,Spain,07:56.8,BRONZE
+8155,1155,Men's 4 x 100m Freestyle Relay,Australia,03:30.7,GOLD
+8156,1156,Men's 4 x 100m Freestyle Relay,United States of America,03:31.9,SILVER
+8157,1157,Men's 4 x 100m Freestyle Relay,Canada,03:32.9,BRONZE
+8158,1158,Men's 4 x 100m Freestyle Relay,Netherlands,03:33.8,BRONZE
+8159,1159,Men's 4 x 100m Freestyle Relay,Sweden,03:35.9,BRONZE
+8160,1160,Men's 4 x 100m Freestyle Relay,Italy,03:36.8,BRONZE
+8161,1161,Men's 4 x 100m Freestyle Relay,France,03:37.4,BRONZE
+8162,1162,Men's 4 x 100m Freestyle Relay,Japan,03:37.8,BRONZE
+8163,1163,Men's 4 x 100m Freestyle Relay,People's Republic of China,03:37.8,BRONZE
+8164,1164,Men's 4 x 100m Freestyle Relay,Russian Federation,03:37.8,BRONZE
+8165,1165,Men's 4 x 100m Freestyle Relay,Brazil,03:37.8,BRONZE
+8166,1166,Men's 4 x 100m Freestyle Relay,Denmark,03:37.8,BRONZE
+8167,1167,Men's 4 x 100m Freestyle Relay,Spain,03:37.8,BRONZE
+8168,1168,Men's 4 x 100m Freestyle Relay,Switzerland,03:37.8,BRONZE
+8169,1169,Men's 4 x 100m Freestyle Relay,Poland,03:37.8,BRONZE
+8170,1170,Men's 4 x 100m Freestyle Relay,Israel,03:37.8,BRONZE
+8171,1171,Men's 4 x 100m Freestyle Relay,United States of America,03:09.9,GOLD
+8172,1172,Men's 4 x 100m Freestyle Relay,France,03:10.5,SILVER
+8173,1173,Men's 4 x 100m Freestyle Relay,Australia,03:11.4,BRONZE
+8174,1174,Men's 4 x 100m Freestyle Relay,Russian Federation,03:11.6,BRONZE
+8175,1175,Men's 4 x 100m Freestyle Relay,Brazil,03:13.2,BRONZE
+8176,1176,Men's 4 x 100m Freestyle Relay,Belgium,03:13.6,BRONZE
+8177,1177,Men's 4 x 100m Freestyle Relay,Canada,03:14.3,BRONZE
+8178,1178,Men's 4 x 100m Freestyle Relay,Japan,03:14.5,BRONZE
+8179,1179,Men's 4 x 100m Freestyle Relay,Italy,03:14.5,BRONZE
+8180,1180,Men's 4 x 100m Freestyle Relay,Greece,03:14.5,BRONZE
+8181,1181,Men's 4 x 100m Freestyle Relay,Germany,03:14.5,BRONZE
+8182,1182,Men's 4 x 100m Freestyle Relay,Poland,03:14.5,BRONZE
+8183,1183,Men's 4 x 100m Freestyle Relay,Romania,03:14.5,BRONZE
+8184,1184,Men's 4 x 100m Freestyle Relay,Hungary,03:14.5,BRONZE
+8185,1185,Men's 4 x 100m Freestyle Relay,People's Republic of China,03:14.5,BRONZE
+8186,1186,Men's 4 x 100m Freestyle Relay,France,03:09.9,GOLD
+8187,1187,Men's 4 x 100m Freestyle Relay,United States of America,03:10.4,SILVER
+8188,1188,Men's 4 x 100m Freestyle Relay,Russian Federation,03:11.4,BRONZE
+8189,1189,Men's 4 x 100m Freestyle Relay,Australia,03:11.6,BRONZE
+8190,1190,Men's 4 x 100m Freestyle Relay,South Africa,03:13.4,BRONZE
+8191,1191,Men's 4 x 100m Freestyle Relay,Germany,03:13.5,BRONZE
+8192,1192,Men's 4 x 100m Freestyle Relay,Italy,03:14.1,BRONZE
+8193,1193,Men's 4 x 100m Freestyle Relay,Belgium,03:14.4,BRONZE
+8194,1194,Men's 4 x 100m Freestyle Relay,Brazil,03:14.4,BRONZE
+8195,1195,Men's 4 x 100m Freestyle Relay,Canada,03:14.4,BRONZE
+8196,1196,Men's 4 x 100m Freestyle Relay,People's Republic of China,03:14.4,BRONZE
+8197,1197,Men's 4 x 100m Freestyle Relay,Great Britain,03:14.4,BRONZE
+8198,1198,Men's 4 x 100m Freestyle Relay,Serbia,03:14.4,BRONZE
+8199,1199,Men's 4 x 100m Freestyle Relay,Hungary,03:14.4,BRONZE
+8200,1200,Men's 4 x 100m Freestyle Relay,Venezuela,03:14.4,BRONZE
+8201,1201,Women's 4 x 200m Freestyle Relay,United States of America,07:42.9,GOLD
+8202,1202,Women's 4 x 200m Freestyle Relay,Australia,07:44.4,SILVER
+8203,1203,Women's 4 x 200m Freestyle Relay,France,07:47.5,BRONZE
+8204,1204,Women's 4 x 200m Freestyle Relay,Canada,07:50.7,BRONZE
+8205,1205,Women's 4 x 200m Freestyle Relay,Great Britain,07:52.4,BRONZE
+8206,1206,Women's 4 x 200m Freestyle Relay,People's Republic of China,07:53.1,BRONZE
+8207,1207,Women's 4 x 200m Freestyle Relay,Italy,07:56.3,BRONZE
+8208,1208,Women's 4 x 200m Freestyle Relay,Japan,07:56.7,BRONZE
+8209,1209,Women's 4 x 200m Freestyle Relay,Hungary,07:56.7,BRONZE
+8210,1210,Women's 4 x 200m Freestyle Relay,New Zealand,07:56.7,BRONZE
+8211,1211,Women's 4 x 200m Freestyle Relay,Germany,07:56.7,BRONZE
+8212,1212,Women's 4 x 200m Freestyle Relay,Slovenia,07:56.7,BRONZE
+8213,1213,Women's 4 x 200m Freestyle Relay,Poland,07:56.7,BRONZE
+8214,1214,Women's 4 x 200m Freestyle Relay,Spain,07:56.7,BRONZE
+8215,1215,Women's 4 x 200m Freestyle Relay,Russian Federation,07:56.7,BRONZE
+8216,1216,Women's 4 x 200m Freestyle Relay,Ukraine,07:56.7,BRONZE
+8217,1217,Men's 4 x 200m Freestyle Relay,United States of America,06:59.7,GOLD
+8218,1218,Men's 4 x 200m Freestyle Relay,France,07:02.8,SILVER
+8219,1219,Men's 4 x 200m Freestyle Relay,People's Republic of China,07:06.3,BRONZE
+8220,1220,Men's 4 x 200m Freestyle Relay,Germany,07:06.6,BRONZE
+8221,1221,Men's 4 x 200m Freestyle Relay,Australia,07:07.0,BRONZE
+8222,1222,Men's 4 x 200m Freestyle Relay,Great Britain,07:09.3,BRONZE
+8223,1223,Men's 4 x 200m Freestyle Relay,South Africa,07:09.7,BRONZE
+8224,1224,Men's 4 x 200m Freestyle Relay,Hungary,07:13.7,BRONZE
+8225,1225,Men's 4 x 200m Freestyle Relay,Japan,07:13.7,BRONZE
+8226,1226,Men's 4 x 200m Freestyle Relay,Russian Federation,07:13.7,BRONZE
+8227,1227,Men's 4 x 200m Freestyle Relay,Italy,07:13.7,BRONZE
+8228,1228,Men's 4 x 200m Freestyle Relay,Belgium,07:13.7,BRONZE
+8229,1229,Men's 4 x 200m Freestyle Relay,Denmark,07:13.7,BRONZE
+8230,1230,Men's 4 x 200m Freestyle Relay,Canada,07:13.7,BRONZE
+8231,1231,Men's 4 x 200m Freestyle Relay,New Zealand,07:13.7,BRONZE
+8232,1232,Men's 4 x 200m Freestyle Relay,Austria,07:13.7,BRONZE
+8233,1233,Men's 4 x 100m Freestyle Relay,Australia,03:33.1,GOLD
+8234,1234,Men's 4 x 100m Freestyle Relay,Netherlands,03:33.8,SILVER
+8235,1235,Men's 4 x 100m Freestyle Relay,United States of America,03:34.2,BRONZE
+8236,1236,Men's 4 x 100m Freestyle Relay,People's Republic of China,03:36.7,BRONZE
+8237,1237,Men's 4 x 100m Freestyle Relay,Great Britain,03:37.0,BRONZE
+8238,1238,Men's 4 x 100m Freestyle Relay,Denmark,03:37.4,BRONZE
+8239,1239,Men's 4 x 100m Freestyle Relay,Japan,03:38.0,BRONZE
+8240,1240,Men's 4 x 100m Freestyle Relay,Sweden,03:38.0,BRONZE
+8241,1241,Men's 4 x 100m Freestyle Relay,Germany,03:38.0,BRONZE
+8242,1242,Men's 4 x 100m Freestyle Relay,Russian Federation,03:38.0,BRONZE
+8243,1243,Men's 4 x 100m Freestyle Relay,Canada,03:38.0,BRONZE
+8244,1244,Men's 4 x 100m Freestyle Relay,Italy,03:38.0,BRONZE
+8245,1245,Men's 4 x 100m Freestyle Relay,Belarus,03:38.0,BRONZE
+8246,1246,Men's 4 x 100m Freestyle Relay,New Zealand,03:38.0,BRONZE
+8247,1247,Men's 4 x 100m Freestyle Relay,Hungary,03:38.0,BRONZE
+8248,1248,Men's 4 x 100m Freestyle Relay,Greece,03:38.0,BRONZE
+8249,1249,Women's 4 x 100m Relay,United States of America,00:40.8,GOLD
+8250,1250,Women's 4 x 100m Relay,Jamaica,00:41.4,SILVER
+8251,1251,Women's 4 x 100m Relay,Ukraine,00:42.0,BRONZE
+8252,1252,Women's 4 x 100m Relay,Nigeria,00:42.6,BRONZE
+8253,1253,Women's 4 x 100m Relay,Germany,00:42.7,BRONZE
+8254,1254,Women's 4 x 100m Relay,Netherlands,00:42.7,BRONZE
+8255,1255,Women's 4 x 100m Relay,Brazil,00:42.9,BRONZE
+8256,1256,Women's 4 x 100m Relay,Trinidad and Tobago,00:42.9,BRONZE
+8257,1257,Men's 4 x 400m Relay,Bahamas,02:56.7,GOLD
+8258,1258,Men's 4 x 400m Relay,United States of America,02:57.1,SILVER
+8259,1259,Men's 4 x 400m Relay,Trinidad and Tobago,02:59.4,BRONZE
+8260,1260,Men's 4 x 400m Relay,Great Britain,02:59.5,BRONZE
+8261,1261,Men's 4 x 400m Relay,Belgium,03:01.8,BRONZE
+8262,1262,Men's 4 x 400m Relay,Venezuela,03:02.2,BRONZE
+8263,1263,Men's 4 x 400m Relay,South Africa,03:03.5,BRONZE
+8264,1264,Men's 4 x 400m Relay,Jamaica,03:03.5,BRONZE
+8265,1265,Men's 4 x 400m Relay,Dominican Republic,03:03.5,BRONZE
+8266,1266,Men's 4 x 400m Relay,Kenya,03:03.5,BRONZE
+8267,1267,Men's 4 x 400m Relay,Russian Federation,03:03.5,BRONZE
+8268,1268,Men's 4 x 100m Relay,Jamaica,00:36.8,GOLD
+8269,1269,Men's 4 x 100m Relay,Trinidad and Tobago,00:38.1,SILVER
+8270,1270,Men's 4 x 100m Relay,France,00:38.2,BRONZE
+8271,1271,Men's 4 x 100m Relay,Japan,00:38.4,BRONZE
+8272,1272,Men's 4 x 100m Relay,Netherlands,00:38.4,BRONZE
+8273,1273,Men's 4 x 100m Relay,Australia,00:38.4,BRONZE
+8274,1274,Men's 4 x 100m Relay,Great Britain,00:38.4,BRONZE
+8275,1275,Men's 4 x 100m Relay,United States of America,00:38.4,BRONZE
+8276,1276,Women's 4 x 400m Relay,United States of America,03:16.9,GOLD
+8277,1277,Women's 4 x 400m Relay,Jamaica,03:21.0,SILVER
+8278,1278,Women's 4 x 400m Relay,Ukraine,03:23.6,BRONZE
+8279,1279,Women's 4 x 400m Relay,Great Britain,03:24.8,BRONZE
+8280,1280,Women's 4 x 400m Relay,France,03:25.9,BRONZE
+8281,1281,Women's 4 x 400m Relay,Czech Republic,03:27.8,BRONZE
+8282,1282,Women's 4 x 400m Relay,Nigeria,03:27.8,BRONZE
+8283,1283,Women's 4 x 400m Relay,Russian Federation,03:27.8,BRONZE
+8284,1284,Women's 4 x 400m Relay,Turkey,03:27.8,BRONZE
+8285,1285,Women's 4 x 400m Relay,Belarus,03:27.8,BRONZE
+8286,1286,Women's 4 x 100m Relay,Belgium,00:42.5,GOLD
+8287,1287,Women's 4 x 100m Relay,Nigeria,00:43.0,SILVER
+8288,1288,Women's 4 x 100m Relay,Brazil,00:43.1,BRONZE
+8289,1289,Women's 4 x 100m Relay,Germany,00:43.3,BRONZE
+8290,1290,Women's 4 x 100m Relay,Russian Federation,00:43.3,BRONZE
+8291,1291,Women's 4 x 400m Relay,United States of America,03:18.5,GOLD
+8292,1292,Women's 4 x 400m Relay,Jamaica,03:20.4,SILVER
+8293,1293,Women's 4 x 400m Relay,Great Britain,03:22.7,BRONZE
+8294,1294,Women's 4 x 400m Relay,Cuba,03:23.2,BRONZE
+8295,1295,Women's 4 x 400m Relay,Nigeria,03:23.7,BRONZE
+8296,1296,Women's 4 x 400m Relay,Germany,03:28.5,BRONZE
+8297,1297,Women's 4 x 400m Relay,Russian Federation,03:28.5,BRONZE
+8298,1298,Women's 4 x 400m Relay,Belarus,03:28.5,BRONZE
+8299,1299,Men's 4 x 100m Relay,Trinidad and Tobago,00:38.1,GOLD
+8300,1300,Men's 4 x 100m Relay,Japan,00:38.2,SILVER
+8301,1301,Men's 4 x 100m Relay,Brazil,00:38.2,BRONZE
+8302,1302,Men's 4 x 100m Relay,Germany,00:38.6,BRONZE
+8303,1303,Men's 4 x 100m Relay,Canada,00:38.7,BRONZE
+8304,1304,Men's 4 x 100m Relay,Jamaica,00:38.7,BRONZE
+8305,1305,Men's 4 x 400m Relay,United States of America,02:55.4,GOLD
+8306,1306,Men's 4 x 400m Relay,Bahamas,02:58.0,SILVER
+8307,1307,Men's 4 x 400m Relay,Great Britain,02:58.8,BRONZE
+8308,1308,Men's 4 x 400m Relay,Belgium,02:59.4,BRONZE
+8309,1309,Men's 4 x 400m Relay,Australia,03:00.0,BRONZE
+8310,1310,Men's 4 x 400m Relay,Poland,03:00.3,BRONZE
+8311,1311,Men's 4 x 400m Relay,Jamaica,03:01.4,BRONZE
+8312,1312,Men's 4 x 400m Relay,Russian Federation,03:01.4,BRONZE
+8313,1313,Men's 4 x 200m Freestyle Relay,United States of America,06:58.6,GOLD
+8314,1314,Men's 4 x 200m Freestyle Relay,Russian Federation,07:03.7,SILVER
+8315,1315,Men's 4 x 200m Freestyle Relay,Australia,07:05.0,BRONZE
+8316,1316,Men's 4 x 200m Freestyle Relay,Italy,07:05.4,BRONZE
+8317,1317,Men's 4 x 200m Freestyle Relay,Canada,07:05.8,BRONZE
+8318,1318,Men's 4 x 200m Freestyle Relay,Great Britain,07:05.9,BRONZE
+8319,1319,Men's 4 x 200m Freestyle Relay,Japan,07:10.3,BRONZE
+8320,1320,Men's 4 x 200m Freestyle Relay,South Africa,07:13.0,BRONZE
+8321,1321,Men's 4 x 200m Freestyle Relay,Austria,07:13.0,BRONZE
+8322,1322,Men's 4 x 200m Freestyle Relay,People's Republic of China,07:13.0,BRONZE
+8323,1323,Men's 4 x 200m Freestyle Relay,France,07:13.0,BRONZE
+8324,1324,Men's 4 x 200m Freestyle Relay,Germany,07:13.0,BRONZE
+8325,1325,Men's 4 x 200m Freestyle Relay,Hungary,07:13.0,BRONZE
+8326,1326,Men's 4 x 200m Freestyle Relay,Poland,07:13.0,BRONZE
+8327,1327,Men's 4 x 200m Freestyle Relay,Greece,07:13.0,BRONZE
+8328,1328,Men's 4 x 200m Freestyle Relay,Brazil,07:13.0,BRONZE
+8329,1329,Men's 4 x 100m Freestyle Relay,Netherlands,03:33.8,GOLD
+8330,1330,Men's 4 x 100m Freestyle Relay,United States of America,03:34.3,SILVER
+8331,1331,Men's 4 x 100m Freestyle Relay,Australia,03:35.0,BRONZE
+8332,1332,Men's 4 x 100m Freestyle Relay,People's Republic of China,03:35.6,BRONZE
+8333,1333,Men's 4 x 100m Freestyle Relay,Germany,03:36.8,BRONZE
+8334,1334,Men's 4 x 100m Freestyle Relay,France,03:37.7,BRONZE
+8335,1335,Men's 4 x 100m Freestyle Relay,Great Britain,03:38.2,BRONZE
+8336,1336,Men's 4 x 100m Freestyle Relay,Canada,03:38.3,BRONZE
+8337,1337,Men's 4 x 100m Freestyle Relay,Japan,03:38.3,BRONZE
+8338,1338,Men's 4 x 100m Freestyle Relay,Italy,03:38.3,BRONZE
+8339,1339,Men's 4 x 100m Freestyle Relay,Sweden,03:38.3,BRONZE
+8340,1340,Men's 4 x 100m Freestyle Relay,Russian Federation,03:38.3,BRONZE
+8341,1341,Men's 4 x 100m Freestyle Relay,Brazil,03:38.3,BRONZE
+8342,1342,Men's 4 x 100m Freestyle Relay,Ukraine,03:38.3,BRONZE
+8343,1343,Men's 4 x 100m Freestyle Relay,South Africa,03:38.3,BRONZE
+8344,1344,Men's 4 x 100m Freestyle Relay,Belarus,03:38.3,BRONZE
+8345,1345,Women's 4 x 200m Freestyle Relay,Australia,07:44.3,GOLD
+8346,1346,Women's 4 x 200m Freestyle Relay,People's Republic of China,07:45.9,SILVER
+8347,1347,Women's 4 x 200m Freestyle Relay,United States of America,07:46.3,BRONZE
+8348,1348,Women's 4 x 200m Freestyle Relay,Italy,07:49.8,BRONZE
+8349,1349,Women's 4 x 200m Freestyle Relay,France,07:50.7,BRONZE
+8350,1350,Women's 4 x 200m Freestyle Relay,Hungary,07:55.5,BRONZE
+8351,1351,Women's 4 x 200m Freestyle Relay,Japan,07:57.6,BRONZE
+8352,1352,Women's 4 x 200m Freestyle Relay,Sweden,07:59.8,BRONZE
+8353,1353,Women's 4 x 200m Freestyle Relay,Great Britain,07:59.8,BRONZE
+8354,1354,Women's 4 x 200m Freestyle Relay,Canada,07:59.8,BRONZE
+8355,1355,Women's 4 x 200m Freestyle Relay,Netherlands,07:59.8,BRONZE
+8356,1356,Women's 4 x 200m Freestyle Relay,Germany,07:59.8,BRONZE
+8357,1357,Women's 4 x 200m Freestyle Relay,Denmark,07:59.8,BRONZE
+8358,1358,Women's 4 x 200m Freestyle Relay,Spain,07:59.8,BRONZE
+8359,1359,Women's 4 x 200m Freestyle Relay,Poland,07:59.8,BRONZE
+8360,1360,Women's 4 x 200m Freestyle Relay,New Zealand,07:59.8,BRONZE
+8361,1361,Men's 4 x 100m Freestyle Relay,United States of America,03:08.2,GOLD
+8362,1362,Men's 4 x 100m Freestyle Relay,France,03:08.3,SILVER
+8363,1363,Men's 4 x 100m Freestyle Relay,Australia,03:09.9,BRONZE
+8364,1364,Men's 4 x 100m Freestyle Relay,Italy,03:11.5,BRONZE
+8365,1365,Men's 4 x 100m Freestyle Relay,Sweden,03:11.9,BRONZE
+8366,1366,Men's 4 x 100m Freestyle Relay,Canada,03:12.3,BRONZE
+8367,1367,Men's 4 x 100m Freestyle Relay,South Africa,03:12.7,BRONZE
+8368,1368,Men's 4 x 100m Freestyle Relay,Great Britain,03:12.9,BRONZE
+8369,1369,Men's 4 x 100m Freestyle Relay,Russian Federation,03:12.9,BRONZE
+8370,1370,Men's 4 x 100m Freestyle Relay,Netherlands,03:12.9,BRONZE
+8371,1371,Men's 4 x 100m Freestyle Relay,New Zealand,03:12.9,BRONZE
+8372,1372,Men's 4 x 100m Freestyle Relay,People's Republic of China,03:12.9,BRONZE
+8373,1373,Men's 4 x 100m Freestyle Relay,Switzerland,03:12.9,BRONZE
+8374,1374,Men's 4 x 100m Freestyle Relay,Japan,03:12.9,BRONZE
+8375,1375,Men's 4 x 100m Freestyle Relay,Germany,03:12.9,BRONZE
+8376,1376,Men's 4 x 100m Freestyle Relay,Brazil,03:12.9,BRONZE
+8377,1377,Women's 4 x 400m Relay,United States of America,03:19.0,GOLD
+8378,1378,Women's 4 x 400m Relay,Russian Federation,03:20.2,SILVER
+8379,1379,Women's 4 x 400m Relay,Jamaica,03:22.0,BRONZE
+8380,1380,Women's 4 x 400m Relay,Great Britain,03:25.1,BRONZE
+8381,1381,Women's 4 x 400m Relay,Poland,03:25.2,BRONZE
+8382,1382,Women's 4 x 400m Relay,Romania,03:26.8,BRONZE
+8383,1383,Women's 4 x 400m Relay,India,03:28.5,BRONZE
+8384,1384,Women's 4 x 400m Relay,Greece,03:45.7,BRONZE
+8385,1385,Men's 4 x 100m Relay,Great Britain,00:38.1,GOLD
+8386,1386,Men's 4 x 100m Relay,United States of America,00:38.1,SILVER
+8387,1387,Men's 4 x 100m Relay,Nigeria,00:38.2,BRONZE
+8388,1388,Men's 4 x 100m Relay,Japan,00:38.5,BRONZE
+8389,1389,Men's 4 x 100m Relay,Poland,00:38.5,BRONZE
+8390,1390,Men's 4 x 100m Relay,Australia,00:38.6,BRONZE
+8391,1391,Men's 4 x 100m Relay,Trinidad and Tobago,00:38.6,BRONZE
+8392,1392,Men's 4 x 100m Relay,Brazil,00:38.7,BRONZE
+8393,1393,Men's 4 x 400m Relay,United States of America,02:55.9,GOLD
+8394,1394,Men's 4 x 400m Relay,Australia,03:00.6,SILVER
+8395,1395,Men's 4 x 400m Relay,Nigeria,03:00.9,BRONZE
+8396,1396,Men's 4 x 400m Relay,Japan,03:01.0,BRONZE
+8397,1397,Men's 4 x 400m Relay,Great Britain,03:01.1,BRONZE
+8398,1398,Men's 4 x 400m Relay,Bahamas,03:01.9,BRONZE
+8399,1399,Men's 4 x 400m Relay,Germany,03:02.2,BRONZE
+8400,1400,Men's 4 x 400m Relay,Botswana,03:02.5,BRONZE
+8401,1401,Women's 4 x 100m Relay,Jamaica,00:41.7,GOLD
+8402,1402,Women's 4 x 100m Relay,Russian Federation,00:42.3,SILVER
+8403,1403,Women's 4 x 100m Relay,France,00:42.5,BRONZE
+8404,1404,Women's 4 x 100m Relay,Bahamas,00:42.7,BRONZE
+8405,1405,Women's 4 x 100m Relay,Belarus,00:42.9,BRONZE
+8406,1406,Women's 4 x 100m Relay,Belgium,00:43.1,BRONZE
+8407,1407,Women's 4 x 100m Relay,Nigeria,00:43.4,BRONZE
+8408,1408,Men's 4 x 100m Freestyle Relay,Australia,03:35.9,GOLD
+8409,1409,Men's 4 x 100m Freestyle Relay,United States of America,03:36.4,SILVER
+8410,1410,Men's 4 x 100m Freestyle Relay,Netherlands,03:37.6,BRONZE
+8411,1411,Men's 4 x 100m Freestyle Relay,Germany,03:37.9,BRONZE
+8412,1412,Men's 4 x 100m Freestyle Relay,France,03:40.2,BRONZE
+8413,1413,Men's 4 x 100m Freestyle Relay,Great Britain,03:40.8,BRONZE
+8414,1414,Men's 4 x 100m Freestyle Relay,Sweden,03:41.2,BRONZE
+8415,1415,Men's 4 x 100m Freestyle Relay,People's Republic of China,03:42.9,BRONZE
+8416,1416,Men's 4 x 100m Freestyle Relay,Republic of Korea,03:42.9,BRONZE
+8417,1417,Men's 4 x 100m Freestyle Relay,Italy,03:42.9,BRONZE
+8418,1418,Men's 4 x 100m Freestyle Relay,Belarus,03:42.9,BRONZE
+8419,1419,Men's 4 x 100m Freestyle Relay,Brazil,03:42.9,BRONZE
+8420,1420,Men's 4 x 100m Freestyle Relay,Czech Republic,03:42.9,BRONZE
+8421,1421,Men's 4 x 100m Freestyle Relay,Spain,03:42.9,BRONZE
+8422,1422,Men's 4 x 100m Freestyle Relay,Switzerland,03:42.9,BRONZE
+8423,1423,Men's 4 x 100m Freestyle Relay,Greece,03:42.9,BRONZE
+8424,1424,Men's 4 x 100m Freestyle Relay,South Africa,03:13.2,GOLD
+8425,1425,Men's 4 x 100m Freestyle Relay,Netherlands,03:14.4,SILVER
+8426,1426,Men's 4 x 100m Freestyle Relay,United States of America,03:14.6,BRONZE
+8427,1427,Men's 4 x 100m Freestyle Relay,Russian Federation,03:15.7,BRONZE
+8428,1428,Men's 4 x 100m Freestyle Relay,Italy,03:15.7,BRONZE
+8429,1429,Men's 4 x 100m Freestyle Relay,Australia,03:15.8,BRONZE
+8430,1430,Men's 4 x 100m Freestyle Relay,France,03:16.2,BRONZE
+8431,1431,Men's 4 x 100m Freestyle Relay,Germany,03:17.2,BRONZE
+8432,1432,Men's 4 x 100m Freestyle Relay,Canada,03:17.2,BRONZE
+8433,1433,Men's 4 x 100m Freestyle Relay,Ukraine,03:17.2,BRONZE
+8434,1434,Men's 4 x 100m Freestyle Relay,Lithuania,03:17.2,BRONZE
+8435,1435,Men's 4 x 100m Freestyle Relay,Croatia,03:17.2,BRONZE
+8436,1436,Men's 4 x 100m Freestyle Relay,Greece,03:17.2,BRONZE
+8437,1437,Men's 4 x 100m Freestyle Relay,People's Republic of China,03:17.2,BRONZE
+8438,1438,Men's 4 x 100m Freestyle Relay,Sweden,03:17.2,BRONZE
+8439,1439,Men's 4 x 200m Freestyle Relay,United States of America,07:07.3,GOLD
+8440,1440,Men's 4 x 200m Freestyle Relay,Australia,07:07.5,SILVER
+8441,1441,Men's 4 x 200m Freestyle Relay,Italy,07:11.8,BRONZE
+8442,1442,Men's 4 x 200m Freestyle Relay,Great Britain,07:12.6,BRONZE
+8443,1443,Men's 4 x 200m Freestyle Relay,Canada,07:13.3,BRONZE
+8444,1444,Men's 4 x 200m Freestyle Relay,Germany,07:16.5,BRONZE
+8445,1445,Men's 4 x 200m Freestyle Relay,France,07:17.4,BRONZE
+8446,1446,Men's 4 x 200m Freestyle Relay,Greece,07:23.0,BRONZE
+8447,1447,Men's 4 x 200m Freestyle Relay,Brazil,07:23.0,BRONZE
+8448,1448,Men's 4 x 200m Freestyle Relay,People's Republic of China,07:23.0,BRONZE
+8449,1449,Men's 4 x 200m Freestyle Relay,Russian Federation,07:23.0,BRONZE
+8450,1450,Men's 4 x 200m Freestyle Relay,Ukraine,07:23.0,BRONZE
+8451,1451,Men's 4 x 200m Freestyle Relay,Czech Republic,07:23.0,BRONZE
+8452,1452,Men's 4 x 200m Freestyle Relay,Portugal,07:23.0,BRONZE
+8453,1453,Men's 4 x 200m Freestyle Relay,Mexico,07:23.0,BRONZE
+8454,1454,Men's 4 x 200m Freestyle Relay,Hungary,07:23.0,BRONZE
+8455,1455,Women's 4 x 200m Freestyle Relay,United States of America,07:53.4,GOLD
+8456,1456,Women's 4 x 200m Freestyle Relay,People's Republic of China,07:56.0,SILVER
+8457,1457,Women's 4 x 200m Freestyle Relay,Germany,07:57.4,BRONZE
+8458,1458,Women's 4 x 200m Freestyle Relay,Australia,07:57.4,BRONZE
+8459,1459,Women's 4 x 200m Freestyle Relay,Great Britain,07:59.1,BRONZE
+8460,1460,Women's 4 x 200m Freestyle Relay,Spain,08:02.1,BRONZE
+8461,1461,Women's 4 x 200m Freestyle Relay,Brazil,08:05.3,BRONZE
+8462,1462,Women's 4 x 200m Freestyle Relay,Sweden,08:08.3,BRONZE
+8463,1463,Women's 4 x 200m Freestyle Relay,Netherlands,08:08.3,BRONZE
+8464,1464,Women's 4 x 200m Freestyle Relay,France,08:08.3,BRONZE
+8465,1465,Women's 4 x 200m Freestyle Relay,Romania,08:08.3,BRONZE
+8466,1466,Women's 4 x 200m Freestyle Relay,Switzerland,08:08.3,BRONZE
+8467,1467,Women's 4 x 200m Freestyle Relay,New Zealand,08:08.3,BRONZE
+8468,1468,Women's 4 x 200m Freestyle Relay,Italy,08:08.3,BRONZE
+8469,1469,Women's 4 x 200m Freestyle Relay,Greece,08:08.3,BRONZE
+8470,1470,Women's 4 x 200m Freestyle Relay,Slovenia,08:08.3,BRONZE
+8471,1471,Men's 4 x 400m Relay,Nigeria,02:58.7,GOLD
+8472,1472,Men's 4 x 400m Relay,Jamaica,02:58.8,SILVER
+8473,1473,Men's 4 x 400m Relay,Bahamas,02:59.2,BRONZE
+8474,1474,Men's 4 x 400m Relay,France,03:01.0,BRONZE
+8475,1475,Men's 4 x 400m Relay,Great Britain,03:01.2,BRONZE
+8476,1476,Men's 4 x 400m Relay,Poland,03:03.2,BRONZE
+8477,1477,Men's 4 x 400m Relay,Australia,03:03.9,BRONZE
+8478,1478,Men's 4 x 400m Relay,United States of America,03:03.9,BRONZE
+8479,1479,Women's 4 x 400m Relay,United States of America,03:22.6,GOLD
+8480,1480,Women's 4 x 400m Relay,Jamaica,03:23.2,SILVER
+8481,1481,Women's 4 x 400m Relay,Russian Federation,03:23.5,BRONZE
+8482,1482,Women's 4 x 400m Relay,Nigeria,03:23.8,BRONZE
+8483,1483,Women's 4 x 400m Relay,Australia,03:23.8,BRONZE
+8484,1484,Women's 4 x 400m Relay,Great Britain,03:25.7,BRONZE
+8485,1485,Women's 4 x 400m Relay,Czech Republic,03:29.2,BRONZE
+8486,1486,Women's 4 x 400m Relay,Cuba,03:29.5,BRONZE
+8487,1487,Women's 4 x 100m Relay,Bahamas,00:42.0,GOLD
+8488,1488,Women's 4 x 100m Relay,Jamaica,00:42.1,SILVER
+8489,1489,Women's 4 x 100m Relay,United States of America,00:42.2,BRONZE
+8490,1490,Women's 4 x 100m Relay,France,00:42.4,BRONZE
+8491,1491,Women's 4 x 100m Relay,Russian Federation,00:43.0,BRONZE
+8492,1492,Women's 4 x 100m Relay,Germany,00:43.1,BRONZE
+8493,1493,Women's 4 x 100m Relay,Nigeria,00:44.0,BRONZE
+8494,1494,Women's 4 x 100m Relay,People's Republic of China,00:44.9,BRONZE
+8495,1495,Men's 4 x 100m Relay,United States of America,00:37.6,GOLD
+8496,1496,Men's 4 x 100m Relay,Brazil,00:37.9,SILVER
+8497,1497,Men's 4 x 100m Relay,Cuba,00:38.0,BRONZE
+8498,1498,Men's 4 x 100m Relay,Jamaica,00:38.2,BRONZE
+8499,1499,Men's 4 x 100m Relay,France,00:38.5,BRONZE
+8500,1500,Men's 4 x 100m Relay,Japan,00:38.7,BRONZE
+8501,1501,Men's 4 x 100m Relay,Italy,00:38.7,BRONZE
+8502,1502,Men's 4 x 100m Relay,Poland,00:39.0,BRONZE
+8503,1503,Men's 4 x 100m Freestyle Relay,United States of America,03:36.6,GOLD
+8504,1504,Men's 4 x 100m Freestyle Relay,Netherlands,03:39.8,SILVER
+8505,1505,Men's 4 x 100m Freestyle Relay,Sweden,03:40.3,BRONZE
+8506,1506,Men's 4 x 100m Freestyle Relay,Germany,03:40.3,BRONZE
+8507,1507,Men's 4 x 100m Freestyle Relay,Great Britain,03:40.5,BRONZE
+8508,1508,Men's 4 x 100m Freestyle Relay,Australia,03:40.9,BRONZE
+8509,1509,Men's 4 x 100m Freestyle Relay,Canada,03:42.9,BRONZE
+8510,1510,Men's 4 x 100m Freestyle Relay,Italy,03:44.5,BRONZE
+8511,1511,Men's 4 x 100m Freestyle Relay,People's Republic of China,03:44.5,BRONZE
+8512,1512,Men's 4 x 100m Freestyle Relay,Russian Federation,03:44.5,BRONZE
+8513,1513,Men's 4 x 100m Freestyle Relay,Belgium,03:44.5,BRONZE
+8514,1514,Men's 4 x 100m Freestyle Relay,Romania,03:44.5,BRONZE
+8515,1515,Men's 4 x 100m Freestyle Relay,Ukraine,03:44.5,BRONZE
+8516,1516,Men's 4 x 200m Freestyle Relay,Australia,07:07.1,GOLD
+8517,1517,Men's 4 x 200m Freestyle Relay,United States of America,07:12.6,SILVER
+8518,1518,Men's 4 x 200m Freestyle Relay,Netherlands,07:12.7,BRONZE
+8519,1519,Men's 4 x 200m Freestyle Relay,Italy,07:12.9,BRONZE
+8520,1520,Men's 4 x 200m Freestyle Relay,Great Britain,07:13.0,BRONZE
+8521,1521,Men's 4 x 200m Freestyle Relay,Germany,07:20.2,BRONZE
+8522,1522,Men's 4 x 200m Freestyle Relay,Canada,07:21.9,BRONZE
+8523,1523,Men's 4 x 200m Freestyle Relay,Russian Federation,07:24.4,BRONZE
+8524,1524,Men's 4 x 200m Freestyle Relay,Romania,07:24.4,BRONZE
+8525,1525,Men's 4 x 200m Freestyle Relay,Hungary,07:24.4,BRONZE
+8526,1526,Men's 4 x 200m Freestyle Relay,Denmark,07:24.4,BRONZE
+8527,1527,Men's 4 x 200m Freestyle Relay,Belarus,07:24.4,BRONZE
+8528,1528,Men's 4 x 200m Freestyle Relay,Brazil,07:24.4,BRONZE
+8529,1529,Men's 4 x 200m Freestyle Relay,Ukraine,07:24.4,BRONZE
+8530,1530,Men's 4 x 200m Freestyle Relay,Greece,07:24.4,BRONZE
+8531,1531,Men's 4 x 200m Freestyle Relay,Kyrgyzstan,07:24.4,BRONZE
+8532,1532,Women's 4 x 200m Freestyle Relay,United States of America,07:57.8,GOLD
+8533,1533,Women's 4 x 200m Freestyle Relay,Australia,07:58.5,SILVER
+8534,1534,Women's 4 x 200m Freestyle Relay,Germany,07:58.6,BRONZE
+8535,1535,Women's 4 x 200m Freestyle Relay,Romania,08:01.6,BRONZE
+8536,1536,Women's 4 x 200m Freestyle Relay,Canada,08:02.6,BRONZE
+8537,1537,Women's 4 x 200m Freestyle Relay,Great Britain,08:03.7,BRONZE
+8538,1538,Women's 4 x 200m Freestyle Relay,Italy,08:04.7,BRONZE
+8539,1539,Women's 4 x 200m Freestyle Relay,France,08:06.0,BRONZE
+8540,1540,Women's 4 x 200m Freestyle Relay,People's Republic of China,08:06.0,BRONZE
+8541,1541,Women's 4 x 200m Freestyle Relay,Russian Federation,08:06.0,BRONZE
+8542,1542,Women's 4 x 200m Freestyle Relay,Netherlands,08:06.0,BRONZE
+8543,1543,Women's 4 x 200m Freestyle Relay,Belgium,08:06.0,BRONZE
+8544,1544,Women's 4 x 200m Freestyle Relay,Spain,08:06.0,BRONZE
+8545,1545,Women's 4 x 200m Freestyle Relay,Kyrgyzstan,08:06.0,BRONZE
+8546,1546,Women's 4 x 200m Freestyle Relay,Ukraine,08:06.0,BRONZE
+8547,1547,Men's 4 x 100m Freestyle Relay,Australia,03:13.7,GOLD
+8548,1548,Men's 4 x 100m Freestyle Relay,United States of America,03:13.9,SILVER
+8549,1549,Men's 4 x 100m Freestyle Relay,Brazil,03:17.4,BRONZE
+8550,1550,Men's 4 x 100m Freestyle Relay,Germany,03:17.8,BRONZE
+8551,1551,Men's 4 x 100m Freestyle Relay,Italy,03:17.8,BRONZE
+8552,1552,Men's 4 x 100m Freestyle Relay,Sweden,03:19.6,BRONZE
+8553,1553,Men's 4 x 100m Freestyle Relay,France,03:21.0,BRONZE
+8554,1554,Men's 4 x 100m Freestyle Relay,Russian Federation,03:21.0,BRONZE
+8555,1555,Men's 4 x 100m Freestyle Relay,Great Britain,03:21.0,BRONZE
+8556,1556,Men's 4 x 100m Freestyle Relay,Belarus,03:21.0,BRONZE
+8557,1557,Men's 4 x 100m Freestyle Relay,South Africa,03:21.0,BRONZE
+8558,1558,Men's 4 x 100m Freestyle Relay,Ukraine,03:21.0,BRONZE
+8559,1559,Men's 4 x 100m Freestyle Relay,Canada,03:21.0,BRONZE
+8560,1560,Men's 4 x 100m Freestyle Relay,Israel,03:21.0,BRONZE
+8561,1561,Men's 4 x 100m Freestyle Relay,Spain,03:21.0,BRONZE
+8562,1562,Men's 4 x 100m Freestyle Relay,Lithuania,03:21.0,BRONZE
+8563,1563,Men's 4 x 100m Freestyle Relay,Venezuela,03:21.0,BRONZE
+8564,1564,Men's 4 x 100m Freestyle Relay,Denmark,03:21.0,BRONZE
+8565,1565,Men's 4 x 100m Freestyle Relay,Croatia,03:21.0,BRONZE
+8566,1566,Men's 4 x 100m Freestyle Relay,Kyrgyzstan,03:21.0,BRONZE
+8567,1567,Men's 4 x 100m Freestyle Relay,Kazakhstan,03:21.0,BRONZE
+8568,1568,Men's 4 x 100m Freestyle Relay,Netherlands,03:21.0,BRONZE
+8569,1569,Men's 4 x 100m Freestyle Relay,Uzbekistan,03:21.0,BRONZE
+8570,1570,Women's 4 x 100m Relay,United States of America,00:42.0,GOLD
+8571,1571,Women's 4 x 100m Relay,Bahamas,00:42.1,SILVER
+8572,1572,Women's 4 x 100m Relay,Jamaica,00:42.2,BRONZE
+8573,1573,Women's 4 x 100m Relay,Russian Federation,00:42.3,BRONZE
+8574,1574,Women's 4 x 100m Relay,Nigeria,00:42.6,BRONZE
+8575,1575,Women's 4 x 100m Relay,France,00:42.8,BRONZE
+8576,1576,Women's 4 x 100m Relay,Australia,00:43.7,BRONZE
+8577,1577,Women's 4 x 100m Relay,Great Britain,00:43.9,BRONZE
+8578,1578,Women's 4 x 400m Relay,United States of America,03:20.9,GOLD
+8579,1579,Women's 4 x 400m Relay,Nigeria,03:21.0,SILVER
+8580,1580,Women's 4 x 400m Relay,Germany,03:21.1,BRONZE
+8581,1581,Women's 4 x 400m Relay,Jamaica,03:21.7,BRONZE
+8582,1582,Women's 4 x 400m Relay,Russian Federation,03:22.2,BRONZE
+8583,1583,Women's 4 x 400m Relay,Cuba,03:25.8,BRONZE
+8584,1584,Women's 4 x 400m Relay,Czech Republic,03:27.0,BRONZE
+8585,1585,Women's 4 x 400m Relay,France,03:28.5,BRONZE
+8586,1586,Men's 4 x 100m Relay,Canada,00:37.7,GOLD
+8587,1587,Men's 4 x 100m Relay,United States of America,00:38.1,SILVER
+8588,1588,Men's 4 x 100m Relay,Brazil,00:38.4,BRONZE
+8589,1589,Men's 4 x 100m Relay,Ukraine,00:38.6,BRONZE
+8590,1590,Men's 4 x 100m Relay,Sweden,00:38.7,BRONZE
+8591,1591,Men's 4 x 100m Relay,Cuba,00:39.4,BRONZE
+8592,1592,Men's 4 x 400m Relay,United States of America,02:56.0,GOLD
+8593,1593,Men's 4 x 400m Relay,Great Britain,02:56.6,SILVER
+8594,1594,Men's 4 x 400m Relay,Jamaica,02:59.4,BRONZE
+8595,1595,Men's 4 x 400m Relay,Senegal,03:00.6,BRONZE
+8596,1596,Men's 4 x 400m Relay,Japan,03:00.8,BRONZE
+8597,1597,Men's 4 x 400m Relay,Poland,03:01.0,BRONZE
+8598,1598,Men's 4 x 400m Relay,Bahamas,03:02.7,BRONZE
+8599,1599,Women's 4 x 200m Freestyle Relay,United States of America,07:59.9,GOLD
+8600,1600,Women's 4 x 200m Freestyle Relay,Germany,08:01.6,SILVER
+8601,1601,Women's 4 x 200m Freestyle Relay,Australia,08:05.5,BRONZE
+8602,1602,Women's 4 x 200m Freestyle Relay,Japan,08:07.5,BRONZE
+8603,1603,Women's 4 x 200m Freestyle Relay,Canada,08:08.2,BRONZE
+8604,1604,Women's 4 x 200m Freestyle Relay,Netherlands,08:08.5,BRONZE
+8605,1605,Women's 4 x 200m Freestyle Relay,Romania,08:10.0,BRONZE
+8606,1606,Women's 4 x 200m Freestyle Relay,People's Republic of China,08:15.4,BRONZE
+8607,1607,Women's 4 x 200m Freestyle Relay,Sweden,08:15.4,BRONZE
+8608,1608,Women's 4 x 200m Freestyle Relay,Great Britain,08:15.4,BRONZE
+8609,1609,Women's 4 x 200m Freestyle Relay,New Zealand,08:15.4,BRONZE
+8610,1610,Women's 4 x 200m Freestyle Relay,Russian Federation,08:15.4,BRONZE
+8611,1611,Women's 4 x 200m Freestyle Relay,Denmark,08:15.4,BRONZE
+8612,1612,Women's 4 x 200m Freestyle Relay,France,08:15.4,BRONZE
+8613,1613,Women's 4 x 200m Freestyle Relay,Czech Republic,08:15.4,BRONZE
+8614,1614,Women's 4 x 200m Freestyle Relay,Switzerland,08:15.4,BRONZE
+8615,1615,Women's 4 x 200m Freestyle Relay,Belarus,08:15.4,BRONZE
+8616,1616,Women's 4 x 200m Freestyle Relay,Republic of Korea,08:15.4,BRONZE
+8617,1617,Women's 4 x 200m Freestyle Relay,Chinese Taipei,08:15.4,BRONZE
+8618,1618,Women's 4 x 200m Freestyle Relay,Kyrgyzstan,08:15.4,BRONZE
+8619,1619,Women's 4 x 200m Freestyle Relay,Argentina,08:15.4,BRONZE
+8620,1620,Men's 4 x 100m Freestyle Relay,United States of America,03:15.4,GOLD
+8621,1621,Men's 4 x 100m Freestyle Relay,Russian Federation,03:17.1,SILVER
+8622,1622,Men's 4 x 100m Freestyle Relay,Germany,03:17.2,BRONZE
+8623,1623,Men's 4 x 100m Freestyle Relay,Brazil,03:18.3,BRONZE
+8624,1624,Men's 4 x 100m Freestyle Relay,Netherlands,03:19.0,BRONZE
+8625,1625,Men's 4 x 100m Freestyle Relay,Australia,03:20.1,BRONZE
+8626,1626,Men's 4 x 100m Freestyle Relay,Sweden,03:20.2,BRONZE
+8627,1627,Men's 4 x 100m Freestyle Relay,Great Britain,03:21.5,BRONZE
+8628,1628,Men's 4 x 100m Freestyle Relay,New Zealand,03:21.5,BRONZE
+8629,1629,Men's 4 x 100m Freestyle Relay,Romania,03:21.5,BRONZE
+8630,1630,Men's 4 x 100m Freestyle Relay,France,03:21.5,BRONZE
+8631,1631,Men's 4 x 100m Freestyle Relay,Finland,03:21.5,BRONZE
+8632,1632,Men's 4 x 100m Freestyle Relay,Venezuela,03:21.5,BRONZE
+8633,1633,Men's 4 x 100m Freestyle Relay,Croatia,03:21.5,BRONZE
+8634,1634,Men's 4 x 100m Freestyle Relay,Ecuador,03:21.5,BRONZE
+8635,1635,Men's 4 x 100m Freestyle Relay,Puerto Rico,03:21.5,BRONZE
+8636,1636,Men's 4 x 100m Freestyle Relay,Uzbekistan,03:21.5,BRONZE
+8637,1637,Men's 4 x 100m Freestyle Relay,Kyrgyzstan,03:21.5,BRONZE
+8638,1638,Men's 4 x 100m Freestyle Relay,Kazakhstan,03:21.5,BRONZE
+8639,1639,Men's 4 x 100m Freestyle Relay,Singapore,03:21.5,BRONZE
+8640,1640,Men's 4 x 100m Freestyle Relay,United States of America,03:39.3,GOLD
+8641,1641,Men's 4 x 100m Freestyle Relay,People's Republic of China,03:40.5,SILVER
+8642,1642,Men's 4 x 100m Freestyle Relay,Germany,03:41.5,BRONZE
+8643,1643,Men's 4 x 100m Freestyle Relay,Netherlands,03:42.4,BRONZE
+8644,1644,Men's 4 x 100m Freestyle Relay,Sweden,03:44.9,BRONZE
+8645,1645,Men's 4 x 100m Freestyle Relay,Australia,03:45.3,BRONZE
+8646,1646,Men's 4 x 100m Freestyle Relay,Canada,03:46.3,BRONZE
+8647,1647,Men's 4 x 100m Freestyle Relay,Russian Federation,03:46.3,BRONZE
+8648,1648,Men's 4 x 100m Freestyle Relay,Great Britain,03:46.3,BRONZE
+8649,1649,Men's 4 x 100m Freestyle Relay,France,03:46.3,BRONZE
+8650,1650,Men's 4 x 100m Freestyle Relay,Romania,03:46.3,BRONZE
+8651,1651,Men's 4 x 100m Freestyle Relay,Japan,03:46.3,BRONZE
+8652,1652,Men's 4 x 100m Freestyle Relay,Denmark,03:46.3,BRONZE
+8653,1653,Men's 4 x 100m Freestyle Relay,Spain,03:46.3,BRONZE
+8654,1654,Men's 4 x 100m Freestyle Relay,Belarus,03:46.3,BRONZE
+8655,1655,Men's 4 x 100m Freestyle Relay,Finland,03:46.3,BRONZE
+8656,1656,Men's 4 x 100m Freestyle Relay,Switzerland,03:46.3,BRONZE
+8657,1657,Men's 4 x 100m Freestyle Relay,Chinese Taipei,03:46.3,BRONZE
+8658,1658,Men's 4 x 100m Freestyle Relay,Republic of Korea,03:46.3,BRONZE
+8659,1659,Men's 4 x 200m Freestyle Relay,United States of America,07:14.8,GOLD
+8660,1660,Men's 4 x 200m Freestyle Relay,Sweden,07:17.6,SILVER
+8661,1661,Men's 4 x 200m Freestyle Relay,Germany,07:17.7,BRONZE
+8662,1662,Men's 4 x 200m Freestyle Relay,Australia,07:18.5,BRONZE
+8663,1663,Men's 4 x 200m Freestyle Relay,Great Britain,07:18.7,BRONZE
+8664,1664,Men's 4 x 200m Freestyle Relay,Italy,07:19.9,BRONZE
+8665,1665,Men's 4 x 200m Freestyle Relay,Netherlands,07:22.0,BRONZE
+8666,1666,Men's 4 x 200m Freestyle Relay,France,07:24.9,BRONZE
+8667,1667,Men's 4 x 200m Freestyle Relay,New Zealand,07:24.9,BRONZE
+8668,1668,Men's 4 x 200m Freestyle Relay,Brazil,07:24.9,BRONZE
+8669,1669,Men's 4 x 200m Freestyle Relay,Venezuela,07:24.9,BRONZE
+8670,1670,Men's 4 x 200m Freestyle Relay,Uzbekistan,07:24.9,BRONZE
+8671,1671,Men's 4 x 200m Freestyle Relay,Croatia,07:24.9,BRONZE
+8672,1672,Men's 4 x 200m Freestyle Relay,Singapore,07:24.9,BRONZE
+8673,1673,Men's 4 x 200m Freestyle Relay,Republic of Korea,07:24.9,BRONZE
+8674,1674,Men's 4 x 200m Freestyle Relay,Ecuador,07:24.9,BRONZE
+8675,1675,Men's 4 x 200m Freestyle Relay,Kyrgyzstan,07:24.9,BRONZE
+8676,1676,Women's 4 x 400m Relay,Unified Team,03:20.2,GOLD
+8677,1677,Women's 4 x 400m Relay,United States of America,03:20.9,SILVER
+8678,1678,Women's 4 x 400m Relay,Great Britain,03:24.2,BRONZE
+8679,1679,Women's 4 x 400m Relay,Canada,03:25.2,BRONZE
+8680,1680,Women's 4 x 400m Relay,Jamaica,03:25.7,BRONZE
+8681,1681,Women's 4 x 400m Relay,Germany,03:26.4,BRONZE
+8682,1682,Women's 4 x 400m Relay,Australia,03:26.4,BRONZE
+8683,1683,Women's 4 x 400m Relay,Portugal,03:36.8,BRONZE
+8684,1684,Men's 4 x 100m Relay,United States of America,00:37.4,GOLD
+8685,1685,Men's 4 x 100m Relay,Nigeria,00:38.0,SILVER
+8686,1686,Men's 4 x 100m Relay,Cuba,00:38.0,BRONZE
+8687,1687,Men's 4 x 100m Relay,Great Britain,00:38.1,BRONZE
+8688,1688,Men's 4 x 100m Relay,Unified Team,00:38.2,BRONZE
+8689,1689,Men's 4 x 100m Relay,Japan,00:38.8,BRONZE
+8690,1690,Men's 4 x 100m Relay,Austria,00:39.3,BRONZE
+8691,1691,Men's 4 x 100m Relay,Ivory Coast,00:39.3,BRONZE
+8692,1692,Women's 4 x 100m Relay,United States of America,00:42.1,GOLD
+8693,1693,Women's 4 x 100m Relay,Unified Team,00:42.2,SILVER
+8694,1694,Women's 4 x 100m Relay,Nigeria,00:42.8,BRONZE
+8695,1695,Women's 4 x 100m Relay,France,00:42.9,BRONZE
+8696,1696,Women's 4 x 100m Relay,Germany,00:43.1,BRONZE
+8697,1697,Women's 4 x 100m Relay,Australia,00:43.8,BRONZE
+8698,1698,Men's 4 x 400m Relay,United States of America,02:55.7,GOLD
+8699,1699,Men's 4 x 400m Relay,Cuba,02:59.5,SILVER
+8700,1700,Men's 4 x 400m Relay,Great Britain,02:59.7,BRONZE
+8701,1701,Men's 4 x 400m Relay,Brazil,03:01.6,BRONZE
+8702,1702,Men's 4 x 400m Relay,Nigeria,03:01.7,BRONZE
+8703,1703,Men's 4 x 400m Relay,Italy,03:02.2,BRONZE
+8704,1704,Men's 4 x 400m Relay,Trinidad and Tobago,03:03.3,BRONZE
+8705,1705,Men's 4 x 100m Freestyle Relay,United States of America,03:16.7,GOLD
+8706,1706,Men's 4 x 100m Freestyle Relay,Unified Team,03:17.6,SILVER
+8707,1707,Men's 4 x 100m Freestyle Relay,Germany,03:17.9,BRONZE
+8708,1708,Men's 4 x 100m Freestyle Relay,France,03:19.2,BRONZE
+8709,1709,Men's 4 x 100m Freestyle Relay,Sweden,03:20.1,BRONZE
+8710,1710,Men's 4 x 100m Freestyle Relay,Brazil,03:21.0,BRONZE
+8711,1711,Men's 4 x 100m Freestyle Relay,Great Britain,03:21.7,BRONZE
+8712,1712,Men's 4 x 100m Freestyle Relay,Australia,03:22.0,BRONZE
+8713,1713,Men's 4 x 100m Freestyle Relay,New Zealand,03:22.0,BRONZE
+8714,1714,Men's 4 x 100m Freestyle Relay,Italy,03:22.0,BRONZE
+8715,1715,Men's 4 x 100m Freestyle Relay,South Africa,03:22.0,BRONZE
+8716,1716,Men's 4 x 100m Freestyle Relay,Puerto Rico,03:22.0,BRONZE
+8717,1717,Men's 4 x 100m Freestyle Relay,Guam,03:22.0,BRONZE
+8718,1718,Men's 4 x 100m Freestyle Relay,Finland,03:22.0,BRONZE
+8719,1719,Men's 4 x 100m Freestyle Relay,"Hong Kong, China",03:22.0,BRONZE
+8720,1720,Men's 4 x 100m Freestyle Relay,Bermuda,03:22.0,BRONZE
+8721,1721,Men's 4 x 100m Freestyle Relay,Guatemala,03:22.0,BRONZE
+8722,1722,Men's 4 x 100m Freestyle Relay,United Arab Emirates,03:22.0,BRONZE
+8723,1723,Men's 4 x 200m Freestyle Relay,Unified Team,07:11.9,GOLD
+8724,1724,Men's 4 x 200m Freestyle Relay,Sweden,07:15.5,SILVER
+8725,1725,Men's 4 x 200m Freestyle Relay,United States of America,07:16.2,BRONZE
+8726,1726,Men's 4 x 200m Freestyle Relay,Germany,07:16.6,BRONZE
+8727,1727,Men's 4 x 200m Freestyle Relay,Italy,07:18.1,BRONZE
+8728,1728,Men's 4 x 200m Freestyle Relay,Great Britain,07:22.6,BRONZE
+8729,1729,Men's 4 x 200m Freestyle Relay,Brazil,07:24.0,BRONZE
+8730,1730,Men's 4 x 200m Freestyle Relay,Australia,07:24.0,BRONZE
+8731,1731,Men's 4 x 200m Freestyle Relay,Canada,07:24.0,BRONZE
+8732,1732,Men's 4 x 200m Freestyle Relay,France,07:24.0,BRONZE
+8733,1733,Men's 4 x 200m Freestyle Relay,New Zealand,07:24.0,BRONZE
+8734,1734,Men's 4 x 200m Freestyle Relay,Finland,07:24.0,BRONZE
+8735,1735,Men's 4 x 200m Freestyle Relay,Poland,07:24.0,BRONZE
+8736,1736,Men's 4 x 200m Freestyle Relay,Norway,07:24.0,BRONZE
+8737,1737,Men's 4 x 200m Freestyle Relay,Puerto Rico,07:24.0,BRONZE
+8738,1738,Men's 4 x 200m Freestyle Relay,"Hong Kong, China",07:24.0,BRONZE
+8739,1739,Men's 4 x 200m Freestyle Relay,Guatemala,07:24.0,BRONZE
+8740,1740,Men's 4 x 200m Freestyle Relay,United Arab Emirates,07:24.0,BRONZE
+8741,1741,Men's 4 x 100m Freestyle Relay,United States of America,03:39.5,GOLD
+8742,1742,Men's 4 x 100m Freestyle Relay,People's Republic of China,03:40.1,SILVER
+8743,1743,Men's 4 x 100m Freestyle Relay,Germany,03:41.6,BRONZE
+8744,1744,Men's 4 x 100m Freestyle Relay,Unified Team,03:43.7,BRONZE
+8745,1745,Men's 4 x 100m Freestyle Relay,Netherlands,03:43.7,BRONZE
+8746,1746,Men's 4 x 100m Freestyle Relay,Denmark,03:47.8,BRONZE
+8747,1747,Men's 4 x 100m Freestyle Relay,Sweden,03:48.5,BRONZE
+8748,1748,Men's 4 x 100m Freestyle Relay,Canada,03:49.4,BRONZE
+8749,1749,Men's 4 x 100m Freestyle Relay,Australia,03:49.4,BRONZE
+8750,1750,Men's 4 x 100m Freestyle Relay,Japan,03:49.4,BRONZE
+8751,1751,Men's 4 x 100m Freestyle Relay,France,03:49.4,BRONZE
+8752,1752,Men's 4 x 100m Freestyle Relay,Romania,03:49.4,BRONZE
+8753,1753,Men's 4 x 100m Freestyle Relay,Mauritius,03:49.4,BRONZE
+8754,1754,Women's 4 x 400m Relay,Soviet Union,03:15.2,GOLD
+8755,1755,Women's 4 x 400m Relay,United States of America,03:15.5,SILVER
+8756,1756,Women's 4 x 400m Relay,German Democratic Republic (Germany),03:18.3,BRONZE
+8757,1757,Women's 4 x 400m Relay,Federal Republic of Germany,03:22.5,BRONZE
+8758,1758,Women's 4 x 400m Relay,Jamaica,03:23.1,BRONZE
+8759,1759,Women's 4 x 400m Relay,Great Britain,03:26.9,BRONZE
+8760,1760,Women's 4 x 400m Relay,France,03:29.4,BRONZE
+8761,1761,Men's 4 x 100m Relay,Soviet Union,00:38.2,GOLD
+8762,1762,Men's 4 x 100m Relay,Great Britain,00:38.3,SILVER
+8763,1763,Men's 4 x 100m Relay,France,00:38.4,BRONZE
+8764,1764,Men's 4 x 100m Relay,Jamaica,00:38.5,BRONZE
+8765,1765,Men's 4 x 100m Relay,Italy,00:38.5,BRONZE
+8766,1766,Men's 4 x 100m Relay,Federal Republic of Germany,00:38.6,BRONZE
+8767,1767,Men's 4 x 100m Relay,Canada,00:38.9,BRONZE
+8768,1768,Men's 4 x 100m Relay,Hungary,00:39.2,BRONZE
+8769,1769,Men's 4 x 400m Relay,United States of America,02:56.2,GOLD
+8770,1770,Men's 4 x 400m Relay,Jamaica,03:00.3,SILVER
+8771,1771,Men's 4 x 400m Relay,Federal Republic of Germany,03:00.6,BRONZE
+8772,1772,Men's 4 x 400m Relay,German Democratic Republic (Germany),03:01.1,BRONZE
+8773,1773,Men's 4 x 400m Relay,Great Britain,03:02.0,BRONZE
+8774,1774,Men's 4 x 400m Relay,Australia,03:02.5,BRONZE
+8775,1775,Men's 4 x 400m Relay,Nigeria,03:02.5,BRONZE
+8776,1776,Men's 4 x 400m Relay,Kenya,03:04.7,BRONZE
+8777,1777,Women's 4 x 100m Relay,United States of America,00:42.0,GOLD
+8778,1778,Women's 4 x 100m Relay,German Democratic Republic (Germany),00:42.1,SILVER
+8779,1779,Women's 4 x 100m Relay,Soviet Union,00:42.8,BRONZE
+8780,1780,Women's 4 x 100m Relay,Federal Republic of Germany,00:42.8,BRONZE
+8781,1781,Women's 4 x 100m Relay,Bulgaria,00:43.0,BRONZE
+8782,1782,Women's 4 x 100m Relay,Poland,00:43.9,BRONZE
+8783,1783,Women's 4 x 100m Relay,France,00:44.0,BRONZE
+8784,1784,Men's 4 x 200m Freestyle Relay,United States of America,07:12.5,GOLD
+8785,1785,Men's 4 x 200m Freestyle Relay,German Democratic Republic (Germany),07:13.7,SILVER
+8786,1786,Men's 4 x 200m Freestyle Relay,Federal Republic of Germany,07:14.4,BRONZE
+8787,1787,Men's 4 x 200m Freestyle Relay,Australia,07:15.2,BRONZE
+8788,1788,Men's 4 x 200m Freestyle Relay,Italy,07:16.0,BRONZE
+8789,1789,Men's 4 x 200m Freestyle Relay,Sweden,07:19.1,BRONZE
+8790,1790,Men's 4 x 200m Freestyle Relay,France,07:24.7,BRONZE
+8791,1791,Men's 4 x 200m Freestyle Relay,Canada,07:24.9,BRONZE
+8792,1792,Men's 4 x 200m Freestyle Relay,Great Britain,07:24.9,BRONZE
+8793,1793,Men's 4 x 200m Freestyle Relay,Brazil,07:24.9,BRONZE
+8794,1794,Men's 4 x 200m Freestyle Relay,Denmark,07:24.9,BRONZE
+8795,1795,Men's 4 x 200m Freestyle Relay,Republic of Korea,07:24.9,BRONZE
+8796,1796,Men's 4 x 200m Freestyle Relay,US Virgin Islands,07:24.9,BRONZE
+8797,1797,Men's 4 x 200m Freestyle Relay,United Arab Emirates,07:24.9,BRONZE
+8798,1798,Men's 4 x 200m Freestyle Relay,Mexico,07:24.9,BRONZE
+8799,1799,Men's 4 x 200m Freestyle Relay,Soviet Union,07:24.9,BRONZE
+8800,1800,Men's 4 x 100m Freestyle Relay,United States of America,03:16.5,GOLD
+8801,1801,Men's 4 x 100m Freestyle Relay,Soviet Union,03:18.3,SILVER
+8802,1802,Men's 4 x 100m Freestyle Relay,German Democratic Republic (Germany),03:19.8,BRONZE
+8803,1803,Men's 4 x 100m Freestyle Relay,France,03:20.0,BRONZE
+8804,1804,Men's 4 x 100m Freestyle Relay,Sweden,03:21.1,BRONZE
+8805,1805,Men's 4 x 100m Freestyle Relay,Federal Republic of Germany,03:21.6,BRONZE
+8806,1806,Men's 4 x 100m Freestyle Relay,Great Britain,03:21.7,BRONZE
+8807,1807,Men's 4 x 100m Freestyle Relay,Italy,03:22.9,BRONZE
+8808,1808,Men's 4 x 100m Freestyle Relay,Canada,03:22.9,BRONZE
+8809,1809,Men's 4 x 100m Freestyle Relay,Denmark,03:22.9,BRONZE
+8810,1810,Men's 4 x 100m Freestyle Relay,Netherlands,03:22.9,BRONZE
+8811,1811,Men's 4 x 100m Freestyle Relay,Brazil,03:22.9,BRONZE
+8812,1812,Men's 4 x 100m Freestyle Relay,Mexico,03:22.9,BRONZE
+8813,1813,Men's 4 x 100m Freestyle Relay,Portugal,03:22.9,BRONZE
+8814,1814,Men's 4 x 100m Freestyle Relay,Singapore,03:22.9,BRONZE
+8815,1815,Men's 4 x 100m Freestyle Relay,"Hong Kong, China",03:22.9,BRONZE
+8816,1816,Men's 4 x 100m Freestyle Relay,Republic of Korea,03:22.9,BRONZE
+8817,1817,Men's 4 x 100m Freestyle Relay,US Virgin Islands,03:22.9,BRONZE
+8818,1818,Men's 4 x 100m Freestyle Relay,United Arab Emirates,03:22.9,BRONZE
+8819,1819,Men's 4 x 100m Freestyle Relay,People's Republic of China,03:22.9,BRONZE
+8820,1820,Men's 4 x 100m Freestyle Relay,Egypt,03:22.9,BRONZE
+8821,1821,Men's 4 x 100m Freestyle Relay,Austria,03:22.9,BRONZE
+8822,1822,Men's 4 x 100m Freestyle Relay,German Democratic Republic (Germany),03:40.6,GOLD
+8823,1823,Men's 4 x 100m Freestyle Relay,Netherlands,03:43.4,SILVER
+8824,1824,Men's 4 x 100m Freestyle Relay,United States of America,03:44.2,BRONZE
+8825,1825,Men's 4 x 100m Freestyle Relay,People's Republic of China,03:44.7,BRONZE
+8826,1826,Men's 4 x 100m Freestyle Relay,Soviet Union,03:45.0,BRONZE
+8827,1827,Men's 4 x 100m Freestyle Relay,Canada,03:46.8,BRONZE
+8828,1828,Men's 4 x 100m Freestyle Relay,Federal Republic of Germany,03:46.9,BRONZE
+8829,1829,Men's 4 x 100m Freestyle Relay,Denmark,03:49.2,BRONZE
+8830,1830,Men's 4 x 100m Freestyle Relay,Sweden,03:49.2,BRONZE
+8831,1831,Men's 4 x 100m Freestyle Relay,Great Britain,03:49.2,BRONZE
+8832,1832,Men's 4 x 100m Freestyle Relay,Brazil,03:49.2,BRONZE
+8833,1833,Men's 4 x 100m Freestyle Relay,Costa Rica,03:49.2,BRONZE
+8834,1834,Men's 4 x 100m Freestyle Relay,Republic of Korea,03:49.2,BRONZE
+8835,1835,Men's 4 x 100m Freestyle Relay,"Hong Kong, China",03:49.2,BRONZE
+8836,1836,Men's 4 x 100m Freestyle Relay,Chinese Taipei,03:49.2,BRONZE
+8837,1837,Men's 4 x 100m Freestyle Relay,United States of America,03:43.4,GOLD
+8838,1838,Men's 4 x 100m Freestyle Relay,Netherlands,03:44.4,SILVER
+8839,1839,Men's 4 x 100m Freestyle Relay,Federal Republic of Germany,03:45.6,BRONZE
+8840,1840,Men's 4 x 100m Freestyle Relay,Australia,03:47.8,BRONZE
+8841,1841,Men's 4 x 100m Freestyle Relay,Canada,03:49.5,BRONZE
+8842,1842,Men's 4 x 100m Freestyle Relay,Great Britain,03:50.1,BRONZE
+8843,1843,Men's 4 x 100m Freestyle Relay,Sweden,03:51.2,BRONZE
+8844,1844,Men's 4 x 100m Freestyle Relay,France,03:52.2,BRONZE
+8845,1845,Men's 4 x 100m Freestyle Relay,Italy,03:52.2,BRONZE
+8846,1846,Men's 4 x 100m Freestyle Relay,Japan,03:52.2,BRONZE
+8847,1847,Men's 4 x 100m Freestyle Relay,Mexico,03:52.2,BRONZE
+8848,1848,Men's 4 x 100m Freestyle Relay,"Hong Kong, China",03:52.2,BRONZE
+8849,1849,Men's 4 x 200m Freestyle Relay,United States of America,07:15.7,GOLD
+8850,1850,Men's 4 x 200m Freestyle Relay,Federal Republic of Germany,07:15.7,SILVER
+8851,1851,Men's 4 x 200m Freestyle Relay,Great Britain,07:24.8,BRONZE
+8852,1852,Men's 4 x 200m Freestyle Relay,Australia,07:25.6,BRONZE
+8853,1853,Men's 4 x 200m Freestyle Relay,Canada,07:26.5,BRONZE
+8854,1854,Men's 4 x 200m Freestyle Relay,Sweden,07:26.5,BRONZE
+8855,1855,Men's 4 x 200m Freestyle Relay,Netherlands,07:26.7,BRONZE
+8856,1856,Men's 4 x 200m Freestyle Relay,France,07:30.2,BRONZE
+8857,1857,Men's 4 x 200m Freestyle Relay,Brazil,07:30.2,BRONZE
+8858,1858,Men's 4 x 200m Freestyle Relay,Venezuela,07:30.2,BRONZE
+8859,1859,Men's 4 x 200m Freestyle Relay,Spain,07:30.2,BRONZE
+8860,1860,Men's 4 x 200m Freestyle Relay,Turkey,07:30.2,BRONZE
+8861,1861,Men's 4 x 200m Freestyle Relay,Japan,07:30.2,BRONZE
+8862,1862,Men's 4 x 200m Freestyle Relay,Italy,07:30.2,BRONZE
+8863,1863,Men's 4 x 100m Freestyle Relay,United States of America,03:19.0,GOLD
+8864,1864,Men's 4 x 100m Freestyle Relay,Australia,03:19.7,SILVER
+8865,1865,Men's 4 x 100m Freestyle Relay,Sweden,03:22.7,BRONZE
+8866,1866,Men's 4 x 100m Freestyle Relay,Federal Republic of Germany,03:23.0,BRONZE
+8867,1867,Men's 4 x 100m Freestyle Relay,Great Britain,03:23.6,BRONZE
+8868,1868,Men's 4 x 100m Freestyle Relay,France,03:24.6,BRONZE
+8869,1869,Men's 4 x 100m Freestyle Relay,Canada,03:24.7,BRONZE
+8870,1870,Men's 4 x 100m Freestyle Relay,Italy,03:25.0,BRONZE
+8871,1871,Men's 4 x 100m Freestyle Relay,Switzerland,03:25.0,BRONZE
+8872,1872,Men's 4 x 100m Freestyle Relay,Brazil,03:25.0,BRONZE
+8873,1873,Men's 4 x 100m Freestyle Relay,Netherlands,03:25.0,BRONZE
+8874,1874,Men's 4 x 100m Freestyle Relay,Venezuela,03:25.0,BRONZE
+8875,1875,Men's 4 x 100m Freestyle Relay,Japan,03:25.0,BRONZE
+8876,1876,Men's 4 x 100m Freestyle Relay,Puerto Rico,03:25.0,BRONZE
+8877,1877,Men's 4 x 100m Freestyle Relay,People's Republic of China,03:25.0,BRONZE
+8878,1878,Men's 4 x 100m Freestyle Relay,Mexico,03:25.0,BRONZE
+8879,1879,Men's 4 x 100m Freestyle Relay,Singapore,03:25.0,BRONZE
+8880,1880,Men's 4 x 100m Freestyle Relay,Jamaica,03:25.0,BRONZE
+8881,1881,Men's 4 x 100m Freestyle Relay,Turkey,03:25.0,BRONZE
+8882,1882,Men's 4 x 100m Freestyle Relay,US Virgin Islands,03:25.0,BRONZE
+8883,1883,Men's 4 x 100m Freestyle Relay,Guatemala,03:25.0,BRONZE
+8884,1884,Men's 4 x 100m Freestyle Relay,Honduras,03:25.0,BRONZE
+8885,1885,Men's 4 x 100m Freestyle Relay,Egypt,03:25.0,BRONZE
+8886,1886,Men's 4 x 100m Freestyle Relay,Kuwait,03:25.0,BRONZE
+8887,1887,Women's 4 x 400m Relay,United States of America,03:18.3,GOLD
+8888,1888,Women's 4 x 400m Relay,Canada,03:21.2,SILVER
+8889,1889,Women's 4 x 400m Relay,Federal Republic of Germany,03:23.0,BRONZE
+8890,1890,Women's 4 x 400m Relay,Great Britain,03:25.5,BRONZE
+8891,1891,Women's 4 x 400m Relay,Jamaica,03:27.5,BRONZE
+8892,1892,Women's 4 x 400m Relay,Italy,03:30.8,BRONZE
+8893,1893,Women's 4 x 400m Relay,India,03:32.5,BRONZE
+8894,1894,Women's 4 x 100m Relay,United States of America,00:41.7,GOLD
+8895,1895,Women's 4 x 100m Relay,Canada,00:42.8,SILVER
+8896,1896,Women's 4 x 100m Relay,Great Britain,00:43.1,BRONZE
+8897,1897,Women's 4 x 100m Relay,France,00:43.1,BRONZE
+8898,1898,Women's 4 x 100m Relay,Federal Republic of Germany,00:43.6,BRONZE
+8899,1899,Women's 4 x 100m Relay,Bahamas,00:44.2,BRONZE
+8900,1900,Women's 4 x 100m Relay,Trinidad and Tobago,00:44.2,BRONZE
+8901,1901,Women's 4 x 100m Relay,Jamaica,00:53.5,BRONZE
+8902,1902,Men's 4 x 400m Relay,United States of America,02:57.9,GOLD
+8903,1903,Men's 4 x 400m Relay,Great Britain,02:59.1,SILVER
+8904,1904,Men's 4 x 400m Relay,Nigeria,02:59.3,BRONZE
+8905,1905,Men's 4 x 400m Relay,Australia,02:59.7,BRONZE
+8906,1906,Men's 4 x 400m Relay,Italy,03:01.4,BRONZE
+8907,1907,Men's 4 x 400m Relay,Barbados,03:01.6,BRONZE
+8908,1908,Men's 4 x 400m Relay,Uganda,03:02.1,BRONZE
+8909,1909,Men's 4 x 400m Relay,Canada,03:02.8,BRONZE
+8910,1910,Men's 4 x 100m Relay,United States of America,00:37.8,GOLD
+8911,1911,Men's 4 x 100m Relay,Jamaica,00:38.6,SILVER
+8912,1912,Men's 4 x 100m Relay,Canada,00:38.7,BRONZE
+8913,1913,Men's 4 x 100m Relay,Italy,00:38.9,BRONZE
+8914,1914,Men's 4 x 100m Relay,Federal Republic of Germany,00:39.0,BRONZE
+8915,1915,Men's 4 x 100m Relay,France,00:39.1,BRONZE
+8916,1916,Men's 4 x 100m Relay,Great Britain,00:39.1,BRONZE
+8917,1917,Men's 4 x 100m Relay,Brazil,00:39.4,BRONZE
+8918,1918,Women's 4 x 400m Relay,Soviet Union,03:20.2,GOLD
+8919,1919,Women's 4 x 400m Relay,German Democratic Republic (Germany),03:20.4,SILVER
+8920,1920,Women's 4 x 400m Relay,Great Britain,03:27.5,BRONZE
+8921,1921,Women's 4 x 400m Relay,Romania,03:27.7,BRONZE
+8922,1922,Women's 4 x 400m Relay,Hungary,03:27.9,BRONZE
+8923,1923,Women's 4 x 400m Relay,Poland,03:27.9,BRONZE
+8924,1924,Women's 4 x 400m Relay,Belgium,03:31.6,BRONZE
+8925,1925,Women's 4 x 100m Relay,German Democratic Republic (Germany),00:41.6,GOLD
+8926,1926,Women's 4 x 100m Relay,Soviet Union,00:42.1,SILVER
+8927,1927,Women's 4 x 100m Relay,Great Britain,00:42.4,BRONZE
+8928,1928,Women's 4 x 100m Relay,Bulgaria,00:42.7,BRONZE
+8929,1929,Women's 4 x 100m Relay,France,00:42.8,BRONZE
+8930,1930,Women's 4 x 100m Relay,Jamaica,00:43.2,BRONZE
+8931,1931,Women's 4 x 100m Relay,Poland,00:43.6,BRONZE
+8932,1932,Women's 4 x 100m Relay,Sweden,00:43.6,BRONZE
+8933,1933,Men's 4 x 100m Relay,Soviet Union,00:38.3,GOLD
+8934,1934,Men's 4 x 100m Relay,Poland,00:38.3,SILVER
+8935,1935,Men's 4 x 100m Relay,France,00:38.5,BRONZE
+8936,1936,Men's 4 x 100m Relay,Great Britain,00:38.6,BRONZE
+8937,1937,Men's 4 x 100m Relay,German Democratic Republic (Germany),00:38.7,BRONZE
+8938,1938,Men's 4 x 100m Relay,Bulgaria,00:39.0,BRONZE
+8939,1939,Men's 4 x 100m Relay,Nigeria,00:39.1,BRONZE
+8940,1940,Men's 4 x 100m Relay,Brazil,00:39.5,BRONZE
+8941,1941,Men's 4 x 400m Relay,Soviet Union,03:01.1,GOLD
+8942,1942,Men's 4 x 400m Relay,German Democratic Republic (Germany),03:01.3,SILVER
+8943,1943,Men's 4 x 400m Relay,Italy,03:04.3,BRONZE
+8944,1944,Men's 4 x 400m Relay,France,03:04.8,BRONZE
+8945,1945,Men's 4 x 400m Relay,Brazil,03:05.9,BRONZE
+8946,1946,Men's 4 x 400m Relay,Trinidad and Tobago,03:06.6,BRONZE
+8947,1947,Men's 4 x 400m Relay,Czechoslovakia,03:07.0,BRONZE
+8948,1948,Men's 4 x 200m Freestyle Relay,Soviet Union,07:23.5,GOLD
+8949,1949,Men's 4 x 200m Freestyle Relay,German Democratic Republic (Germany),07:28.6,SILVER
+8950,1950,Men's 4 x 200m Freestyle Relay,Brazil,07:29.3,BRONZE
+8951,1951,Men's 4 x 200m Freestyle Relay,Sweden,07:30.1,BRONZE
+8952,1952,Men's 4 x 200m Freestyle Relay,Italy,07:30.4,BRONZE
+8953,1953,Men's 4 x 200m Freestyle Relay,Great Britain,07:30.8,BRONZE
+8954,1954,Men's 4 x 200m Freestyle Relay,Australia,07:30.8,BRONZE
+8955,1955,Men's 4 x 200m Freestyle Relay,France,07:36.1,BRONZE
+8956,1956,Men's 4 x 200m Freestyle Relay,Bulgaria,07:36.1,BRONZE
+8957,1957,Men's 4 x 200m Freestyle Relay,Hungary,07:36.1,BRONZE
+8958,1958,Men's 4 x 100m Freestyle Relay,German Democratic Republic (Germany),03:42.7,GOLD
+8959,1959,Men's 4 x 100m Freestyle Relay,Sweden,03:48.9,SILVER
+8960,1960,Men's 4 x 100m Freestyle Relay,Netherlands,03:49.5,BRONZE
+8961,1961,Men's 4 x 100m Freestyle Relay,Great Britain,03:51.7,BRONZE
+8962,1962,Men's 4 x 100m Freestyle Relay,Australia,03:54.2,BRONZE
+8963,1963,Men's 4 x 100m Freestyle Relay,Mexico,03:55.4,BRONZE
+8964,1964,Men's 4 x 100m Freestyle Relay,Bulgaria,03:56.3,BRONZE
+8965,1965,Men's 4 x 100m Freestyle Relay,Spain,03:58.7,BRONZE
+8966,1966,Men's 4 x 100m Freestyle Relay,Soviet Union,03:58.7,BRONZE
+8967,1967,Men's 4 x 100m Freestyle Relay,United States of America,03:44.8,GOLD
+8968,1968,Men's 4 x 100m Freestyle Relay,German Democratic Republic (Germany),03:45.5,SILVER
+8969,1969,Men's 4 x 100m Freestyle Relay,Canada,03:48.8,BRONZE
+8970,1970,Men's 4 x 100m Freestyle Relay,Netherlands,03:51.7,BRONZE
+8971,1971,Men's 4 x 100m Freestyle Relay,Soviet Union,03:52.7,BRONZE
+8972,1972,Men's 4 x 100m Freestyle Relay,France,03:56.7,BRONZE
+8973,1973,Men's 4 x 100m Freestyle Relay,Sweden,03:57.3,BRONZE
+8974,1974,Men's 4 x 100m Freestyle Relay,Federal Republic of Germany,03:58.3,BRONZE
+8975,1975,Men's 4 x 100m Freestyle Relay,Italy,03:58.3,BRONZE
+8976,1976,Men's 4 x 200m Freestyle Relay,United States of America,07:23.2,GOLD
+8977,1977,Men's 4 x 200m Freestyle Relay,Soviet Union,07:28.0,SILVER
+8978,1978,Men's 4 x 200m Freestyle Relay,Great Britain,07:32.1,BRONZE
+8979,1979,Men's 4 x 200m Freestyle Relay,Federal Republic of Germany,07:32.3,BRONZE
+8980,1980,Men's 4 x 200m Freestyle Relay,German Democratic Republic (Germany),07:38.9,BRONZE
+8981,1981,Men's 4 x 200m Freestyle Relay,Netherlands,07:42.6,BRONZE
+8982,1982,Men's 4 x 200m Freestyle Relay,Sweden,07:42.8,BRONZE
+8983,1983,Men's 4 x 200m Freestyle Relay,Italy,07:43.4,BRONZE
+8984,1984,Men's 4 x 200m Freestyle Relay,Canada,07:43.4,BRONZE
+8985,1985,Men's 4 x 200m Freestyle Relay,Hungary,07:43.4,BRONZE
+8986,1986,Men's 4 x 400m Relay,United States of America,02:58.6,GOLD
+8987,1987,Men's 4 x 400m Relay,Poland,03:01.4,SILVER
+8988,1988,Men's 4 x 400m Relay,Federal Republic of Germany,03:02.0,BRONZE
+8989,1989,Men's 4 x 400m Relay,Canada,03:02.6,BRONZE
+8990,1990,Men's 4 x 400m Relay,Jamaica,03:02.8,BRONZE
+8991,1991,Men's 4 x 400m Relay,Trinidad and Tobago,03:03.5,BRONZE
+8992,1992,Men's 4 x 400m Relay,Cuba,03:03.8,BRONZE
+8993,1993,Men's 4 x 400m Relay,Finland,03:06.5,BRONZE
+8994,1994,Women's 4 x 400m Relay,German Democratic Republic (Germany),03:19.2,GOLD
+8995,1995,Women's 4 x 400m Relay,United States of America,03:22.8,SILVER
+8996,1996,Women's 4 x 400m Relay,Soviet Union,03:24.2,BRONZE
+8997,1997,Women's 4 x 400m Relay,Australia,03:25.6,BRONZE
+8998,1998,Women's 4 x 400m Relay,Federal Republic of Germany,03:25.7,BRONZE
+8999,1999,Women's 4 x 400m Relay,Finland,03:25.9,BRONZE
+9000,2000,Women's 4 x 400m Relay,Great Britain,03:28.0,BRONZE
+9001,2001,Women's 4 x 400m Relay,Canada,03:28.9,BRONZE
+9002,2002,Men's 4 x 100m Relay,United States of America,00:38.3,GOLD
+9003,2003,Men's 4 x 100m Relay,German Democratic Republic (Germany),00:38.7,SILVER
+9004,2004,Men's 4 x 100m Relay,Soviet Union,00:38.8,BRONZE
+9005,2005,Men's 4 x 100m Relay,Poland,00:38.8,BRONZE
+9006,2006,Men's 4 x 100m Relay,Cuba,00:39.0,BRONZE
+9007,2007,Men's 4 x 100m Relay,Italy,00:39.1,BRONZE
+9008,2008,Men's 4 x 100m Relay,France,00:39.2,BRONZE
+9009,2009,Men's 4 x 100m Relay,Canada,00:39.5,BRONZE
+9010,2010,Women's 4 x 100m Relay,German Democratic Republic (Germany),00:42.5,GOLD
+9011,2011,Women's 4 x 100m Relay,Federal Republic of Germany,00:42.6,SILVER
+9012,2012,Women's 4 x 100m Relay,Soviet Union,00:43.1,BRONZE
+9013,2013,Women's 4 x 100m Relay,Canada,00:43.2,BRONZE
+9014,2014,Women's 4 x 100m Relay,Australia,00:43.2,BRONZE
+9015,2015,Women's 4 x 100m Relay,Jamaica,00:43.2,BRONZE
+9016,2016,Women's 4 x 100m Relay,United States of America,00:43.4,BRONZE
+9017,2017,Women's 4 x 100m Relay,Great Britain,00:43.8,BRONZE
+9018,2018,Men's 4 x 200m Freestyle Relay,United States of America,07:35.8,GOLD
+9019,2019,Men's 4 x 200m Freestyle Relay,Federal Republic of Germany,07:41.7,SILVER
+9020,2020,Men's 4 x 200m Freestyle Relay,Soviet Union,07:45.8,BRONZE
+9021,2021,Men's 4 x 200m Freestyle Relay,Sweden,07:47.4,BRONZE
+9022,2022,Men's 4 x 200m Freestyle Relay,Australia,07:48.7,BRONZE
+9023,2023,Men's 4 x 200m Freestyle Relay,German Democratic Republic (Germany),07:49.1,BRONZE
+9024,2024,Men's 4 x 200m Freestyle Relay,Canada,07:53.6,BRONZE
+9025,2025,Men's 4 x 200m Freestyle Relay,Great Britain,07:55.6,BRONZE
+9026,2026,Men's 4 x 200m Freestyle Relay,El Salvador,07:55.6,BRONZE
+9027,2027,Men's 4 x 200m Freestyle Relay,Ecuador,07:55.6,BRONZE
+9028,2028,Men's 4 x 200m Freestyle Relay,Rhodesia,07:55.6,BRONZE
+9029,2029,Men's 4 x 100m Freestyle Relay,United States of America,03:26.4,GOLD
+9030,2030,Men's 4 x 100m Freestyle Relay,Soviet Union,03:29.7,SILVER
+9031,2031,Men's 4 x 100m Freestyle Relay,German Democratic Republic (Germany),03:32.4,BRONZE
+9032,2032,Men's 4 x 100m Freestyle Relay,Brazil,03:33.1,BRONZE
+9033,2033,Men's 4 x 100m Freestyle Relay,Canada,03:33.2,BRONZE
+9034,2034,Men's 4 x 100m Freestyle Relay,Federal Republic of Germany,03:33.9,BRONZE
+9035,2035,Men's 4 x 100m Freestyle Relay,France,03:34.1,BRONZE
+9036,2036,Men's 4 x 100m Freestyle Relay,Spain,03:38.2,BRONZE
+9037,2037,Men's 4 x 100m Freestyle Relay,United States of America,03:55.2,GOLD
+9038,2038,Men's 4 x 100m Freestyle Relay,German Democratic Republic (Germany),03:55.6,SILVER
+9039,2039,Men's 4 x 100m Freestyle Relay,Federal Republic of Germany,03:57.9,BRONZE
+9040,2040,Men's 4 x 100m Freestyle Relay,Hungary,04:00.4,BRONZE
+9041,2041,Men's 4 x 100m Freestyle Relay,Netherlands,04:01.5,BRONZE
+9042,2042,Men's 4 x 100m Freestyle Relay,Sweden,04:02.7,BRONZE
+9043,2043,Men's 4 x 100m Freestyle Relay,Canada,04:03.8,BRONZE
+9044,2044,Men's 4 x 100m Freestyle Relay,Australia,04:04.8,BRONZE
+9045,2045,Men's 4 x 400m Relay,Kenya,02:59.8,GOLD
+9046,2046,Men's 4 x 400m Relay,Great Britain,03:00.5,SILVER
+9047,2047,Men's 4 x 400m Relay,France,03:00.7,BRONZE
+9048,2048,Men's 4 x 400m Relay,Federal Republic of Germany,03:00.9,BRONZE
+9049,2049,Men's 4 x 400m Relay,Poland,03:01.1,BRONZE
+9050,2050,Men's 4 x 400m Relay,Finland,03:01.1,BRONZE
+9051,2051,Men's 4 x 400m Relay,Sweden,03:02.6,BRONZE
+9052,2052,Men's 4 x 400m Relay,Trinidad and Tobago,03:03.6,BRONZE
+9053,2053,Men's 4 x 100m Relay,United States of America,00:38.2,GOLD
+9054,2054,Men's 4 x 100m Relay,Soviet Union,00:38.5,SILVER
+9055,2055,Men's 4 x 100m Relay,Federal Republic of Germany,00:38.8,BRONZE
+9056,2056,Men's 4 x 100m Relay,Czechoslovakia,00:38.8,BRONZE
+9057,2057,Men's 4 x 100m Relay,German Democratic Republic (Germany),00:38.9,BRONZE
+9058,2058,Men's 4 x 100m Relay,Poland,00:39.0,BRONZE
+9059,2059,Men's 4 x 100m Relay,France,00:39.1,BRONZE
+9060,2060,Men's 4 x 100m Relay,Italy,00:39.1,BRONZE
+9061,2061,Women's 4 x 100m Relay,Federal Republic of Germany,00:42.8,GOLD
+9062,2062,Women's 4 x 100m Relay,German Democratic Republic (Germany),00:43.0,SILVER
+9063,2063,Women's 4 x 100m Relay,Cuba,00:43.4,BRONZE
+9064,2064,Women's 4 x 100m Relay,United States of America,00:43.4,BRONZE
+9065,2065,Women's 4 x 100m Relay,Soviet Union,00:43.6,BRONZE
+9066,2066,Women's 4 x 100m Relay,Australia,00:43.6,BRONZE
+9067,2067,Women's 4 x 100m Relay,Great Britain,00:43.7,BRONZE
+9068,2068,Women's 4 x 100m Relay,Poland,00:44.2,BRONZE
+9069,2069,Women's 4 x 400m Relay,German Democratic Republic (Germany),03:22.9,GOLD
+9070,2070,Women's 4 x 400m Relay,United States of America,03:25.1,SILVER
+9071,2071,Women's 4 x 400m Relay,Federal Republic of Germany,03:26.5,BRONZE
+9072,2072,Women's 4 x 400m Relay,France,03:27.5,BRONZE
+9073,2073,Women's 4 x 400m Relay,Great Britain,03:28.7,BRONZE
+9074,2074,Women's 4 x 400m Relay,Australia,03:28.8,BRONZE
+9075,2075,Women's 4 x 400m Relay,Finland,03:29.4,BRONZE
+9076,2076,Women's 4 x 400m Relay,Soviet Union,03:31.9,BRONZE
+9077,2077,Men's 4 x 100m Freestyle Relay,United States of America,03:31.7,GOLD
+9078,2078,Men's 4 x 100m Freestyle Relay,Soviet Union,03:34.2,SILVER
+9079,2079,Men's 4 x 100m Freestyle Relay,Australia,03:34.7,BRONZE
+9080,2080,Men's 4 x 100m Freestyle Relay,Great Britain,03:38.4,BRONZE
+9081,2081,Men's 4 x 100m Freestyle Relay,German Democratic Republic (Germany),03:38.8,BRONZE
+9082,2082,Men's 4 x 100m Freestyle Relay,Federal Republic of Germany,03:39.0,BRONZE
+9083,2083,Men's 4 x 100m Freestyle Relay,Canada,03:39.2,BRONZE
+9084,2084,Men's 4 x 100m Freestyle Relay,Japan,03:41.5,BRONZE
+9085,2085,Men's 4 x 200m Freestyle Relay,United States of America,07:52.3,GOLD
+9086,2086,Men's 4 x 200m Freestyle Relay,Australia,07:53.7,SILVER
+9087,2087,Men's 4 x 200m Freestyle Relay,Soviet Union,08:01.6,BRONZE
+9088,2088,Men's 4 x 200m Freestyle Relay,Canada,08:03.2,BRONZE
+9089,2089,Men's 4 x 200m Freestyle Relay,France,08:03.7,BRONZE
+9090,2090,Men's 4 x 200m Freestyle Relay,Federal Republic of Germany,08:04.3,BRONZE
+9091,2091,Men's 4 x 200m Freestyle Relay,German Democratic Republic (Germany),08:06.0,BRONZE
+9092,2092,Men's 4 x 200m Freestyle Relay,Sweden,08:12.1,BRONZE
+9093,2093,Men's 4 x 200m Freestyle Relay,Mexico,08:12.1,BRONZE
+9094,2094,Men's 4 x 100m Freestyle Relay,United States of America,04:02.5,GOLD
+9095,2095,Men's 4 x 100m Freestyle Relay,German Democratic Republic (Germany),04:05.7,SILVER
+9096,2096,Men's 4 x 100m Freestyle Relay,Canada,04:07.2,BRONZE
+9097,2097,Men's 4 x 100m Freestyle Relay,Australia,04:08.7,BRONZE
+9098,2098,Men's 4 x 100m Freestyle Relay,Hungary,04:11.0,BRONZE
+9099,2099,Men's 4 x 100m Freestyle Relay,Japan,04:13.6,BRONZE
+9100,2100,Men's 4 x 100m Freestyle Relay,Great Britain,04:18.0,BRONZE
+9101,2101,Men's 4 x 100m Freestyle Relay,France,04:18.0,BRONZE
+9102,2102,Men's 4 x 400m Relay,United States of America,02:56.1,GOLD
+9103,2103,Men's 4 x 400m Relay,Kenya,02:59.6,SILVER
+9104,2104,Men's 4 x 400m Relay,Federal Republic of Germany,03:00.5,BRONZE
+9105,2105,Men's 4 x 400m Relay,Poland,03:00.5,BRONZE
+9106,2106,Men's 4 x 400m Relay,Great Britain,03:01.2,BRONZE
+9107,2107,Men's 4 x 400m Relay,Trinidad and Tobago,03:04.5,BRONZE
+9108,2108,Men's 4 x 400m Relay,Italy,03:04.6,BRONZE
+9109,2109,Men's 4 x 400m Relay,France,03:07.5,BRONZE
+9110,2110,Women's 4 x 100m Relay,United States of America,00:42.8,GOLD
+9111,2111,Women's 4 x 100m Relay,Cuba,00:43.3,SILVER
+9112,2112,Women's 4 x 100m Relay,Soviet Union,00:43.4,BRONZE
+9113,2113,Women's 4 x 100m Relay,Netherlands,00:43.4,BRONZE
+9114,2114,Women's 4 x 100m Relay,Australia,00:43.4,BRONZE
+9115,2115,Women's 4 x 100m Relay,Federal Republic of Germany,00:43.6,BRONZE
+9116,2116,Women's 4 x 100m Relay,Great Britain,00:43.7,BRONZE
+9117,2117,Women's 4 x 100m Relay,France,00:44.2,BRONZE
+9118,2118,Men's 4 x 100m Relay,United States of America,00:38.2,GOLD
+9119,2119,Men's 4 x 100m Relay,Cuba,00:38.3,SILVER
+9120,2120,Men's 4 x 100m Relay,France,00:38.4,BRONZE
+9121,2121,Men's 4 x 100m Relay,Jamaica,00:38.4,BRONZE
+9122,2122,Men's 4 x 100m Relay,German Democratic Republic (Germany),00:38.6,BRONZE
+9123,2123,Men's 4 x 100m Relay,Federal Republic of Germany,00:38.7,BRONZE
+9124,2124,Men's 4 x 100m Relay,Italy,00:39.2,BRONZE
+9125,2125,Men's 4 x 100m Relay,Poland,00:39.2,BRONZE
+9126,2126,Men's 4 x 200m Freestyle Relay,United States of America,07:52.1,GOLD
+9127,2127,Men's 4 x 200m Freestyle Relay,Germany,07:59.3,SILVER
+9128,2128,Men's 4 x 200m Freestyle Relay,Japan,08:03.8,BRONZE
+9129,2129,Men's 4 x 200m Freestyle Relay,Australia,08:05.7,BRONZE
+9130,2130,Men's 4 x 200m Freestyle Relay,Sweden,08:08.0,BRONZE
+9131,2131,Men's 4 x 200m Freestyle Relay,France,08:08.7,BRONZE
+9132,2132,Men's 4 x 200m Freestyle Relay,Soviet Union,08:15.1,BRONZE
+9133,2133,Men's 4 x 200m Freestyle Relay,Italy,08:18.1,BRONZE
+9134,2134,Men's 4 x 100m Freestyle Relay,United States of America,03:33.2,GOLD
+9135,2135,Men's 4 x 100m Freestyle Relay,Germany,03:37.2,SILVER
+9136,2136,Men's 4 x 100m Freestyle Relay,Australia,03:39.1,BRONZE
+9137,2137,Men's 4 x 100m Freestyle Relay,Japan,03:40.5,BRONZE
+9138,2138,Men's 4 x 100m Freestyle Relay,Sweden,03:40.7,BRONZE
+9139,2139,Men's 4 x 100m Freestyle Relay,Soviet Union,03:42.1,BRONZE
+9140,2140,Men's 4 x 100m Freestyle Relay,Great Britain,03:42.6,BRONZE
+9141,2141,Men's 4 x 100m Freestyle Relay,France,03:42.6,BRONZE
+9142,2142,Men's 4 x 100m Freestyle Relay,United States of America,04:03.8,GOLD
+9143,2143,Men's 4 x 100m Freestyle Relay,Australia,04:06.9,SILVER
+9144,2144,Men's 4 x 100m Freestyle Relay,Netherlands,04:12.0,BRONZE
+9145,2145,Men's 4 x 100m Freestyle Relay,Hungary,04:12.1,BRONZE
+9146,2146,Men's 4 x 100m Freestyle Relay,Sweden,04:14.0,BRONZE
+9147,2147,Men's 4 x 100m Freestyle Relay,Germany,04:15.0,BRONZE
+9148,2148,Men's 4 x 100m Freestyle Relay,Canada,04:15.9,BRONZE
+9149,2149,Men's 4 x 100m Freestyle Relay,Italy,04:17.2,BRONZE
+9150,2150,Women's 4 x 100m Relay,Poland,00:43.6,GOLD
+9151,2151,Women's 4 x 100m Relay,United States of America,00:43.9,SILVER
+9152,2152,Women's 4 x 100m Relay,Great Britain,00:44.0,BRONZE
+9153,2153,Women's 4 x 100m Relay,Soviet Union,00:44.4,BRONZE
+9154,2154,Women's 4 x 100m Relay,Germany,00:44.7,BRONZE
+9155,2155,Women's 4 x 100m Relay,Australia,00:45.0,BRONZE
+9156,2156,Women's 4 x 100m Relay,Hungary,00:45.2,BRONZE
+9157,2157,Women's 4 x 100m Relay,France,00:46.1,BRONZE
+9158,2158,Men's 4 x 100m Relay,United States of America,00:39.0,GOLD
+9159,2159,Men's 4 x 100m Relay,Poland,00:39.3,SILVER
+9160,2160,Men's 4 x 100m Relay,France,00:39.3,BRONZE
+9161,2161,Men's 4 x 100m Relay,Jamaica,00:39.4,BRONZE
+9162,2162,Men's 4 x 100m Relay,Soviet Union,00:39.4,BRONZE
+9163,2163,Men's 4 x 100m Relay,Venezuela,00:39.5,BRONZE
+9164,2164,Men's 4 x 100m Relay,Italy,00:39.5,BRONZE
+9165,2165,Men's 4 x 100m Relay,Great Britain,00:39.6,BRONZE
+9166,2166,Men's 4 x 400m Relay,United States of America,03:00.7,GOLD
+9167,2167,Men's 4 x 400m Relay,Great Britain,03:01.6,SILVER
+9168,2168,Men's 4 x 400m Relay,Trinidad and Tobago,03:01.7,BRONZE
+9169,2169,Men's 4 x 400m Relay,Jamaica,03:02.3,BRONZE
+9170,2170,Men's 4 x 400m Relay,Germany,03:04.3,BRONZE
+9171,2171,Men's 4 x 400m Relay,Poland,03:05.3,BRONZE
+9172,2172,Men's 4 x 400m Relay,Soviet Union,03:05.9,BRONZE
+9173,2173,Men's 4 x 400m Relay,France,03:07.4,BRONZE
+9174,2174,Men's 4 x 100m Relay,Germany,00:39.5,GOLD
+9175,2175,Men's 4 x 100m Relay,Soviet Union,00:40.1,SILVER
+9176,2176,Men's 4 x 100m Relay,Great Britain,00:40.2,BRONZE
+9177,2177,Men's 4 x 100m Relay,Italy,00:40.2,BRONZE
+9178,2178,Men's 4 x 100m Relay,Venezuela,00:40.7,BRONZE
+9179,2179,Men's 4 x 400m Relay,United States of America,03:02.2,GOLD
+9180,2180,Men's 4 x 400m Relay,Germany,03:02.7,SILVER
+9181,2181,Men's 4 x 400m Relay,West Indies Federation,03:04.0,BRONZE
+9182,2182,Men's 4 x 400m Relay,South Africa,03:05.0,BRONZE
+9183,2183,Men's 4 x 400m Relay,Great Britain,03:08.3,BRONZE
+9184,2184,Men's 4 x 400m Relay,Switzerland,03:09.4,BRONZE
+9185,2185,Women's 4 x 100m Relay,United States of America,00:44.5,GOLD
+9186,2186,Women's 4 x 100m Relay,Germany,00:44.8,SILVER
+9187,2187,Women's 4 x 100m Relay,Poland,00:45.0,BRONZE
+9188,2188,Women's 4 x 100m Relay,Soviet Union,00:45.2,BRONZE
+9189,2189,Women's 4 x 100m Relay,Italy,00:45.6,BRONZE
+9190,2190,Men's 4 x 200m Freestyle Relay,United States of America,08:10.2,GOLD
+9191,2191,Men's 4 x 200m Freestyle Relay,Japan,08:13.2,SILVER
+9192,2192,Men's 4 x 200m Freestyle Relay,Australia,08:13.8,BRONZE
+9193,2193,Men's 4 x 200m Freestyle Relay,Great Britain,08:28.1,BRONZE
+9194,2194,Men's 4 x 200m Freestyle Relay,Finland,08:29.7,BRONZE
+9195,2195,Men's 4 x 200m Freestyle Relay,Sweden,08:31.0,BRONZE
+9196,2196,Men's 4 x 200m Freestyle Relay,Germany,08:31.8,BRONZE
+9197,2197,Men's 4 x 200m Freestyle Relay,Soviet Union,08:32.2,BRONZE
+9198,2198,Men's 4 x 100m Freestyle Relay,United States of America,04:08.9,GOLD
+9199,2199,Men's 4 x 100m Freestyle Relay,Australia,04:11.3,SILVER
+9200,2200,Men's 4 x 100m Freestyle Relay,Germany,04:19.7,BRONZE
+9201,2201,Men's 4 x 100m Freestyle Relay,Hungary,04:21.2,BRONZE
+9202,2202,Men's 4 x 100m Freestyle Relay,Great Britain,04:24.6,BRONZE
+9203,2203,Men's 4 x 100m Freestyle Relay,Sweden,04:25.1,BRONZE
+9204,2204,Men's 4 x 100m Freestyle Relay,Italy,04:26.8,BRONZE
+9205,2205,Men's 4 x 100m Freestyle Relay,Soviet Union,04:29.0,BRONZE
+9206,2206,Men's 4 x 100m Freestyle Relay,Netherlands,04:29.0,BRONZE
+9207,2207,Men's 4 x 100m Relay,United States of America,00:39.5,GOLD
+9208,2208,Men's 4 x 100m Relay,Soviet Union,00:39.8,SILVER
+9209,2209,Men's 4 x 100m Relay,Germany,00:40.3,BRONZE
+9210,2210,Men's 4 x 100m Relay,Italy,00:40.3,BRONZE
+9211,2211,Men's 4 x 100m Relay,Great Britain,00:40.6,BRONZE
+9212,2212,Men's 4 x 100m Relay,Poland,00:40.6,BRONZE
+9213,2213,Men's 4 x 400m Relay,United States of America,03:04.8,GOLD
+9214,2214,Men's 4 x 400m Relay,Australia,03:06.2,SILVER
+9215,2215,Men's 4 x 400m Relay,Great Britain,03:07.2,BRONZE
+9216,2216,Men's 4 x 400m Relay,Germany,03:08.2,BRONZE
+9217,2217,Men's 4 x 400m Relay,Canada,03:10.2,BRONZE
+9218,2218,Women's 4 x 100m Relay,Australia,00:44.5,GOLD
+9219,2219,Women's 4 x 100m Relay,Great Britain,00:44.7,SILVER
+9220,2220,Women's 4 x 100m Relay,United States of America,00:44.9,BRONZE
+9221,2221,Women's 4 x 100m Relay,Soviet Union,00:45.6,BRONZE
+9222,2222,Women's 4 x 100m Relay,Italy,00:45.7,BRONZE
+9223,2223,Women's 4 x 100m Relay,Germany,00:47.2,BRONZE
+9224,2224,Men's 4 x 100m Freestyle Relay,Australia,04:17.1,GOLD
+9225,2225,Men's 4 x 100m Freestyle Relay,United States of America,04:19.2,SILVER
+9226,2226,Men's 4 x 100m Freestyle Relay,South Africa,04:25.7,BRONZE
+9227,2227,Men's 4 x 100m Freestyle Relay,Germany,04:26.1,BRONZE
+9228,2228,Men's 4 x 100m Freestyle Relay,Canada,04:28.3,BRONZE
+9229,2229,Men's 4 x 100m Freestyle Relay,Sweden,04:30.0,BRONZE
+9230,2230,Men's 4 x 100m Freestyle Relay,Hungary,04:31.1,BRONZE
+9231,2231,Men's 4 x 100m Freestyle Relay,Great Britain,04:35.8,BRONZE
+9232,2232,Men's 4 x 200m Freestyle Relay,Australia,08:23.6,GOLD
+9233,2233,Men's 4 x 200m Freestyle Relay,United States of America,08:31.5,SILVER
+9234,2234,Men's 4 x 200m Freestyle Relay,Soviet Union,08:34.7,BRONZE
+9235,2235,Men's 4 x 200m Freestyle Relay,Japan,08:36.6,BRONZE
+9236,2236,Men's 4 x 200m Freestyle Relay,Germany,08:43.4,BRONZE
+9237,2237,Men's 4 x 200m Freestyle Relay,Great Britain,08:45.2,BRONZE
+9238,2238,Men's 4 x 200m Freestyle Relay,Italy,08:46.2,BRONZE
+9239,2239,Men's 4 x 200m Freestyle Relay,South Africa,08:49.5,BRONZE
+9240,2240,Men's 4 x 100m Relay,United States of America,00:40.1,GOLD
+9241,2241,Men's 4 x 100m Relay,Soviet Union,00:40.3,SILVER
+9242,2242,Men's 4 x 100m Relay,Hungary,00:40.5,BRONZE
+9243,2243,Men's 4 x 100m Relay,Great Britain,00:40.6,BRONZE
+9244,2244,Men's 4 x 100m Relay,France,00:40.9,BRONZE
+9245,2245,Men's 4 x 100m Relay,Czechoslovakia,00:41.2,BRONZE
+9246,2246,Men's 4 x 400m Relay,Jamaica,03:03.9,GOLD
+9247,2247,Men's 4 x 400m Relay,United States of America,03:04.0,SILVER
+9248,2248,Men's 4 x 400m Relay,Germany,03:06.6,BRONZE
+9249,2249,Men's 4 x 400m Relay,Canada,03:09.3,BRONZE
+9250,2250,Men's 4 x 400m Relay,Great Britain,03:10.0,BRONZE
+9251,2251,Men's 4 x 400m Relay,France,03:10.1,BRONZE
+9252,2252,Women's 4 x 100m Relay,United States of America,00:45.9,GOLD
+9253,2253,Women's 4 x 100m Relay,Germany,00:45.9,SILVER
+9254,2254,Women's 4 x 100m Relay,Great Britain,00:46.2,BRONZE
+9255,2255,Women's 4 x 100m Relay,Soviet Union,00:46.3,BRONZE
+9256,2256,Women's 4 x 100m Relay,Australia,00:46.6,BRONZE
+9257,2257,Women's 4 x 100m Relay,Netherlands,00:47.8,BRONZE
+9258,2258,Men's 4 x 200m Freestyle Relay,United States of America,08:31.1,GOLD
+9259,2259,Men's 4 x 200m Freestyle Relay,Japan,08:33.5,SILVER
+9260,2260,Men's 4 x 200m Freestyle Relay,France,08:45.9,BRONZE
+9261,2261,Men's 4 x 200m Freestyle Relay,Sweden,08:46.8,BRONZE
+9262,2262,Men's 4 x 200m Freestyle Relay,Hungary,08:52.6,BRONZE
+9263,2263,Men's 4 x 200m Freestyle Relay,Great Britain,08:52.9,BRONZE
+9264,2264,Men's 4 x 200m Freestyle Relay,South Africa,08:55.1,BRONZE
+9265,2265,Men's 4 x 200m Freestyle Relay,Argentina,08:56.9,BRONZE
+9266,2266,Men's 4 x 200m Freestyle Relay,Egypt,08:56.9,BRONZE
+9267,2267,Men's 4 x 200m Freestyle Relay,Spain,08:56.9,BRONZE
+9268,2268,Men's 4 x 100m Freestyle Relay,Hungary,04:24.4,GOLD
+9269,2269,Men's 4 x 100m Freestyle Relay,Netherlands,04:29.0,SILVER
+9270,2270,Men's 4 x 100m Freestyle Relay,United States of America,04:30.1,BRONZE
+9271,2271,Men's 4 x 100m Freestyle Relay,Denmark,04:36.2,BRONZE
+9272,2272,Men's 4 x 100m Freestyle Relay,Great Britain,04:37.8,BRONZE
+9273,2273,Men's 4 x 100m Freestyle Relay,Sweden,04:39.0,BRONZE
+9274,2274,Men's 4 x 100m Freestyle Relay,Germany,04:40.3,BRONZE
+9275,2275,Men's 4 x 100m Freestyle Relay,France,04:44.1,BRONZE
+9276,2276,Men's 4 x 100m Freestyle Relay,United States of America,04:29.2,GOLD
+9277,2277,Men's 4 x 100m Freestyle Relay,Denmark,04:29.6,SILVER
+9278,2278,Men's 4 x 100m Freestyle Relay,Netherlands,04:31.6,BRONZE
+9279,2279,Men's 4 x 100m Freestyle Relay,Great Britain,04:34.7,BRONZE
+9280,2280,Men's 4 x 100m Freestyle Relay,Hungary,04:44.8,BRONZE
+9281,2281,Men's 4 x 100m Freestyle Relay,Brazil,04:49.1,BRONZE
+9282,2282,Men's 4 x 100m Freestyle Relay,France,04:49.8,BRONZE
+9283,2283,Men's 4 x 100m Freestyle Relay,Sweden,04:49.8,BRONZE
+9284,2284,Men's 4 x 200m Freestyle Relay,United States of America,08:46.0,GOLD
+9285,2285,Men's 4 x 200m Freestyle Relay,Hungary,08:48.4,SILVER
+9286,2286,Men's 4 x 200m Freestyle Relay,France,09:08.0,BRONZE
+9287,2287,Men's 4 x 200m Freestyle Relay,Sweden,09:09.1,BRONZE
+9288,2288,Men's 4 x 200m Freestyle Relay,Yugoslavia,09:14.0,BRONZE
+9289,2289,Men's 4 x 200m Freestyle Relay,Argentina,09:19.2,BRONZE
+9290,2290,Men's 4 x 200m Freestyle Relay,Mexico,09:20.2,BRONZE
+9291,2291,Men's 4 x 200m Freestyle Relay,Brazil,09:31.0,BRONZE
+9292,2292,Men's 4 x 200m Freestyle Relay,Bermuda,09:31.0,BRONZE
+9293,2293,Men's 4 x 200m Freestyle Relay,Australia,09:31.0,BRONZE
+9294,2294,Women's 4 x 100m Relay,Netherlands,00:47.5,GOLD
+9295,2295,Women's 4 x 100m Relay,Australia,00:47.6,SILVER
+9296,2296,Women's 4 x 100m Relay,Canada,00:47.8,BRONZE
+9297,2297,Women's 4 x 100m Relay,Great Britain,00:48.0,BRONZE
+9298,2298,Women's 4 x 100m Relay,Denmark,00:48.2,BRONZE
+9299,2299,Women's 4 x 100m Relay,Austria,00:49.2,BRONZE
+9300,2300,Men's 4 x 400m Relay,United States of America,03:10.4,GOLD
+9301,2301,Men's 4 x 400m Relay,France,03:14.8,SILVER
+9302,2302,Men's 4 x 400m Relay,Sweden,03:16.0,BRONZE
+9303,2303,Men's 4 x 400m Relay,Finland,03:24.8,BRONZE
+9304,2304,Men's 4 x 100m Relay,United States of America,00:40.6,GOLD
+9305,2305,Men's 4 x 100m Relay,Great Britain,00:41.3,SILVER
+9306,2306,Men's 4 x 100m Relay,Italy,00:41.5,BRONZE
+9307,2307,Men's 4 x 100m Relay,Hungary,00:41.6,BRONZE
+9308,2308,Men's 4 x 100m Relay,Canada,00:41.9,BRONZE
+9309,2309,Men's 4 x 100m Relay,Netherlands,00:41.9,BRONZE
+9310,2310,Women's 4 x 100m Relay,United States of America,00:46.9,GOLD
+9311,2311,Women's 4 x 100m Relay,Great Britain,00:47.6,SILVER
+9312,2312,Women's 4 x 100m Relay,Canada,00:47.8,BRONZE
+9313,2313,Women's 4 x 100m Relay,Italy,00:48.7,BRONZE
+9314,2314,Women's 4 x 100m Relay,Netherlands,00:48.8,BRONZE
+9315,2315,Men's 4 x 100m Relay,United States of America,00:39.8,GOLD
+9316,2316,Men's 4 x 100m Relay,Italy,00:41.1,SILVER
+9317,2317,Men's 4 x 100m Relay,Germany,00:41.2,BRONZE
+9318,2318,Men's 4 x 100m Relay,Argentina,00:42.2,BRONZE
+9319,2319,Men's 4 x 100m Relay,Canada,00:42.7,BRONZE
+9320,2320,Men's 4 x 400m Relay,Great Britain,03:09.0,GOLD
+9321,2321,Men's 4 x 400m Relay,United States of America,03:11.0,SILVER
+9322,2322,Men's 4 x 400m Relay,Germany,03:11.8,BRONZE
+9323,2323,Men's 4 x 400m Relay,Canada,03:11.8,BRONZE
+9324,2324,Men's 4 x 400m Relay,Sweden,03:13.0,BRONZE
+9325,2325,Men's 4 x 400m Relay,Hungary,03:14.8,BRONZE
+9326,2326,Men's 4 x 100m Freestyle Relay,Netherlands,04:36.0,GOLD
+9327,2327,Men's 4 x 100m Freestyle Relay,Germany,04:36.8,SILVER
+9328,2328,Men's 4 x 100m Freestyle Relay,United States of America,04:40.2,BRONZE
+9329,2329,Men's 4 x 100m Freestyle Relay,Canada,04:48.0,BRONZE
+9330,2330,Men's 4 x 100m Freestyle Relay,Hungary,04:48.0,BRONZE
+9331,2331,Men's 4 x 100m Freestyle Relay,Great Britain,04:51.0,BRONZE
+9332,2332,Men's 4 x 100m Freestyle Relay,Denmark,04:51.4,BRONZE
+9333,2333,Men's 4 x 200m Freestyle Relay,Japan,08:51.5,GOLD
+9334,2334,Men's 4 x 200m Freestyle Relay,United States of America,09:03.0,SILVER
+9335,2335,Men's 4 x 200m Freestyle Relay,Hungary,09:12.3,BRONZE
+9336,2336,Men's 4 x 200m Freestyle Relay,France,09:18.2,BRONZE
+9337,2337,Men's 4 x 200m Freestyle Relay,Germany,09:19.0,BRONZE
+9338,2338,Men's 4 x 200m Freestyle Relay,Great Britain,09:21.5,BRONZE
+9339,2339,Men's 4 x 200m Freestyle Relay,Canada,09:27.5,BRONZE
+9340,2340,Men's 4 x 200m Freestyle Relay,Sweden,09:37.5,BRONZE
+9341,2341,Men's 4 x 200m Freestyle Relay,Poland,09:37.5,BRONZE
+9342,2342,Men's 4 x 200m Freestyle Relay,Chile,09:37.5,BRONZE
+9343,2343,Men's 4 x 200m Freestyle Relay,Peru,09:37.5,BRONZE
+9344,2344,Men's 4 x 400m Relay,United States of America,03:08.2,GOLD
+9345,2345,Men's 4 x 400m Relay,Great Britain,03:11.2,SILVER
+9346,2346,Men's 4 x 400m Relay,Canada,03:12.8,BRONZE
+9347,2347,Men's 4 x 400m Relay,Germany,03:14.4,BRONZE
+9348,2348,Men's 4 x 400m Relay,Japan,03:14.6,BRONZE
+9349,2349,Men's 4 x 400m Relay,Italy,03:17.8,BRONZE
+9350,2350,Men's 4 x 100m Relay,United States of America,00:40.0,GOLD
+9351,2351,Men's 4 x 100m Relay,Germany,00:40.9,SILVER
+9352,2352,Men's 4 x 100m Relay,Italy,00:41.2,BRONZE
+9353,2353,Men's 4 x 100m Relay,Canada,00:41.3,BRONZE
+9354,2354,Men's 4 x 100m Relay,Japan,00:41.3,BRONZE
+9355,2355,Men's 4 x 100m Relay,Great Britain,00:41.4,BRONZE
+9356,2356,Women's 4 x 100m Relay,United States of America,00:47.0,GOLD
+9357,2357,Women's 4 x 100m Relay,Canada,00:47.0,SILVER
+9358,2358,Women's 4 x 100m Relay,Great Britain,00:47.6,BRONZE
+9359,2359,Women's 4 x 100m Relay,Netherlands,00:47.7,BRONZE
+9360,2360,Women's 4 x 100m Relay,Japan,00:48.9,BRONZE
+9361,2361,Women's 4 x 100m Relay,Germany,00:50.0,BRONZE
+9362,2362,Men's 4 x 200m Freestyle Relay,Japan,08:58.4,GOLD
+9363,2363,Men's 4 x 200m Freestyle Relay,United States of America,09:10.5,SILVER
+9364,2364,Men's 4 x 200m Freestyle Relay,Hungary,09:31.4,BRONZE
+9365,2365,Men's 4 x 200m Freestyle Relay,Canada,09:36.3,BRONZE
+9366,2366,Men's 4 x 200m Freestyle Relay,Great Britain,09:45.8,BRONZE
+9367,2367,Men's 4 x 200m Freestyle Relay,Argentina,10:13.1,BRONZE
+9368,2368,Men's 4 x 200m Freestyle Relay,Brazil,10:36.5,BRONZE
+9369,2369,Men's 4 x 100m Freestyle Relay,United States of America,04:38.0,GOLD
+9370,2370,Men's 4 x 100m Freestyle Relay,Netherlands,04:47.5,SILVER
+9371,2371,Men's 4 x 100m Freestyle Relay,Great Britain,04:52.4,BRONZE
+9372,2372,Men's 4 x 100m Freestyle Relay,Canada,05:05.7,BRONZE
+9373,2373,Men's 4 x 100m Freestyle Relay,Japan,05:06.7,BRONZE
+9374,2374,Men's 4 x 100m Relay,United States of America,00:41.0,GOLD
+9375,2375,Men's 4 x 100m Relay,Germany,00:41.2,SILVER
+9376,2376,Men's 4 x 100m Relay,Great Britain,00:41.8,BRONZE
+9377,2377,Men's 4 x 100m Relay,France,00:42.0,BRONZE
+9378,2378,Men's 4 x 100m Relay,Switzerland,00:42.6,BRONZE
+9379,2379,Women's 4 x 100m Relay,Canada,00:48.4,GOLD
+9380,2380,Women's 4 x 100m Relay,United States of America,00:48.8,SILVER
+9381,2381,Women's 4 x 100m Relay,Germany,00:49.0,BRONZE
+9382,2382,Women's 4 x 100m Relay,France,00:49.6,BRONZE
+9383,2383,Women's 4 x 100m Relay,Netherlands,00:49.8,BRONZE
+9384,2384,Women's 4 x 100m Relay,Italy,00:53.6,BRONZE
+9385,2385,Men's 4 x 400m Relay,United States of America,03:14.2,GOLD
+9386,2386,Men's 4 x 400m Relay,Germany,03:14.8,SILVER
+9387,2387,Men's 4 x 400m Relay,Canada,03:15.4,BRONZE
+9388,2388,Men's 4 x 400m Relay,Sweden,03:15.8,BRONZE
+9389,2389,Men's 4 x 400m Relay,Great Britain,03:16.4,BRONZE
+9390,2390,Men's 4 x 400m Relay,France,03:19.4,BRONZE
+9391,2391,Men's 4 x 100m Freestyle Relay,United States of America,04:47.6,GOLD
+9392,2392,Men's 4 x 100m Freestyle Relay,Great Britain,05:02.8,SILVER
+9393,2393,Men's 4 x 100m Freestyle Relay,South Africa,05:13.4,BRONZE
+9394,2394,Men's 4 x 100m Freestyle Relay,Germany,05:14.4,BRONZE
+9395,2395,Men's 4 x 100m Freestyle Relay,France,05:32.0,BRONZE
+9396,2396,Men's 4 x 100m Freestyle Relay,Netherlands,05:32.0,BRONZE
+9397,2397,Men's 4 x 200m Freestyle Relay,United States of America,09:36.2,GOLD
+9398,2398,Men's 4 x 200m Freestyle Relay,Japan,09:41.4,SILVER
+9399,2399,Men's 4 x 200m Freestyle Relay,Canada,09:47.8,BRONZE
+9400,2400,Men's 4 x 200m Freestyle Relay,Hungary,09:57.0,BRONZE
+9401,2401,Men's 4 x 200m Freestyle Relay,Sweden,10:01.8,BRONZE
+9402,2402,Men's 4 x 200m Freestyle Relay,Great Britain,10:15.8,BRONZE
+9403,2403,Men's 4 x 200m Freestyle Relay,Spain,11:43.0,BRONZE
+9404,2404,Men's 4 x 200m Freestyle Relay,Germany,11:43.0,BRONZE
+9405,2405,Men's 4 x 200m Freestyle Relay,Italy,11:43.0,BRONZE
+9406,2406,Men's 4 x 200m Freestyle Relay,Chile,11:43.0,BRONZE
+9407,2407,Men's 4 x 200m Freestyle Relay,Ireland,11:43.0,BRONZE
+9408,2408,Men's 4 x 100m Relay,United States of America,00:41.0,GOLD
+9409,2409,Men's 4 x 100m Relay,Great Britain,00:41.2,SILVER
+9410,2410,Men's 4 x 100m Relay,Netherlands,00:41.8,BRONZE
+9411,2411,Men's 4 x 100m Relay,Hungary,00:42.0,BRONZE
+9412,2412,Men's 4 x 100m Relay,France,00:42.2,BRONZE
+9413,2413,Men's 4 x 400m Relay,United States of America,03:16.0,GOLD
+9414,2414,Men's 4 x 400m Relay,Sweden,03:17.0,SILVER
+9415,2415,Men's 4 x 400m Relay,Great Britain,03:17.4,BRONZE
+9416,2416,Men's 4 x 400m Relay,Canada,03:22.8,BRONZE
+9417,2417,Men's 4 x 400m Relay,France,03:23.4,BRONZE
+9418,2418,Men's 4 x 400m Relay,Italy,03:28.0,BRONZE
+9419,2419,Men's 4 x 100m Freestyle Relay,United States of America,04:58.8,GOLD
+9420,2420,Men's 4 x 100m Freestyle Relay,Great Britain,05:17.0,SILVER
+9421,2421,Men's 4 x 100m Freestyle Relay,Sweden,05:35.6,BRONZE
+9422,2422,Men's 4 x 100m Freestyle Relay,Denmark,05:42.4,BRONZE
+9423,2423,Men's 4 x 100m Freestyle Relay,France,05:43.4,BRONZE
+9424,2424,Men's 4 x 100m Freestyle Relay,Netherlands,05:45.8,BRONZE
+9425,2425,Men's 4 x 200m Freestyle Relay,United States of America,09:53.4,GOLD
+9426,2426,Men's 4 x 200m Freestyle Relay,Australia,10:02.2,SILVER
+9427,2427,Men's 4 x 200m Freestyle Relay,Sweden,10:06.8,BRONZE
+9428,2428,Men's 4 x 200m Freestyle Relay,Japan,10:16.2,BRONZE
+9429,2429,Men's 4 x 200m Freestyle Relay,Great Britain,10:19.4,BRONZE
+9430,2430,Men's 4 x 200m Freestyle Relay,Greece,10:19.4,BRONZE
+9431,2431,Men's 4 x 200m Freestyle Relay,Hungary,10:19.4,BRONZE
+9432,2432,Men's 4 x 100m Freestyle Relay,United States of America,05:11.6,GOLD
+9433,2433,Men's 4 x 100m Freestyle Relay,Great Britain,05:40.8,SILVER
+9434,2434,Men's 4 x 100m Freestyle Relay,Sweden,05:43.6,BRONZE
+9435,2435,Men's 4 x 200m Freestyle Relay,United States of America,10:04.4,GOLD
+9436,2436,Men's 4 x 200m Freestyle Relay,Australia,10:25.4,SILVER
+9437,2437,Men's 4 x 200m Freestyle Relay,Great Britain,10:37.2,BRONZE
+9438,2438,Men's 4 x 200m Freestyle Relay,Sweden,10:50.2,BRONZE
+9439,2439,Men's 4 x 200m Freestyle Relay,Italy,10:50.2,BRONZE
+9440,2440,Men's 4 x 100m Relay,United States of America,00:42.2,GOLD
+9441,2441,Men's 4 x 100m Relay,France,00:42.5,SILVER
+9442,2442,Men's 4 x 100m Relay,Sweden,00:42.8,BRONZE
+9443,2443,Men's 4 x 100m Relay,Great Britain,00:43.0,BRONZE
+9444,2444,Men's 4 x 100m Relay,Denmark,00:43.3,BRONZE
+9445,2445,Men's 4 x 100m Relay,Luxembourg,00:43.6,BRONZE
+9446,2446,Men's 4 x 400m Relay,Great Britain,03:22.2,GOLD
+9447,2447,Men's 4 x 400m Relay,South Africa,03:23.0,SILVER
+9448,2448,Men's 4 x 400m Relay,France,03:23.5,BRONZE
+9449,2449,Men's 4 x 400m Relay,United States of America,03:23.6,BRONZE
+9450,2450,Men's 4 x 400m Relay,Sweden,03:24.3,BRONZE
+9451,2451,Men's 4 x 400m Relay,Belgium,03:24.9,BRONZE
+9452,2452,Men's 4 x 400m Relay,United States of America,03:16.6,GOLD
+9453,2453,Men's 4 x 400m Relay,France,03:20.7,SILVER
+9454,2454,Men's 4 x 400m Relay,Great Britain,03:23.2,BRONZE
+9455,2455,Men's 4 x 100m Relay,Great Britain,00:42.4,GOLD
+9456,2456,Men's 4 x 100m Relay,Sweden,00:42.6,SILVER
+9457,2457,Men's 4 x 100m Freestyle Relay,Great Britain,05:52.8,GOLD
+9458,2458,Men's 4 x 100m Freestyle Relay,Germany,06:04.6,SILVER
+9459,2459,Men's 4 x 100m Freestyle Relay,Austria,06:17.0,BRONZE
+9460,2460,Men's 4 x 100m Freestyle Relay,Sweden,06:17.0,BRONZE
+9461,2461,Men's 4 x 200m Freestyle Relay,Australasia,03:08.8,GOLD
+9462,2462,Men's 4 x 200m Freestyle Relay,United States of America,03:08.8,SILVER
+9463,2463,Men's 4 x 200m Freestyle Relay,Great Britain,03:08.8,BRONZE
+9464,2464,Men's 4 x 200m Freestyle Relay,Germany,03:08.8,BRONZE
+9465,2465,Men's 4 x 200m Freestyle Relay,Great Britain,10:55.6,GOLD
+9466,2466,Men's 4 x 200m Freestyle Relay,Hungary,10:59.0,SILVER
+9467,2467,Men's 4 x 200m Freestyle Relay,United States of America,11:02.8,BRONZE
+9468,2468,Men's 4 x 200m Freestyle Relay,Australasia,11:14.0,BRONZE
+9469,2469,Men's 4 x 200m Freestyle Relay,Belgium,11:14.0,BRONZE
+9470,2470,Men's 4 x 200m Freestyle Relay,Italy,11:14.0,BRONZE
+9471,2471,Men's 4 x 200m Freestyle Relay,Netherlands,11:14.0,BRONZE
